@@ -72,8 +72,15 @@ Each student directory contains:
 - Quick access to individual student data
 
 ### Student Details
-Comprehensive view with multiple tabs:
+Comprehensive view with multiple tabs and seamless navigation:
 
+**📍 Navigation Features:**
+- **Previous/Next buttons**: Navigate between students without closing the modal
+- **Keyboard shortcuts**: Use left/right arrow keys for quick navigation
+- **Student counter**: Shows current position (e.g., "5 of 100")
+- **Smooth transitions**: Fast loading with real-time data updates
+
+**📑 Content Tabs:**
 1. **📊 Overview**: Quick summary with visual previews
 2. **🖼️ Visual Work**: Student drawings and concept maps
 3. **📈 Performance**: What students can/cannot do

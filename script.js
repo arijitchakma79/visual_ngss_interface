@@ -1,6 +1,8 @@
 // Global variables
 let currentTopic = '';
 let topicData = {};
+let currentStudentId = null;
+let availableStudents = [];
 
 // Topic configurations
 const topicConfigs = {
@@ -142,6 +144,12 @@ function showStudentBrowser() {
     
     // Generate student cards
     setTimeout(() => {
+        // Populate available students array
+        availableStudents = [];
+        for (let i = config.studentRange[0]; i <= config.studentRange[1]; i++) {
+            availableStudents.push(i);
+        }
+        
         let studentsHTML = '';
         for (let i = config.studentRange[0]; i <= config.studentRange[1]; i++) {
             // Generate level between 1-3 for demonstration
@@ -165,6 +173,9 @@ async function loadStudentDetails(studentId) {
     
     const modal = document.getElementById('detailsModal');
     const detailsContainer = document.getElementById('studentDetails');
+    
+    // Set current student ID for navigation
+    currentStudentId = studentId;
     
     detailsContainer.innerHTML = '<div class="loading">Loading student data...</div>';
     modal.style.display = 'block';
@@ -303,15 +314,51 @@ function displayRealStudentDetails(studentId, config, studentData, basePath) {
     const level = performance.Level || 'Unknown';
     const levelDesc = performance['Level Description'] || 'Not available';
     
+    // Get navigation info
+    const currentIndex = availableStudents.indexOf(studentId);
+    const hasPrevious = currentIndex > 0;
+    const hasNext = currentIndex < availableStudents.length - 1;
+    const previousStudentId = hasPrevious ? availableStudents[currentIndex - 1] : null;
+    const nextStudentId = hasNext ? availableStudents[currentIndex + 1] : null;
+    
     detailsContainer.innerHTML = `
         <div class="student-details">
             <div class="detail-header">
-                <h2>Student ${studentId}</h2>
+                <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+                    <button onclick="navigateToStudent(${previousStudentId})" 
+                            class="nav-button"
+                            ${!hasPrevious ? 'disabled' : ''}
+                            title="Previous student (or use left arrow key)">
+                        <span style="font-size: 16px;">←</span> Previous
+                    </button>
+                    
+                    <div style="text-align: center;">
+                        <h2 style="margin: 0;">Student ${studentId}</h2>
+                        <div style="font-size: 0.9em; color: rgba(255,255,255,0.8); margin-top: 5px;">
+                            ${currentIndex + 1} of ${availableStudents.length}
+                        </div>
+                    </div>
+                    
+                    <button onclick="navigateToStudent(${nextStudentId})" 
+                            class="nav-button"
+                            ${!hasNext ? 'disabled' : ''}
+                            title="Next student (or use right arrow key)">
+                        Next <span style="font-size: 16px;">→</span>
+                    </button>
+                </div>
+                
                 <p>${studentInfo.Topic || config.description}</p>
                 <div style="margin-top: 15px;">
                     <strong>NGSS Code:</strong> ${studentInfo['NGSS Code'] || config.ngss_code} | 
                     <strong>Grade:</strong> ${studentInfo.Grade || config.grade} | 
                     <strong>Level:</strong> ${level} - ${levelDesc}
+                </div>
+                
+                <div style="background: linear-gradient(135deg, #e6f3ff 0%, #bae6fd 100%); 
+                            padding: 15px; border-radius: 10px; margin-top: 15px; 
+                            border-left: 4px solid #0284c7; font-size: 0.9em;">
+                    <strong style="color: #0c4a6e;">💡 Navigation Tip:</strong> 
+                    <span style="color: #0c4a6e;">Use the Previous/Next buttons above or your keyboard arrow keys (← →) to navigate between students!</span>
                 </div>
             </div>
             
@@ -589,6 +636,40 @@ function showTab(tabName) {
     event.target.classList.add('active');
 }
 
+// Navigation function for Previous/Next buttons
+async function navigateToStudent(studentId) {
+    if (!studentId || !availableStudents.includes(studentId)) {
+        return;
+    }
+    
+    const detailsContainer = document.getElementById('studentDetails');
+    detailsContainer.innerHTML = '<div class="loading">Loading student data...</div>';
+    
+    // Update current student ID
+    currentStudentId = studentId;
+    
+    try {
+        // Load real student data files
+        const basePath = `data/${currentTopic}/student_${studentId}`;
+        const config = topicConfigs[currentTopic];
+        
+        // Load actual JSON files
+        const studentData = await loadRealStudentData(basePath);
+        displayRealStudentDetails(studentId, config, studentData, basePath);
+        
+    } catch (error) {
+        console.error('Error loading student data:', error);
+        detailsContainer.innerHTML = `
+            <div style="text-align: center; color: #e53e3e; padding: 40px;">
+                <h3>⚠️ Error Loading Student Data</h3>
+                <p>Could not load data for Student ${studentId}. Please try again.</p>
+                <p style="font-size: 0.9em; color: #666; margin-top: 10px;">Error: ${error.message}</p>
+                <button onclick="closeDetailsModal()" style="margin-top: 20px; padding: 10px 20px; background: #667eea; color: white; border: none; border-radius: 5px; cursor: pointer;">Close</button>
+            </div>
+        `;
+    }
+}
+
 // Modal control functions
 function closeStudentModal() {
     document.getElementById('studentModal').style.display = 'none';
@@ -596,6 +677,7 @@ function closeStudentModal() {
 
 function closeDetailsModal() {
     document.getElementById('detailsModal').style.display = 'none';
+    currentStudentId = null;
 }
 
 // Close modals when clicking outside
@@ -814,5 +896,23 @@ document.addEventListener('keydown', function(event) {
     if (event.key === 'Escape') {
         closeStudentModal();
         closeDetailsModal();
+        return;
+    }
+    
+    // Arrow key navigation when student details modal is open
+    if (currentStudentId && document.getElementById('detailsModal').style.display === 'block') {
+        const currentIndex = availableStudents.indexOf(currentStudentId);
+        
+        if (event.key === 'ArrowLeft' && currentIndex > 0) {
+            // Previous student
+            const previousStudentId = availableStudents[currentIndex - 1];
+            navigateToStudent(previousStudentId);
+            event.preventDefault();
+        } else if (event.key === 'ArrowRight' && currentIndex < availableStudents.length - 1) {
+            // Next student
+            const nextStudentId = availableStudents[currentIndex + 1];
+            navigateToStudent(nextStudentId);
+            event.preventDefault();
+        }
     }
 }); 
