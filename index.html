@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visual NGSS Interface - Student Data Explorer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎓 Visual NGSS Interface</h1>
+            <p>Explore student concept maps, drawings, and performance data</p>
+        </header>
+
+        <nav class="topic-nav">
+            <h2>📚 Topics</h2>
+            <select id="topicSelect" onchange="loadTopic()" aria-label="Select topic to explore">
+                <option value="">Select a topic...</option>
+                <option value="Draw_a_string_telephone_between_two_students">Draw_a_string_telephone_between_two_students (Students 201-300)</option>
+                <option value="Draw_animals_in_their_habitats_with_labels_eg_fish_in_water">Draw_animals_in_their_habitats_with_labels_eg_fish_in_water(Students 1-100)</option>
+                <option value="Draw_reversible_and_irreversible_changes_ice_melting_vs_egg_cooking">Draw_reversible_and_irreversible_changes_ice_melting_vs_egg_cooking (Students 301-400)</option>
+                <option value="Draw_two_habitats_and_the_different_living_things_in_each">Draw_two_habitats_and_the_different_living_things_in_each (Students 401-500)</option>
+                <option value="Illustrate_plants_with_and_without_water_and_light">Illustrate_plants_with_and_without_water_and_light (Students 101-200)</option>
+
+            </select>
+        </nav>
+
+        <div id="content" class="content">
+            <div class="welcome-message">
+                <h2>🚀 Welcome to the Visual NGSS Interface</h2>
+                <p>Select a topic above to begin exploring student work.</p>
+                <div class="features">
+                    <div class="feature">
+                        <span class="icon">🖼️</span>
+                        <h3>Student Drawings</h3>
+                        <p>View original student artwork and drawings</p>
+                    </div>
+                    <div class="feature">
+                        <span class="icon">🗺️</span>
+                        <h3>Concept Maps</h3>
+                        <p>Interactive concept maps showing student understanding</p>
+                    </div>
+                    <div class="feature">
+                        <span class="icon">📊</span>
+                        <h3>Performance Data</h3>
+                        <p>Detailed analysis of student capabilities and areas for improvement</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Student Navigation Modal -->
+    <div id="studentModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeStudentModal()">&times;</span>
+            <h2>Select a Student</h2>
+            <div id="studentGrid" class="student-grid"></div>
+        </div>
+    </div>
+
+    <!-- Student Details Modal -->
+    <div id="detailsModal" class="modal">
+        <div class="modal-content large">
+            <span class="close" onclick="closeDetailsModal()">&times;</span>
+            <div id="studentDetails"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 
