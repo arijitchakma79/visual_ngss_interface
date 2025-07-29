@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can accurately draw a variety of animals and plants, including humans, and place them in appropriate habitats.",
+    "The student can effectively depict habitats with detailed elements such as water bodies for fish, forests for deer, and urban environments for humans.",
+    "The student can label essential resources like water, air, and food as they relate to different plants and animals.",
+    "The student can clearly show the relationship between animals and their environments, including specific dependencies like fish needing water or birds requiring trees for nesting.",
+    "The student can identify and label components of natural systems, demonstrating an understanding of how living things interact with their habitats and the resources they provide."
+  ],
+  "CANNOT": [
+    "May occasionally miss labeling a minor resource or relationship detail due to oversight (e.g., forgetting to label the air that birds need).",
+    "In rare cases, might not fully label all components of a complex ecosystem, such as the interactions between multiple animals, due to complexity in detail."
+  ]
+}

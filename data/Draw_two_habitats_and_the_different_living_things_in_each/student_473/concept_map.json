@@ -1,0 +1,72 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw two habitats and the different living things in each",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Land habitat with tree, bushes, grass",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Water habitat with waves, fish, reeds",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Identified land features: tree, bushes, grass",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n5",
+      "label": "Identified water features: waves, fish, reeds",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n6",
+      "label": "Inconsistent labeling of smaller organisms",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n7",
+      "label": "Work on identifying and labeling smaller habitat elements like ants and clams",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n2",
+      "n4"
+    ],
+    [
+      "n3",
+      "n5"
+    ],
+    [
+      "n2",
+      "n6"
+    ],
+    [
+      "n6",
+      "n7"
+    ]
+  ]
+}

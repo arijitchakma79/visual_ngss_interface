@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "Draw different animals and plants, including humans, with distinguishable features.",
+    "Show and label various habitats like forests, oceans, and deserts, and indicate where the animals reside (e.g., fish in water, birds in trees).",
+    "Include labels that identify necessary resources for survival such as water sources, sunlight, and air for each habitat.",
+    "Represent simple relationships between animals and their environments, like an arrow pointing from a deer to a nearby stream to indicate its need for water."
+  ],
+  "CANNOT": [
+    "Occasionally misses labeling some resources (e.g., forgets to label sunlight) or misplaces labels on the drawing.",
+    "May not fully capture the complexity of systems (e.g., draws isolated animals without showing interaction within the ecosystem)."
+  ]
+}

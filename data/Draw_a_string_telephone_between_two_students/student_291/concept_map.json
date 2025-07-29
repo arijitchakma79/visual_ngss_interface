@@ -1,0 +1,122 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw a string telephone between two students.",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Two students standing far apart",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Taut string connecting the cups",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Dashed lines around the string (sound waves)",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Labels: cups and string",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Neat, detailed drawing with colors",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Communicates over distance effectively",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n8",
+      "label": "Demonstrates sound transmission",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n9",
+      "label": "Shows use of sound, not light",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Representation of accurate materials",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "Forgets a minor label",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n12",
+      "label": "Ensure all labels are included.",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n1",
+      "n5"
+    ],
+    [
+      "n1",
+      "n6"
+    ],
+    [
+      "n2",
+      "n7"
+    ],
+    [
+      "n3",
+      "n8"
+    ],
+    [
+      "n4",
+      "n9"
+    ],
+    [
+      "n5",
+      "n10"
+    ],
+    [
+      "n5",
+      "n11"
+    ],
+    [
+      "n11",
+      "n12"
+    ]
+  ]
+}

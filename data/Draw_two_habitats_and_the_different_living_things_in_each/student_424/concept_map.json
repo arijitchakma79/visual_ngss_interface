@@ -1,0 +1,92 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw two habitats and the different living things in each",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Land Habitat: Tree, Bird, Dog",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Water Habitat: Fish, Dolphin, Cat, Tree",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Identifies tree in both habitats",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n5",
+      "label": "Correct placement of water animals",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n6",
+      "label": "Misplacement of land animal (cat) in water",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n7",
+      "label": "Reuse of trees in both habitats shows confusion",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n8",
+      "label": "Ensure animals are habitat-specific: Cats belong on land",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n9",
+      "label": "Clarify habitat distinction with different plants/animals",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n2",
+      "n4"
+    ],
+    [
+      "n3",
+      "n5"
+    ],
+    [
+      "n3",
+      "n6"
+    ],
+    [
+      "n3",
+      "n7"
+    ],
+    [
+      "n6",
+      "n8"
+    ],
+    [
+      "n7",
+      "n9"
+    ]
+  ]
+}

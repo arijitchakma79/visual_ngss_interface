@@ -1,0 +1,100 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw animals in their habitats with labels (e.g., fish in water).",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Large pond with fish",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Tall tree with birds",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Fish in water",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n5",
+      "label": "Birds in tree",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n6",
+      "label": "Soil with flowers in sunny spot",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Plants in sunlight",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n8",
+      "label": "Missing air label",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n9",
+      "label": "Remember to label air for both plants and animals",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n6"
+    ],
+    [
+      "n2",
+      "n4"
+    ],
+    [
+      "n3",
+      "n5"
+    ],
+    [
+      "n6",
+      "n7"
+    ],
+    [
+      "n2",
+      "n8"
+    ],
+    [
+      "n3",
+      "n8"
+    ],
+    [
+      "n6",
+      "n8"
+    ],
+    [
+      "n8",
+      "n9"
+    ]
+  ]
+}

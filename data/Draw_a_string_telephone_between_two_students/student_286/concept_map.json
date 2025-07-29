@@ -1,0 +1,92 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw a string telephone between two students.",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Two students are depicted.",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "String telephone shown with cups and string.",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Arrows/dotted lines represent sound waves.",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Students are gesturing to communicate.",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Student understands students can communicate over a distance.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n7",
+      "label": "Correct representation of string telephone.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n8",
+      "label": "Understands sound travels through string.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n9",
+      "label": "Accurately depicts communication through gestures.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n1",
+      "n5"
+    ],
+    [
+      "n2",
+      "n6"
+    ],
+    [
+      "n3",
+      "n7"
+    ],
+    [
+      "n4",
+      "n8"
+    ],
+    [
+      "n5",
+      "n9"
+    ]
+  ]
+}

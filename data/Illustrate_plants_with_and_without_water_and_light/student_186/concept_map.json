@@ -1,0 +1,66 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Illustrate plants with and without water and light",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Healthy plant with sunlight and water",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Plant without water, under same blue sky",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Plant without light, under cloudy sky",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Plants need water to live and grow",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n6",
+      "label": "Plants need light to live and grow",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n2",
+      "n5"
+    ],
+    [
+      "n3",
+      "n5"
+    ],
+    [
+      "n4",
+      "n6"
+    ]
+  ]
+}

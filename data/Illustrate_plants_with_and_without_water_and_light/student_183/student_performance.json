@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "Draws a healthy plant with vibrant green leaves to show it is getting enough water and light.",
+    "Draws a wilted plant with brown leaves and drooping stems to represent lack of water.",
+    "Illustrates a plant in light with robust growth compared to another plant in darkness with stunted growth.",
+    "Clearly distinguishes between well-watered and non-watered plants by depicting distinct soil textures and plant conditions.",
+    "Illustrates and explains patterns in how plants need both water and light to grow, possibly showing a sequence of plant growth stages under different conditions."
+  ],
+  "CANNOT": [
+    "Occasionally forgets to label all parts of the plant diagrams (minor oversight).",
+    "Might omit a few small details like root health differences, but generally captures the main concepts."
+  ]
+}

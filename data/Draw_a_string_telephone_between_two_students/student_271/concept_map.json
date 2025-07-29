@@ -1,0 +1,116 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw a string telephone between two students.",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Two stick figure students",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Cups held to ear/mouth",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Red line connecting cups",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Wavy arrows on the string",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Sound travels through vibrating string",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Represents communication between distant people",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n8",
+      "label": "Illustrates use of string telephone",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n9",
+      "label": "Depicts sound travel between cups",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Shows how sound can send information",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "Explains communication problem resolution",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n1",
+      "n5"
+    ],
+    [
+      "n1",
+      "n6"
+    ],
+    [
+      "n2",
+      "n7"
+    ],
+    [
+      "n3",
+      "n8"
+    ],
+    [
+      "n4",
+      "n9"
+    ],
+    [
+      "n5",
+      "n9"
+    ],
+    [
+      "n6",
+      "n10"
+    ],
+    [
+      "n6",
+      "n11"
+    ]
+  ]
+}

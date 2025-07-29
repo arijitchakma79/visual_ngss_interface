@@ -1,0 +1,132 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw animals in their habitats with labels (e.g., fish in water)",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Fish in blue pond labeled 'water'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Deer in green forest with trees, one tree not labeled",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Bird flying in bright blue sky labeled 'sky'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Sun shining above with arrows",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Arrow from grass to deer labeled 'food'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Arrow from sun to trees labeled 'sunlight'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n8",
+      "label": "Understands fish need water to live",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n9",
+      "label": "Understands deer live in forests and eat grass/trees",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Understands birds fly in the sky",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "Illustrates sun provides sunlight for trees",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n12",
+      "label": "Misses labeling of one tree as part of habitat",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n13",
+      "label": "Ensure all trees in forest are labeled to show habitat features",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n1",
+      "n5"
+    ],
+    [
+      "n1",
+      "n6"
+    ],
+    [
+      "n1",
+      "n7"
+    ],
+    [
+      "n2",
+      "n8"
+    ],
+    [
+      "n3",
+      "n9"
+    ],
+    [
+      "n4",
+      "n10"
+    ],
+    [
+      "n7",
+      "n11"
+    ],
+    [
+      "n3",
+      "n12"
+    ],
+    [
+      "n12",
+      "n13"
+    ]
+  ]
+}

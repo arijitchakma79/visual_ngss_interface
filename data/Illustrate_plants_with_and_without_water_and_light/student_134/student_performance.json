@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a basic representation of a plant that is receiving water and light, showing it with some signs of growth but might miss details or accuracy in depicting health, like fully opened flowers or vibrant leaves.",
+    "The student can draw a plant without water and may attempt to show it wilting, but the signs of wilting might be simplistic or incorrect (e.g., just a drooping stem without leaf changes).",
+    "The student can draw a plant without light and include some indication of underdevelopment, such as a smaller or bent plant, but may not accurately depict the effects of light absence with details like yellowing leaves."
+  ],
+  "CANNOT": [
+    "The student is unlikely to accurately illustrate all detailed differences between plants with and without adequate light or water (e.g., they might not show differences in leaf color or size) *(missing detailed differences)*.",
+    "The student might not consistently label patterns in their drawing that indicate lack of water or light, such as the difference in the plant's height or leaf appearance between scenarios *(incomplete labeling of patterns)*.",
+    "The student is unlikely to effectively use the drawing to clearly communicate the concept that plants need both water and light to thrive, possibly omitting cause-and-effect relationships or failing to make this connection explicit *(incomplete understanding of cause-effect)*."
+  ]
+}

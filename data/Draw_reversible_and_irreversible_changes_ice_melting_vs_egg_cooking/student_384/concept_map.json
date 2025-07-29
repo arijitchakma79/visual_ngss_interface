@@ -1,0 +1,62 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Ice - Solid, Water - Liquid with reversible arrows",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Egg - Raw, Egg - Cooked with irreversible arrow",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Correct illustration of reversible change",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n5",
+      "label": "Correct illustration of irreversible change",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n6",
+      "label": "Consider adding temperature details for clarity",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n2",
+      "n4"
+    ],
+    [
+      "n3",
+      "n5"
+    ],
+    [
+      "n3",
+      "n6"
+    ]
+  ]
+}

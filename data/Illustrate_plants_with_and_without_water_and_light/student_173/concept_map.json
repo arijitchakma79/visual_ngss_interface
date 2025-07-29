@@ -1,0 +1,82 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Illustrate plants with and without water and light.",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Healthy, vibrant green plant with small flower",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Plant with wilting, dull green leaves",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Plant with yellow and brown leaves",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Correctly identifies healthy plant with enough water and light",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n6",
+      "label": "Understands wilting due to lack of water",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n7",
+      "label": "Incomplete distinction between lack of light and water",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n8",
+      "label": "Use more specific differences between symptoms of light and water deficiency",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n2",
+      "n5"
+    ],
+    [
+      "n3",
+      "n6"
+    ],
+    [
+      "n4",
+      "n7"
+    ],
+    [
+      "n7",
+      "n8"
+    ]
+  ]
+}

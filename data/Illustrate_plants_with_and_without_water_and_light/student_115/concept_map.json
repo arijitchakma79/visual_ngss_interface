@@ -1,0 +1,96 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Illustrate plants with and without water and light",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Two identical plants drawn",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Glass of water next to one plant",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Sun above one plant, cloud above the other",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Understands basic plant features",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n6",
+      "label": "Misunderstanding: Plant needs aren't affecting growth",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n7",
+      "label": "Misunderstanding: Sun and clouds don't affect plant differently",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n8",
+      "label": "Teach that presence of water and light change plant's appearance",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n9",
+      "label": "Explain impact of sun/cloud on plant growth",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n2",
+      "n5"
+    ],
+    [
+      "n2",
+      "n6"
+    ],
+    [
+      "n3",
+      "n6"
+    ],
+    [
+      "n4",
+      "n7"
+    ],
+    [
+      "n6",
+      "n8"
+    ],
+    [
+      "n7",
+      "n9"
+    ]
+  ]
+}

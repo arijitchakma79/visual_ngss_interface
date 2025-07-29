@@ -1,0 +1,112 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw a string telephone between two students.",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Two children standing on grass at a distance",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Child with blue plastic cup to mouth; other with red plastic cup to ear",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Long, slightly slack string connects the cups",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Children are smiling, showing they are trying to communicate",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Represents children needing to communicate over distance",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n7",
+      "label": "Depicts a device that uses sound for communication (string telephone)",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n8",
+      "label": "Device functions over a distance between two people",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n9",
+      "label": "String appears slack; may not correctly represent sound transmission",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n10",
+      "label": "Slack string doesn't convey idea of tautness needed for sound travel",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n11",
+      "label": "Illustration suggests using such a device makes communication easier",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n1",
+      "n5"
+    ],
+    [
+      "n2",
+      "n6"
+    ],
+    [
+      "n3",
+      "n7"
+    ],
+    [
+      "n4",
+      "n8"
+    ],
+    [
+      "n4",
+      "n9"
+    ],
+    [
+      "n5",
+      "n11"
+    ],
+    [
+      "n9",
+      "n10"
+    ]
+  ]
+}

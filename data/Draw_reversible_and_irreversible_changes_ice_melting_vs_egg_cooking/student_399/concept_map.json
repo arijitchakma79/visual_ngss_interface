@@ -1,0 +1,102 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Detailed drawing with two main panels",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Ice melting to water and refreezing",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Raw egg transforming to scrambled egg",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Chocolate melting and resolidifying",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Ice can melt and freeze back (reversible)",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n7",
+      "label": "Egg changes texture when cooked (irreversible)",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n8",
+      "label": "Chocolate changes state with heat",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n9",
+      "label": "Missing minor details in textures",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n10",
+      "label": "Consider adding more texture detail to improve clarity",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n2",
+      "n3"
+    ],
+    [
+      "n2",
+      "n4"
+    ],
+    [
+      "n2",
+      "n5"
+    ],
+    [
+      "n3",
+      "n6"
+    ],
+    [
+      "n4",
+      "n7"
+    ],
+    [
+      "n5",
+      "n8"
+    ],
+    [
+      "n3",
+      "n9"
+    ],
+    [
+      "n9",
+      "n10"
+    ]
+  ]
+}

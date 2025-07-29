@@ -1,0 +1,142 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Large round shape representing ice",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Oval shape representing a raw egg",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Understanding ice as solid",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n5",
+      "label": "Difficulty showing ice melting",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n6",
+      "label": "Difficulty showing reversible freezing",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n7",
+      "label": "Understanding raw egg state",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n8",
+      "label": "Difficulty depicting cooking process",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n9",
+      "label": "Incomplete understanding of irreversibility",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n10",
+      "label": "Use arrows to show process transitions",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n11",
+      "label": "Include water to show ice melting",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n12",
+      "label": "Label and annotate drawings",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n13",
+      "label": "Demonstrate cooking using color change",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n14",
+      "label": "Explain irreversibility of the cooked egg",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n2",
+      "n4"
+    ],
+    [
+      "n2",
+      "n5"
+    ],
+    [
+      "n2",
+      "n6"
+    ],
+    [
+      "n3",
+      "n7"
+    ],
+    [
+      "n3",
+      "n8"
+    ],
+    [
+      "n3",
+      "n9"
+    ],
+    [
+      "n5",
+      "n10"
+    ],
+    [
+      "n5",
+      "n11"
+    ],
+    [
+      "n5",
+      "n12"
+    ],
+    [
+      "n8",
+      "n13"
+    ],
+    [
+      "n9",
+      "n14"
+    ]
+  ]
+}

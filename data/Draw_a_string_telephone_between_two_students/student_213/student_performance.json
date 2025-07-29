@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw two figures that might represent students holding something vaguely resembling a string telephone (e.g., cups with a line between them, but not necessarily tight or clear).",
+    "Show two cups connected by a line, indicating an attempt to show the idea of connection or communication (though possibly unclear how this works)."
+  ],
+  "CANNOT": [
+    "Illustrate the path the sound takes through the string and cups with accuracy (e.g., might not draw arrows or show sound path).",
+    "Show that the string is tight between the cups (might draw a loose or wavy line).",
+    "Depict how the cup acts as a receiver and transmitter of sound (may show cups without any indication of their function).",
+    "Include clear details showing how the string telephone allows communication over a distance (might not understand or show distance as a factor).",
+    "Indicate that technology is used to solve the problem of long-distance communication (likely does not connect the drawing to the concept of technology or problem-solving)."
+  ]
+}

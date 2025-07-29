@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements).",
+  "CAN": [
+    "The student can accurately show in their drawing that plants need water to live and grow, with illustrations of water sources like rain or a watering can.",
+    "The student can accurately illustrate that plants require light to live and grow, possibly showing sunlight or a lamp providing light to the plants.",
+    "The student can correctly illustrate the effects on a plant without water, showing a wilting or drooping plant to indicate dehydration.",
+    "The student can effectively illustrate the impact on a plant without light, displaying a plant that is pale or withered to signify lack of sunlight.",
+    "The student can clearly identify and represent patterns indicating that plants with both water and light appear vibrant and healthy, perhaps with green leaves and upright stems."
+  ],
+  "CANNOT": [
+    "The student may occasionally omit labels for some parts of the drawing, though this does not detract from the overall accuracy of the illustration.",
+    "The student might neglect to show intermediate stages of plant deterioration from lack of water or light, focusing primarily on the end result (e.g., fully wilted plant) rather than gradual changes."
+  ]
+}

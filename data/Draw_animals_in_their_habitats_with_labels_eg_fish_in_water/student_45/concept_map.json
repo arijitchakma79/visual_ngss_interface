@@ -1,0 +1,106 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw animals in their habitats with labels (e.g., fish in water).",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Fish with basic lines for fins floating in the sky",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Stick figure animal with round body in grass, no habitat features",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Able to draw basic shapes of animals",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n5",
+      "label": "Misplacement of animal in incorrect habitat (fish in sky)",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n6",
+      "label": "Vague labeling: 'animal' instead of 'fish'",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n7",
+      "label": "Insufficient details of the habitat features (lack of water, trees)",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n8",
+      "label": "Use specific labels for each animal, e.g., 'fish' instead of 'animal'",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n9",
+      "label": "Place animals in appropriate habitats, e.g., fish in water",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n10",
+      "label": "Add habitat-specific details like water for fishes, trees for birds",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n2",
+      "n4"
+    ],
+    [
+      "n2",
+      "n5"
+    ],
+    [
+      "n2",
+      "n6"
+    ],
+    [
+      "n3",
+      "n4"
+    ],
+    [
+      "n3",
+      "n7"
+    ],
+    [
+      "n5",
+      "n9"
+    ],
+    [
+      "n6",
+      "n8"
+    ],
+    [
+      "n7",
+      "n10"
+    ]
+  ]
+}

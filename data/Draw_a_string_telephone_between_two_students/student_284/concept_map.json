@@ -1,0 +1,130 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw a string telephone between two students.",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Colorful and detailed drawing",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Two children using string telephone",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Plastic cup and Tin cup, connected by string",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Labels: plastic cup, tin cup, string, sound waves",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Annotations describe communication and its importance",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Shows string telephone as a communication device",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n8",
+      "label": "Depicts sound waves from one cup to another",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n9",
+      "label": "Sound wave directionally inaccurate",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n10",
+      "label": "Minor inaccuracies in wave patterns",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n11",
+      "label": "Offer guidance on sound wave directionality",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n12",
+      "label": "Explain proper wave pattern in medium",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n1",
+      "n5"
+    ],
+    [
+      "n1",
+      "n6"
+    ],
+    [
+      "n2",
+      "n7"
+    ],
+    [
+      "n3",
+      "n7"
+    ],
+    [
+      "n4",
+      "n7"
+    ],
+    [
+      "n5",
+      "n8"
+    ],
+    [
+      "n5",
+      "n9"
+    ],
+    [
+      "n5",
+      "n10"
+    ],
+    [
+      "n9",
+      "n11"
+    ],
+    [
+      "n10",
+      "n12"
+    ]
+  ]
+}

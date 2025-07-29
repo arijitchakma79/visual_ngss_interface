@@ -1,0 +1,152 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw animals in their habitats with labels (e.g., fish in water).",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "A big blue circle labeled 'fish'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Green wavy lines for water",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "A purple tall rectangle labeled 'tree'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "An orange circle representing the sun",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "A red stick-figure human above the fish and tree",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Fish being in water",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n8",
+      "label": "Water incorrectly colored green",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n9",
+      "label": "Tree in habitat (incorrect placement)",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n10",
+      "label": "Sun colored orange",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "Humans float above nature",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n12",
+      "label": "Provide more context on fish living in water",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n13",
+      "label": "Use blue for water",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n14",
+      "label": "Explain how trees grow from the ground",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n15",
+      "label": "Explain human interaction with nature",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n1",
+      "n5"
+    ],
+    [
+      "n1",
+      "n6"
+    ],
+    [
+      "n2",
+      "n7"
+    ],
+    [
+      "n3",
+      "n8"
+    ],
+    [
+      "n4",
+      "n9"
+    ],
+    [
+      "n5",
+      "n10"
+    ],
+    [
+      "n6",
+      "n11"
+    ],
+    [
+      "n7",
+      "n12"
+    ],
+    [
+      "n8",
+      "n13"
+    ],
+    [
+      "n9",
+      "n14"
+    ],
+    [
+      "n11",
+      "n15"
+    ]
+  ]
+}

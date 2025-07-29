@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may draw a simple plant shape with no specific detail or features (indicating minimal recognition of a plant).",
+    "The student might attempt to use a single color for the plant (like green) but without understanding what it represents."
+  ],
+  "CANNOT": [
+    "The student is unlikely to show plants differentiated by conditions of light or water, such as wilted or pale leaves (student doesn’t connect appearance with conditions).",
+    "The student may not draw any elements like raindrops or sunlight (lacks understanding that these elements relate to plant growth).",
+    "The student may not represent any environmental context like sunlight or rain (does not recognize external factors influencing plant growth).",
+    "The student might misdraw a plant, such as depicting it with an unusual or incorrect shape (e.g., a tree instead of a flowering plant, or a completely unrelated object misrepresented as a plant)."
+  ]
+}

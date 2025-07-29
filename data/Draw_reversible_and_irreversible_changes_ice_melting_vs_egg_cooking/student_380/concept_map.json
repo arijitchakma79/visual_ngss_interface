@@ -1,0 +1,102 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Solid, angular ice cube in icy blue with arrow to water",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Smooth, oval raw egg with a textured shell with arrow to cooked egg",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Reflective puddle of water in light blue with reverse arrow to ice cube",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Solid, textured cooked egg in white and yellow",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Reversible change represented (ice cube to water and back)",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n7",
+      "label": "Irreversible change represented (raw egg to cooked egg)",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n8",
+      "label": "Cause and effect shown with arrows and labels for heating/cooling",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n1",
+      "n5"
+    ],
+    [
+      "n2",
+      "n6"
+    ],
+    [
+      "n3",
+      "n7"
+    ],
+    [
+      "n4",
+      "n6"
+    ],
+    [
+      "n5",
+      "n7"
+    ],
+    [
+      "n2",
+      "n8"
+    ],
+    [
+      "n3",
+      "n8"
+    ],
+    [
+      "n4",
+      "n8"
+    ],
+    [
+      "n5",
+      "n8"
+    ]
+  ]
+}

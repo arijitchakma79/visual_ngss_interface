@@ -1,0 +1,18 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a healthy, thriving plant with visible elements like green leaves and possibly flowers, indicating plenty of water and light.",
+    "The student can draw a wilting or dried-out plant with drooping leaves to represent lack of water.",
+    "The student can draw a plant with pale or yellowing leaves to show the effects of insufficient light.",
+    "The student can show some distinction between healthy and unhealthy plants, potentially with scribbles or labels indicating differences in water and light availability.",
+    "The student can use these drawings to partially explain why the healthy plant has what it needs to grow, though explanations may rely on simplistic terms or be slightly incomplete."
+  ],
+  "CANNOT": [
+    "The student may struggle to articulate detailed scientific explanations about photosynthesis or the role of light and water beyond basic terms like 'need water' or 'needs light' (limited scientific vocabulary).",
+    "The student might inconsistently label components in their drawings, or leave out communal elements like roots, especially for unhealthy plants (incomplete understanding of plant parts).",
+    "The student might inaccurately depict scale or proportion among plant features, such as the relative size of leaves when comparing healthy and unhealthy plants (minor gaps in drawing detail)."
+  ]
+}

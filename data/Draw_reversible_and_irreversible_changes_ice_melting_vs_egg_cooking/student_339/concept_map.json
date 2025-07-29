@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Blue ice cube labeled 'ice'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Blue liquid water labeled 'water'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Arrow from ice to water",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Arrow water to ice labeled reversibility",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Brown raw egg labeled 'raw egg'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Yellow and brown cooked egg labeled 'cooked egg'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n8",
+      "label": "Wavy arrow from raw egg to cooked egg",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n9",
+      "label": "Understands ice melting to water is reversible",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Attempts to show cooking is irreversible",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n11",
+      "label": "Show feedback: Use correct arrows for reversible and irreversible",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n1",
+      "n5"
+    ],
+    [
+      "n1",
+      "n6"
+    ],
+    [
+      "n1",
+      "n7"
+    ],
+    [
+      "n1",
+      "n8"
+    ],
+    [
+      "n2",
+      "n9"
+    ],
+    [
+      "n4",
+      "n9"
+    ],
+    [
+      "n5",
+      "n9"
+    ],
+    [
+      "n6",
+      "n10"
+    ],
+    [
+      "n7",
+      "n10"
+    ],
+    [
+      "n8",
+      "n10"
+    ],
+    [
+      "n10",
+      "n11"
+    ]
+  ]
+}

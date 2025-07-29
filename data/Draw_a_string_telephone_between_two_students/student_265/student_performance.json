@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw two students using a string telephone device to communicate over a distance.",
+    "The student can show that the device uses string to connect two points, indicating the communication pathway.",
+    "The student can illustrate how sound travels along the string by possibly drawing arrows or wave lines on the string.",
+    "The student can depict some materials used to build the string telephone, such as cups or cans.",
+    "The student can demonstrate basic understanding that the device is a solution for communication over long distances."
+  ],
+  "CANNOT": [
+    "The student may not consistently illustrate how sound travels accurately along the string (e.g., incorrectly drawing the direction of sound waves).",
+    "The student might not fully convey the importance of communicating over a distance in real-world situational drawings (e.g., missing context or setting).",
+    "Occasionally, materials used may be partially incorrect or unlabelled, leading to confusion about the construction of the device (e.g., using vague shapes without labeling them as cups or cans)."
+  ]
+}

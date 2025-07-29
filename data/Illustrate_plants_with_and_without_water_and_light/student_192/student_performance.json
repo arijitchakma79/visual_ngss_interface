@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can accurately illustrate a plant receiving water and depict it growing well.",
+    "The student can properly illustrate a plant not receiving water and demonstrate it not growing well.",
+    "The student can effectively illustrate a plant receiving sunlight and show it thriving.",
+    "The student can illustrate a plant without sunlight and demonstrate it is not thriving.",
+    "The student can observe and include patterns in their drawings, showing a healthy plant with both water and sunlight, and a struggling plant without water or sunlight."
+  ],
+  "CANNOT": [
+    "The student might occasionally omit labels on one or two drawings (e.g., forgetting to label water or sunlight).",
+    "The student might sometimes show slight inconsistency in plant sizes relative to light and water levels, but the overall concept remains accurate."
+  ]
+}

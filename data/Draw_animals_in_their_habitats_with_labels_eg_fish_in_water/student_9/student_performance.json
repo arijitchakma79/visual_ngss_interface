@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student might draw a few animals and plants without labels, displaying some awareness of different living things. (e.g., drawing shapes that vaguely resemble animals like fish or trees but not clearly identifiable)",
+    "The student may include a simple representation of a habitat, such as a blue area that could represent water or a patch of green for grass, without specific labels."
+  ],
+  "CANNOT": [
+    "The student is unlikely to effectively label animals, plants, or habitats consistently. (student may not know names or forget to label)",
+    "The student does not show or label what each plant and animal needs to survive, such as water, air, or sunlight. (student doesn’t understand these needs)",
+    "The student is unable to illustrate how living things and their habitats work together as a system. (student doesn’t grasp interactions)",
+    "The student does not demonstrate connections between animals or plants and the resources they use in their drawings. (e.g., no link between fish and water)",
+    "The student fails to show patterns like plants needing sunlight; they may place a plant inside a water body and label it incorrectly. (student has misconceptions about plant needs)"
+  ]
+}

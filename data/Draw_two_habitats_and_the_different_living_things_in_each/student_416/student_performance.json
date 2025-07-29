@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw two habitats and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may attempt to draw a basic shape to represent a habitat, such as a simple outline of a rectangle or circle to signify land or water.",
+    "The student might add one or two living things, like a tree or a fish, but these additions may not be accurately placed or proportionally correct."
+  ],
+  "CANNOT": [
+    "The student is unlikely to identify or correctly draw two distinct habitats, often confusing features of land and water environments *(e.g., drawing trees under water)*.",
+    "The student is unable to draw a variety of living things within each habitat, often repeating the same simple shapes for all organisms *(e.g., drawing multiple identical shapes to represent different animals)*.",
+    "The student cannot accurately compare or label the different types of living things in each habitat, missing labels or using incorrect names for organisms *(e.g., calling a fish a squirrel)*.",
+    "The student does not identify patterns in plant and animal diversity across habitats, showing no distinction or pattern in living things *(e.g., placing all creatures in a random order)*."
+  ]
+}

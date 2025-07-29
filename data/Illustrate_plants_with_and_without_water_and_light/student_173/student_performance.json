@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "Draw a healthy-looking plant with visible leaves to indicate enough water and light is present.",
+    "Illustrate a wilted plant to show lack of water.",
+    "Draw a plant that appears not to be growing well and could show elements such as discolored leaves to indicate a lack of light.",
+    "Create a visual comparison where a plant with water and light looks better than one without."
+  ],
+  "CANNOT": [
+    "Might struggle to clearly illustrate the concept of a plant dying solely from lack of light (could show both water and light as deficient without clear distinction).",
+    "May not consistently depict the absence of light as the sole cause of poor plant health (e.g., might show a plant with both brown and yellow leaves without clarifying the role of light)."
+  ]
+}

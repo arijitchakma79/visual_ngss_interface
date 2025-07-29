@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw and label a few animals correctly in their general habitats (e.g., a fish in or near what resembles water).",
+    "The student can begin to identify simple connections between some animals and the resources they need (e.g., a fish needing water, but might not show how the fish uses water)."
+  ],
+  "CANNOT": [
+    "The student is likely unable to show the complete and accurate relationship between all living things and their environment as an interconnected system (student likely sees elements in isolation).",
+    "The student may struggle to accurately label and represent the resources that animals and plants need to survive (e.g., forgetting to label sunlight for plants or air for humans).",
+    "The student may mix up habitats or the animals that belong in them (e.g., placing a deer in the ocean or a fish in a tree).",
+    "The student might not show the interaction between different living things and their shared resources (e.g., how multiple animals might depend on the same resource like water)."
+  ]
+}

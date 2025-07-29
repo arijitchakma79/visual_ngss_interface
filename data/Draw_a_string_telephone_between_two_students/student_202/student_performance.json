@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw two figures that are meant to represent people (basic shapes for heads and bodies, but lacking details).",
+    "The student might draw a line between the figures that could represent the string, but it may not connect to both figures consistently."
+  ],
+  "CANNOT": [
+    "The student is unlikely to show an understanding of how the string telephone works to send messages (may not include cups or similar devices).",
+    "The student might not include features that represent sound traveling through the telephone (e.g., no indication of sound waves or vibrations).",
+    "The student may not demonstrate the concept of communication over a distance (string might be shown too short or incorrectly placed).",
+    "The student likely doesn't illustrate the idea of how this technology makes life easier or solves a problem (no context or explanation shown)."
+  ]
+}

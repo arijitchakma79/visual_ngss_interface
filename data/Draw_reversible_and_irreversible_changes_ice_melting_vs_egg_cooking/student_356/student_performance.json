@@ -1,0 +1,20 @@
+{
+  "Topic": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+  "Code": "2-PS1-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "Illustrate and label a material before it is heated or cooled, such as a solid ice cube and an uncooked egg.",
+    "Illustrate and label the material after heating, showing water from melted ice and a cooked egg.",
+    "Illustrate and label whether the change after heating is reversible or irreversible, indicating that water can refreeze into ice while a cooked egg cannot become raw again.",
+    "Illustrate and label a material after cooling, such as ice from water.",
+    "Describe in the illustration that the change after cooling is reversible, showing that ice can melt back into water.",
+    "Depict a sequence that generally shows how heating or cooling leads to observable changes with some understanding of cause-effect relationships.",
+    "Provide visual evidence, like arrows showing water freezing and melting, to support a claim about which changes are reversible and which are not."
+  ],
+  "CANNOT": [
+    "Perfectly label every detail, potentially missing minor labels (e.g., forgetting to label the phase 'liquid' under water).",
+    "Fully explain with labels why a cooked egg is irreversible in terms of molecular structure (e.g., *(student might not describe protein changes)*).",
+    "Illustrate more complex cause-effect relationships consistently, occasionally drawing incorrect sequences (e.g., reversing the order of freezing and melting with missing steps)."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw basic shapes resembling the starting state of materials like ice and raw eggs, but may not label them correctly or at all.",
+    "Attempt to show something happening to the materials when heated, but details might be incorrect (e.g., scribbles over the ice cube or egg)."
+  ],
+  "CANNOT": [
+    "Illustrate clear changes that occur when heating or cooling (e.g., might not depict water from ice or solid cooked egg from raw egg).",
+    "Show whether changes are reversible or irreversible (e.g., might not show melted ice refreezing, or cooked egg staying solid).",
+    "Use labeling or arrows accurately to indicate cause and effect (e.g., missing arrows, arrows pointing in no consistent direction).",
+    "Write a correct caption explaining if and how the change can be reversed (e.g., 'ice cannot freeze again', 'cooked egg becomes raw again').",
+    "Illustrate observable patterns of reversible changes (e.g., may attempt a cycle but lacks continuity or correct sequence).",
+    "Illustrate observable patterns of irreversible changes (e.g., might draw the egg scrambled without showing it solidified or cooked)."
+  ]
+}

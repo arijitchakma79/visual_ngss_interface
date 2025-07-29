@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Attempt to draw a few animals (e.g., simple shapes that may resemble animals, such as a circle for a fish or a stick figure for a human).",
+    "Include one or two basic objects or symbols that might represent a habitat (e.g., a wavy line for water, a rectangle for a tree)."
+  ],
+  "CANNOT": [
+    "Correctly label animals with their specific habitats (e.g., drawing a fish but not placing it in water).",
+    "Include accurate or any labels for resources that plants and animals need (e.g., doesn't label water, air, soil).",
+    "Demonstrate clear relationships between animals, their habitats, and the resources provided (e.g., placing a deer in a lake, thinking it belongs there).",
+    "Illustrate the interdependent systems of plants, animals, and their environments (e.g., no clear understanding of ecosystem relationships).",
+    "Depict the relationship between living environments and the resources they provide for the plants and animals accurately (e.g., may show a rabbit floating in air instead of on grass)."
+  ]
+}

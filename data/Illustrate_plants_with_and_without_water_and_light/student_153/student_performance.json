@@ -1,0 +1,18 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "Illustrate a plant with plenty of water and light, showing it healthy and growing.",
+    "Illustrate a plant without water, showing it wilted or not growing well.",
+    "Illustrate a plant without light, showing it not growing well or turning yellow.",
+    "Illustrate the different results of plants with and without water, indicating the need for water to survive.",
+    "Illustrate the different results of plants with and without light, indicating the need for light to survive.",
+    "Identify and label the elements of their drawings to show the presence or absence of water and light, but may occasionally miss a label."
+  ],
+  "CANNOT": [
+    "Consistently and precisely label every element involved in each scenario, occasionally missing some small details (e.g., a plant part not labeled).",
+    "Accurately show minor variations like plant coloration for stress signs (e.g., not all leaves may show yellowing in the plant without light)."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can depict two students with cups in their hands connected by a string, indicating a basic understanding of a string telephone.",
+    "The student can show the string is pulled tight between the two cups, demonstrating an understanding that tension in the string is necessary.",
+    "The student can illustrate or label how sound travels through the string to solve the problem of communication, possibly with lines or arrows representing sound waves.",
+    "The student can show and correctly label the materials used, such as cups and string, using only the provided materials."
+  ],
+  "CANNOT": [
+    "The student might inconsistently apply or label how sound travels, potentially missing directional indicators or using unclear symbols *(sound waves not consistently or correctly drawn)*.",
+    "The student may not fully highlight why the string must be tight with explicit labels or notes, although it is shown correctly in the drawing *(concept present but not verbally annotated)*."
+  ]
+}

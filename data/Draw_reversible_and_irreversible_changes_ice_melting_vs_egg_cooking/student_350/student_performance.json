@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "Draw an initial state of materials, like ice as a solid block and a raw egg in its shell, with basic shapes and labels.",
+    "Illustrate the melted ice as liquid water with simple lines or splashes to suggest fluidity.",
+    "Include a simple label or description that indicates either the state of the material or a change that has occurred (e.g., 'ice melts to water')."
+  ],
+  "CANNOT": [
+    "Clearly illustrate or explain that liquid water can be turned back into ice, often omitting the reversible nature or providing unclear labeling (e.g., not showing an arrow to indicate the process of refreezing).",
+    "Show fully distinguishable changes for the cooked egg, potentially representing it as another simple egg shape without much transformation, and miss labeling it as irreversible.",
+    "Confuse the concepts of reversible and irreversible by labeling or drawing cooked egg's change similarly to ice melting, suggesting both can revert to their original forms * (student holds misconception of reversibility)*."
+  ]
+}

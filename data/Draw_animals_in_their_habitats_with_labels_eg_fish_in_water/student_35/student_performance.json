@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw and partially label different animals, like fish and birds, and their habitats such as water and trees.",
+    "The student can illustrate how these animals live in environments that provide their needs, such as fish living in water.",
+    "The student can label basic resources like water and air, indicating an understanding of what animals need to survive.",
+    "The student may depict simple systems where animals and their environments interact, such as a bird in a tree, with most connections clear."
+  ],
+  "CANNOT": [
+    "The student may miss labeling some less obvious habitat features, like soil or rocks.",
+    "The student might not accurately represent or label the full range of needs for all plants and animals (e.g., forgetting that some birds use trees for nests).",
+    "The student might not always include humans in their drawings or show how humans also depend on these systems (student may not consider humans as part of 'animals').",
+    "The student might inconsistently apply labels, leading to occasional missing or incomplete labels, showing natural variation in skill."
+  ]
+}

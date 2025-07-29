@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw different plants and animals and label them, such as a deer in a forest.",
+    "The student can draw and label the places where different plants and animals live, like a fish in water.",
+    "The student can label some of the things that plants and animals need to survive, such as water for fish or air for birds.",
+    "The student can show how some animals get what they need to survive from their habitats, like a bird eating worms from the soil."
+  ],
+  "CANNOT": [
+    "The student may inconsistently show connections between plants, animals, and their habitats as a system that works together (occasionally may forget to draw or label interactions, such as bees and flowers).",
+    "The student may overlook some resources necessary for survival, like sunlight for plants (may not understand the importance of sunlight or label it as needed).",
+    "The student might not depict how all plants and animals live in places that provide the sunlight, water, and other resources they need completely (misses minor details but overall main concept is shown)."
+  ]
+}

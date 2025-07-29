@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw two figures, indicating the presence of two students who wish to communicate.",
+    "The student can include a simple representation of a string phone, connecting the two students.",
+    "The student can show an attempt at illustrating sound traveling through the string, such as waves or lines."
+  ],
+  "CANNOT": [
+    "The student may not accurately depict how the string must be taut for sound transmission (string is droopy or not drawn tight).",
+    "The student might not clearly represent how the sound travels or what information is conveyed (may draw sound waves incorrectly or omit them altogether).",
+    "The student might misunderstand the concept of a 'long distance', thinking it only refers to visual separation, not functional separation (students too close together).",
+    "The student may include additional materials not needed for the string telephone, demonstrating a lack of understanding of the required materials (draws additional, unnecessary items around the string phone)."
+  ]
+}

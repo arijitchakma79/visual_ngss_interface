@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw two habitats and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a land habitat, such as a playground or forest, with a variety of living things like squirrels, ants, and trees present.",
+    "The student can draw a water habitat, for instance, a pond or lake, including living things like fish and aquatic plants.",
+    "The student is able to include a mixture of plants, such as trees and flowering plants, in each habitat drawing.",
+    "The student can correctly label some of the major living things in each habitat, although labels may be missing for less prominent features.",
+    "The student can show basic comparisons in the diversity of living things between the two habitats, perhaps noting more trees in the land habitat and more fish in the water habitat."
+  ],
+  "CANNOT": [
+    "The student might inconsistently label the plants and animals in each habitat, occasionally forgetting to include labels for certain species (e.g., daisies in the garden).",
+    "The student may not fully capture fine details or diversity within the same type of organism, like different types of fish or specific tree species.",
+    "The student might struggle to highlight patterns in biodiversity clearly, such as not emphasizing which habitat has greater plant diversity *(may not realize importance)*."
+  ]
+}

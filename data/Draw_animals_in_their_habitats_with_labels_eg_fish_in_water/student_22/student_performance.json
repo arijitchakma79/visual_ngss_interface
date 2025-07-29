@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can include a few different plants and animals in their drawing, though it might not be diverse.",
+    "The student can illustrate basic places where plants and animals live, like a fish in water.",
+    "The student can label some of the parts of their drawing to identify a few plants and animals correctly.",
+    "The student can show simple needs for survival such as water or food, but not consistently."
+  ],
+  "CANNOT": [
+    "The student is likely unable to illustrate complex interactions within the habitat (e.g., how plants and animals depend on each other) *(student misunderstands complex relationships)*.",
+    "The student might not accurately depict how plants and animals use their environment to meet specific needs (e.g., may not show that fish need water to breathe as well as to swim) *(student shows partial understanding)*.",
+    "The student may struggle to show that animals and plants are part of a system and often omit elements that connect them *(student does not show connections)*.",
+    "The student may show a limited number of resources that animals and plants depend on and mislabel them (e.g., confusing types of food or habitats) *(student makes labeling errors)*."
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw two habitats and the different living things in each",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Forest with tall green trees",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Bird in the branches",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Bushes and mushrooms on forest floor",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Pond with blue water",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Fish swimming",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Frog on a lily pad",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n8",
+      "label": "Tall green grass around pond",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n9",
+      "label": "Understands diversity of life in forest habitat",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Understands diversity of life in pond habitat",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "Understands comparison of habitat diversity",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n12",
+      "label": "Incomplete labeling may lead to confusion",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n13",
+      "label": "Add labels to plants and animals for clarity",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n1",
+      "n5"
+    ],
+    [
+      "n1",
+      "n6"
+    ],
+    [
+      "n1",
+      "n7"
+    ],
+    [
+      "n1",
+      "n8"
+    ],
+    [
+      "n2",
+      "n9"
+    ],
+    [
+      "n3",
+      "n9"
+    ],
+    [
+      "n4",
+      "n9"
+    ],
+    [
+      "n5",
+      "n10"
+    ],
+    [
+      "n6",
+      "n10"
+    ],
+    [
+      "n7",
+      "n10"
+    ],
+    [
+      "n8",
+      "n10"
+    ],
+    [
+      "n9",
+      "n11"
+    ],
+    [
+      "n10",
+      "n11"
+    ],
+    [
+      "n4",
+      "n12"
+    ],
+    [
+      "n8",
+      "n12"
+    ],
+    [
+      "n12",
+      "n13"
+    ]
+  ]
+}

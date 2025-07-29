@@ -1,0 +1,20 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "Draw a variety of plants and animals, including humans, as part of their illustration with detailed and clear representations.",
+    "Identify and label the places where the different plants and animals live accurately (e.g., fish in the ocean, birds in trees).",
+    "Illustrate and label the things that plants and animals need in their environments such as water, air, and land resources.",
+    "Show the relationship between the plants and animals and the materials they need for survival, accurately connecting each organism to its resources (e.g., water for fish, leaves for deer).",
+    "Demonstrate the connection between the places where plants and animals live and the resources available there (e.g., lush vegetation in a forest for herbivores).",
+    "Represent where specific plants and animals live with accuracy and label these environments correctly (e.g., deer in forests, rabbits in fields).",
+    "Describe through their drawing how the needs of plants and animals are met by where they live.",
+    "Illustrate that the plants, animals, their habitats, and resources are part of a system that works together, highlighting ecosystem interactions."
+  ],
+  "CANNOT": [
+    "Consistently label every minor element without minor omissions (occasionally forgets secondary resource labels).",
+    "Always illustrate nuanced interdependencies or complex ecosystem interactions with full accuracy (may simplify complex relationships)."
+  ]
+}

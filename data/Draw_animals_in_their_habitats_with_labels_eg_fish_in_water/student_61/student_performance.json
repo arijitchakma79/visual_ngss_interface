@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw basic shapes resembling animals, such as a simple fish shape or stick figures for people, but may lack detail.",
+    "The student may attempt to draw a habitat like water for fish but with inconsistent or unclear representation; for example, a single line might represent water without much context."
+  ],
+  "CANNOT": [
+    "The student is unlikely to correctly label the habitats, often leaving out labels or using incorrect labels (e.g., labeling the sky as a habitat for fish *[student doesn’t know this]*).",
+    "The student cannot accurately depict the resources needed for survival such as showing a fish with a tree instead of water *(misunderstands habitat needs)*.",
+    "The student does not show or describe the connection between animals and their habitat, such as forgetting to show water around a fish *(no clear relationship)*.",
+    "The student may not represent the concept of a system that works together to meet animal needs, often presenting unrelated objects without interaction *(lack of understanding of systemic connection)*."
+  ]
+}

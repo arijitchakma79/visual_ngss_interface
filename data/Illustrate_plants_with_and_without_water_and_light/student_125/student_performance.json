@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw a basic shape resembling a plant, such as a green stick with a round top to represent a leaf.",
+    "The student might attempt to use color, like green for healthy plants, but can only partially represent it due to lack of knowledge."
+  ],
+  "CANNOT": [
+    "The student is likely unable to differentiate between a healthy and an unhealthy plant (may draw similar plants regardless of conditions).",
+    "The student won't show the effects of insufficient water (student doesn’t know how dehydration affects plants).",
+    "The student won't accurately depict the effects of lack of light (may show unrealistic representations or no change).",
+    "The student cannot illustrate the importance of water and light by comparison (lacks understanding of cause and effect).",
+    "The student is unable to use visual patterns to signify that all plants need light and water to survive (doesn't connect symbols or patterns to concepts)."
+  ]
+}

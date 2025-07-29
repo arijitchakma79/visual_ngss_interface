@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements).",
+  "CAN": [
+    "The student can accurately draw two people trying to communicate over a long distance.",
+    "The student can clearly show a string telephone with cans at each end, correctly illustrating how it works using sound to send messages.",
+    "The student can include only the provided materials, such as cans and string, in their drawing of the string telephone.",
+    "The student can effectively illustrate how the sound travels through the string to send messages, possibly with arrows indicating sound direction.",
+    "The student can depict how the string telephone solves the problem of communicating over a distance, likely showing the distance clearly.",
+    "The student can model why this simple device is useful for communication over short or long distances, possibly by including exemplary labels or notes."
+  ],
+  "CANNOT": [
+    "There may be minor gaps, such as incomplete labeling of materials or an inconsistent indication of sound direction with arrows, but these do not detract from the overall understanding."
+  ]
+}

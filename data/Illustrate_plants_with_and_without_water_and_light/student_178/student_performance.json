@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can draw a healthy, growing plant with both water and light, accurately representing its living state.",
+    "The student can draw wilted or dying plants without water, showing their understanding of the lack of growth without sufficient resources.",
+    "The student can draw plants that are not growing well without light, indicating an understanding of the role light plays in plant growth.",
+    "The student can include detailed observations showing how both water and light affect plant growth with appropriate labels or notations.",
+    "The student can accurately identify and illustrate the differences between healthy plants with adequate resources and those without, making clear distinctions based on their understanding."
+  ],
+  "CANNOT": [
+    "The student may occasionally over-simplify the effects of water or light (e.g., drawing extreme scenarios) but generally understands their importance.",
+    "The student may omit minor details in labeling or annotations, such as forgetting to label a part of the plant or neglecting a small environmental factor, but this does not detract from overall understanding."
+  ]
+}

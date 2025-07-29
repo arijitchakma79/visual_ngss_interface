@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw a simple animal or plant shape, but may lack habitat context (e.g., draws a fish but not in water).",
+    "Attempt labeling some parts of the drawing with basic terms, though labels might be incorrect or misplaced (e.g., labels 'water' on a fish but it's not in context)."
+  ],
+  "CANNOT": [
+    "Show accurate relationships between animals and their environments (misunderstands environments; fish might be drawn on land).",
+    "Label resources or survival needs correctly (e.g., may not include water, air, or soil, or labels them inappropriately).",
+    "Demonstrate understanding of how different places provide what plants and animals need (e.g., places sunlight next to animals instead of plants).",
+    "Illustrate plants and animals living in a cohesive habitat system (individual elements might exist, but no integration or interaction is evident).",
+    "Reflect accurate survival needs like soil or sunlight in the drawing with understanding (might randomly place labels like 'sunlight' with no relation to plants/animals)."
+  ]
+}

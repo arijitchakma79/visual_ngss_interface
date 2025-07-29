@@ -1,0 +1,15 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may draw generic plant shapes with some green color, suggesting some awareness that plants are typically green (basic feature)."
+  ],
+  "CANNOT": [
+    "The student is unlikely to differentiate between plants with and without water in terms of wilting or dryness (may draw all plants looking the same).",
+    "The student is unlikely to show any differences due to lack of light, such as pale coloring or stunted growth (no concept of light's effect).",
+    "The student probably cannot illustrate specific effects of water or light on plant health (does not understand causation).",
+    "The student might not use any patterns or visual differences to convey the importance of water and light (no visual contrast)."
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw animals in their habitats with labels (e.g., fish in water).",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Bear near a river labeled 'bear' and 'river'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Bird in a tree with a nest labeled 'bird', 'tree', and 'nest'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Fish swimming in a pond labeled 'fish' and 'pond'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Rabbit in a meadow labeled 'rabbit' and 'meadow'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Flowers and bees interaction (not all flowers labeled)",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Habitat drawing displays varied natural environments",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n8",
+      "label": "Correctly labeled bear and river indicate understanding of mammal habitats",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n9",
+      "label": "Correctly labeled bird, tree, and nest show understanding of bird needs",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Correctly labeled fish and pond reflect understanding of aquatic habitats",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "Correctly labeled rabbit and meadow indicates land habitat understanding",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n12",
+      "label": "Partial labeling suggests incomplete understanding of all elements",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n13",
+      "label": "Consider checking all labels for completeness to ensure clarity",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n1",
+      "n5"
+    ],
+    [
+      "n1",
+      "n6"
+    ],
+    [
+      "n2",
+      "n8"
+    ],
+    [
+      "n3",
+      "n9"
+    ],
+    [
+      "n4",
+      "n10"
+    ],
+    [
+      "n5",
+      "n11"
+    ],
+    [
+      "n6",
+      "n12"
+    ],
+    [
+      "n12",
+      "n13"
+    ]
+  ]
+}
