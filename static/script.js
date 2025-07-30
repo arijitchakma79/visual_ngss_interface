@@ -47,7 +47,7 @@ let evidenceStatementsData = {};
 
 async function loadEvidenceStatements() {
     try {
-        const response = await fetch('../evidence_statements.json'); // Fetch from parent directory
+        const response = await fetch('./evidence_statements.json'); // Fetch from parent directory
         if (!response.ok) throw new Error('Failed to load evidence_statements.json');
         evidenceStatementsData = await response.json();
         console.log('Evidence Statements Loaded:', evidenceStatementsData);
