@@ -1,8 +1,8 @@
-# 🎓 Visual NGSS Interface
+# 🎓 Visual NGSS Interface (For Teachers)
 
 A lightweight, client-side interface for exploring student concept maps, drawings, and performance data related to NGSS (Next Generation Science Standards) assessments.
 
-## ✨ Features
+## ✨ Features 
 
 - 🖼️ **Student Drawings**: View original student artwork and drawings
 - 🗺️ **Concept Maps**: Interactive SVG concept maps showing student understanding  
