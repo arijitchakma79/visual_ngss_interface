@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can show in their drawing a plant with upright, green leaves to represent having enough water.",
+    "The student can partially show a plant with drooping or wilting leaves to indicate a lack of water, although it may not be distinctly clear.",
+    "The student can illustrate a plant with yellowish leaves to suggest a lack of light, but details might be vague or missing.",
+    "The student might attempt to show sunlight reaching some plants, indicating they recognize the need for light, though execution may be inconsistent."
+  ],
+  "CANNOT": [
+    "The student is unable to clearly differentiate between plants lacking water versus those lacking light, potentially showing similar symptoms for both (e.g., wilting leaves for either situation).",
+    "The student does not consistently illustrate the difference in plant appearance between enough and not enough sunlight (student may not fully understand the specific effects of light deprivation on plants).",
+    "The student fails to effectively show patterns that indicate plants need both water and light to thrive, possibly because they don't draw a comparison between conditions within the same drawing."
+  ]
+}

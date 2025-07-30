@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "Draw and label common animals and plants in their appropriate habitats, such as fish in water, deer in a forest, and grass in a field.",
+    "Illustrate how some animals get what they need to survive, such as showing fish near plants in the water for oxygen or deer around trees with leaves.",
+    "Show basic relationships between animals and their habitats, including animals interacting with parts of their environment, like fish swimming with water plants.",
+    "Include key resources provided by habitats, such as depicting sunlight for plants or grass for rabbits, though not all resources may be present."
+  ],
+  "CANNOT": [
+    "Consistently include all elements of a habitat being a system, such as forgetting to incorporate elements like water in a pond ecosystem *(occasionally missing interconnected parts)*.",
+    "Label every single part accurately, such as occasionally not labeling smaller plants or background elements correctly *(minor omissions or inaccuracies in labeling)*."
+  ]
+}

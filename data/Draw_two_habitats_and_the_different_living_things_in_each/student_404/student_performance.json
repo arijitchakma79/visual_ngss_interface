@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw two habitats and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw simple shapes or scribbles that might represent two different places (e.g., a rectangle for land and a wavy shape for water) but without clear distinction as habitats.",
+    "The student can add objects that resemble animals or plants in one or both areas, but without variety or clear distinction (e.g., triangles for trees or random circles for fish)."
+  ],
+  "CANNOT": [
+    "The student cannot accurately portray two distinct habitats (e.g., both areas look similar or indistinguishable).",
+    "The student cannot include a variety of plants and animals or mix up what belongs in each habitat (e.g., putting fish in the land habitat or showing the same animal in both areas).",
+    "The student may not understand or demonstrate the diversity of habitats (e.g., draws the same type of plant or animal in both habitats with no variation).",
+    "The student cannot use their drawing to compare the variety of living things between habitats (no observed pattern or comparison shown)."
+  ]
+}

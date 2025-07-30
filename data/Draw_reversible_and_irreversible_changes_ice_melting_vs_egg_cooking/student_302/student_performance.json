@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may attempt to draw a piece of ice and a raw egg but with limited detail or accuracy (e.g., basic shapes that vaguely resemble these items).",
+    "The student might draw the sun or stove near the ice and egg to imply heating but may not clearly show the process of change (e.g., minimal or absent melting or cooking effects)."
+  ],
+  "CANNOT": [
+    "The student is unlikely to effectively show water forming from ice melting or an egg becoming solid when cooked (student might draw objects as unchanged or only partially transformed).",
+    "The student may struggle to depict the characteristics of materials after heating or cooling (e.g., not recognizing that melted ice is water or cooked egg is solid).",
+    "The student probably cannot demonstrate which changes are reversible and which are irreversible (e.g., might show both as the same or not depict reversibility at all).",
+    "The student may not provide clear visual evidence to support claims about reversibility and irreversibility, possibly due to misunderstanding or lack of knowledge (e.g., drawing reversibility incorrectly by showing cooked egg becoming raw again)."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Topic": "Draw two habitats and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "Illustrate and label two different habitats, one land-based and one water-based, with reasonable detail.",
+    "Depict and label a variety of living things in the land habitat, such as trees, grasses, bushes, or common animals like lizards and squirrels.",
+    "Depict and label a variety of living things in the water habitat, including fish and aquatic plants, with sufficient accuracy.",
+    "Show general differences between the two habitats by depicting a reasonable variety of living things in each.",
+    "Use their drawing to broadly explain patterns of plant and animal diversity in both habitats, although might lack some specific details."
+  ],
+  "CANNOT": [
+    "Incorrectly label or confuse some living things between habitats (e.g., placing a terrestrial animal in the water habitat).",
+    "Lack some detail in regards to diversity explanations, possibly omitting specific species unique to each habitat.",
+    "Occasionally forget to label every depicted organism, leading to minor inconsistencies.",
+    "Show more subtle variations in ecosystems, such as special adaptations of certain species for each habitat."
+  ]
+}

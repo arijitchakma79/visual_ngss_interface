@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw a basic plant shape, like a stick with leaves, though it might be very simplified.",
+    "The student might color a plant green to indicate positive features, though not confidently linked to water and light."
+  ],
+  "CANNOT": [
+    "The student is unlikely to show a clear or accurate depiction of a plant with sufficient water and light versus one without (student might draw both plants similarly).",
+    "The student is unlikely to organize the drawings to highlight differences between healthy and unhealthy plants (drawings may appear randomly placed).",
+    "The student may not recognize or label the essentials for plant health, such as water and light (student doesn't identify these as necessary).",
+    "The student might not accurately label different conditions affecting plant health (e.g., lacking water but drawn similar to healthy plant)."
+  ]
+}

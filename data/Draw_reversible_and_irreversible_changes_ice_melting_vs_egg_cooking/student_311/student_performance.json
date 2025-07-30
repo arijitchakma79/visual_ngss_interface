@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw a simple picture of an ice cube and a raw egg, likely without labels or minimal labels.",
+    "Attempt to draw the appearance of a melted ice or cooked egg but with significant inaccuracies or omissions."
+  ],
+  "CANNOT": [
+    "Fail to illustrate the process of change accurately (e.g., draws ice cube and water side by side with no transformation shown).",
+    "Misunderstand or omit the use of symbols or arrows to represent the direction of the change (e.g., no arrows or arrows pointing in the wrong direction).",
+    "Not depict the irreversibility of a cooked egg or the reversibility of melted ice accurately (e.g., indicates a cooked egg can revert to raw).",
+    "Provide little to no captions or incorrect notes explaining the process and its reversibility (e.g., writes 'egg becomes soup' or 'ice disappears').",
+    "Confuse the initial and final states, possibly omitting the transition altogether or mixing them up (e.g., ice cube turning into an egg)."
+  ]
+}

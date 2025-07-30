@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 3,
+  "Level Description": "At Level 3, the student demonstrates a proficient understanding, showing most elements of the task clearly and correctly.",
+  "CAN": [
+    "The student can show two students using a string telephone to communicate, with each holding one cup to their ear or mouth.",
+    "The student can illustrate that the string is tightened between the two cups to ensure sound travels effectively.",
+    "The student can demonstrate the use of materials like cups and string in the drawing, as provided in the task.",
+    "The student can depict the string telephone as a device that sends or receives sound over a distance."
+  ],
+  "CANNOT": [
+    "The student may have minor gaps in showing how exactly the sound travels through the string from one student to the other (e.g., no direction or arrows indicating sound travel).",
+    "The student might inconsistently depict or label how this technology helps people communicate when far apart (e.g., lacks explicit labels or text explanation)."
+  ]
+}

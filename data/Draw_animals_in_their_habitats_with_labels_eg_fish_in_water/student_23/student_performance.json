@@ -1,0 +1,19 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can accurately draw a variety of plants and animals, including humans, and label them clearly.",
+    "The student can illustrate and label different habitats where these plants and animals live, such as fish in the water and deer in the forest.",
+    "The student can depict essential resources such as water for fish and sunlight for plants and label them in the drawing.",
+    "The student can show and label some relationships indicating needs, like plants needing sunlight or fish needing water.",
+    "The student can demonstrate and label the interconnections between specific plants and animals and their habitats, showing a basic understanding of these relationships."
+  ],
+  "CANNOT": [
+    "The student may inconsistently label all components or leave out some less obvious needs, like air *(student overlooks air as a necessary element)*.",
+    "The student might not fully depict or label how plants, animals, their habitats, and their resources work together as parts of a system, missing some interactions *(student has partial understanding of ecological systems)*.",
+    "The student could inaccurately label or misrepresent some relationships, such as showing fish needing sunlight directly *(misunderstands specific needs of animals)*.",
+    "The student might occasionally forget to label some parts of the drawing or use inconsistent labeling conventions *(inconsistent application of skills; forgets to label all parts)*."
+  ]
+}

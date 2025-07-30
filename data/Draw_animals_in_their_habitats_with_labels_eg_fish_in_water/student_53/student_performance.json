@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw animals in their habitats with labels (e.g., fish in water).",
+  "Code": "K-ESS3-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw basic shapes or outlines that may represent animals or plants. (student attempts to depict something but detail is minimal)",
+    "Include a few, possibly misplaced, labels such as 'fish' or 'tree'. (student uses familiar words but may mislabel elements)"
+  ],
+  "CANNOT": [
+    "Accurately depict animals in appropriate habitats (e.g., a tree drawn next to a fish instead of in water). (student doesn’t understand habitat specifics)",
+    "Label the essential resources needed by plants and animals (e.g., water, air, food). (student omits these due to lack of knowledge)",
+    "Illustrate the specific places where plants and animals live correctly (e.g., drawing a desert scene but placing a penguin there). (concept of habitat is misunderstood)",
+    "Show and explain the relationship between animals/plants and their habitats (e.g., fish in water, deer in forests with leaves). (student cannot demonstrate this relationship)",
+    "Demonstrate how plants and animals rely on habitats to meet their needs. (student is unaware of the dependency)",
+    "Show that each drawing element is part of a system where parts work together. (no system or interconnection is depicted)"
+  ]
+}

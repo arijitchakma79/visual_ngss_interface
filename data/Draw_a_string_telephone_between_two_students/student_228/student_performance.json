@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "Draw a basic device resembling a string telephone with cups and some sort of connecting line, suggesting the concept of communication over a distance.",
+    "Show two students on either side of the device, indicating an attempt to represent the communication exchange.",
+    "Illustrate the use of cups as part of the device, aligned with part of the evidence that cups are materials for constructing the device."
+  ],
+  "CANNOT": [
+    "Accurately depict how sound travels through the string. (student may not show or label any sound waves or indications of sound traveling)",
+    "Consistently show how the string needs to be taut for the device to work. (student may depict a loosely hanging string or a string touching the ground)",
+    "Demonstrate a clear understanding of how sound travels by not including additional visual cues like arrows to indicate sound movement. (student lacks understanding of sound directionality and travel)",
+    "Correctly incorporate all necessary materials with clear indications. (student may omit the cups, or show only one cup, or not connect the string properly to both cups)"
+  ]
+}

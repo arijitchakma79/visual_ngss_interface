@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a healthy plant with strong leaves and stems when depicted as having enough water and light.",
+    "The student can illustrate a plant with droopy or wilted leaves due to a lack of water.",
+    "The student can show a plant with pale or weak-looking leaves as a result of not receiving enough light.",
+    "The student can depict a plant thriving in sunlight, indicating the pattern that plants require light to live and grow."
+  ],
+  "CANNOT": [
+    "The student might sometimes forget to depict one of the symptoms of a plant's lacking needs, such as leaves not drawn as droopy when the plant lacks water (inconsistent detail application).",
+    "The student may not clearly differentiate between the effects of a lack of water versus a lack of light at times, such as mixing up pale versus droopy leaves (minor confusion in specific symptoms)."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can illustrate a plant with healthy leaves, showing that it receives adequate water and light.",
+    "The student can illustrate a plant with drooping or dry leaves, clearly representing a plant that lacks water.",
+    "The student can illustrate a plant with pale or wilted leaves, accurately representing a plant that lacks light.",
+    "The student can clearly illustrate the difference between a healthy plant and a struggling plant, effectively emphasizing the importance of water and light.",
+    "The student can include details that demonstrate patterns in how plants change when lacking water or light, such as consistent leaf coloration and structure changes."
+  ],
+  "CANNOT": [
+    "The student might occasionally overlook minor details, such as labeling specific leaf conditions (e.g., not labeling wilted leaves as pale).",
+    "The student may not incorporate every possible pattern of plant change due to natural variation (e.g., might not draw roots visibly affected, as focus is on leaves)."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can illustrate a healthy plant in a place with water and light, but the depiction might be simplistic, showing basic features like green leaves and a standing stem.",
+    "The student might partially show a plant in a place without water by illustrating drooping leaves, but details such as brown or shriveled leaves might be missing or inconsistent."
+  ],
+  "CANNOT": [
+    "The student is likely unable to accurately illustrate a plant in a place without light, possibly showing no change or incorrect changes like a smaller-sized plant rather than yellowing leaves or stretched stems. *(student may not fully understand the effects of lack of light)*",
+    "The student may have a misunderstanding, such as showing a droopy plant due to lack of light rather than water, or drawing plants with all conditions affected similarly. *(confuses effects of water and light)*",
+    "The student has difficulty using observations to explicitly show that plants need water and light to live and grow, with drawings not clearly demonstrating the cause-effect relationship. *(unclear cause-effect depiction)*"
+  ]
+}

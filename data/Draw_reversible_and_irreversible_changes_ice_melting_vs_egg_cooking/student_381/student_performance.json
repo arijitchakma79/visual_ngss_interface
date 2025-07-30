@@ -1,0 +1,20 @@
+{
+  "Topic": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+  "Code": "2-PS1-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can draw a detailed picture of ice before being heated and accurately describe its characteristics, such as being cold and solid.",
+    "The student can illustrate the melting process of ice accurately, showing it turning into water and may even include details like droplets and puddles.",
+    "The student can depict how water can be cooled to return to ice, clearly explaining the reversible nature of the process.",
+    "The student can draw a raw egg before cooking and describe its characteristics, like its liquid state and fragility.",
+    "The student can clearly illustrate what happens to an egg when it is cooked, showing it turning solid and differentiated in color and texture.",
+    "The student can convincingly explain through drawings that cooking an egg is an irreversible process, indicating that it does not return to a raw state when cooled.",
+    "The student can accurately identify and explain the causes behind the observable changes in both reversible and irreversible examples, using arrows and labels as needed.",
+    "The student can effectively use evidence in their drawings to support claims about the reversibility or irreversibility of changes, such as arrows indicating heat application or cooling."
+  ],
+  "CANNOT": [
+    "The student might occasionally miss labeling a minor part of the drawing (e.g., not labeling the cooling step when water returns to ice).",
+    "The student could sometimes use overly simplified descriptions for complex processes (e.g., 'egg gets hot' rather than 'egg proteins denature')."
+  ]
+}

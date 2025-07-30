@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw two figures that may represent students, though they may not clearly show that they are trying to communicate.",
+    "The student can include some lines or shapes that could be interpreted as parts of a string telephone, like a string and cups, but might not connect them meaningfully."
+  ],
+  "CANNOT": [
+    "The student cannot accurately depict a string telephone with all necessary parts correctly oriented (e.g., string might be slack, or not clearly attached to cups).",
+    "The student does not demonstrate understanding that the string needs to be pulled tight for sound to travel (e.g., may draw loose or zigzagging string).",
+    "The student cannot show how the device helps people communicate over a distance (e.g., lack of context or recognizable environment).",
+    "The student is unlikely to label parts correctly, if at all, due to a lack of recognition of their function or importance.",
+    "The student cannot demonstrate through the drawing how sound travels along the string (e.g., no indicators of sound, like vibrations or waves)."
+  ]
+}

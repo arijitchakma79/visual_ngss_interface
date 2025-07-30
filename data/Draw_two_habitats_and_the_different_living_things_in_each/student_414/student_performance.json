@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw two habitats and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw basic shapes that might represent land or water environments, but lacks clarity or distinction between them.",
+    "Include a few simple illustrations of living things, such as a basic tree or a fish, without variety or detail."
+  ],
+  "CANNOT": [
+    "Distinctly represent two different habitats with clear features to differentiate land from water (student may confuse land with water or vice versa).",
+    "Include a variety of living things with clear identification (student may only draw one or two types and not recognize them as different species).",
+    "Make comparisons between living things in each habitat (student may not attempt or may not understand the concept of comparison between habitats).",
+    "Show patterns in plant and animal diversity (student does not recognize differences or environmental influences on living things).",
+    "Provide accurate labels or captions to describe the habitats and living things (student may either omit labels or label them incorrectly, e.g., a fish might be labeled as a bird).",
+    "Organize the drawing to clearly display different plants and animals in each habitat (student's drawing may be chaotic or elements may be misplaced)."
+  ]
+}

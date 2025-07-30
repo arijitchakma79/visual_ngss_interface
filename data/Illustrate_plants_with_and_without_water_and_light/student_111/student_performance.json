@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw basic outlines of plants without attention to details (e.g., simple shapes for leaves and stems).",
+    "Attempt to show a difference between two plants, primarily by coloring or size (e.g., one plant may be colored differently but without a clear reason)."
+  ],
+  "CANNOT": [
+    "Draw plants showing clear signs of health or distress related to water and light (student might not link these conditions to water and light needs).",
+    "Illustrate plants that do not have water as wilting or dying (student may draw all plants looking the same regardless of care).",
+    "Illustrate plants that do not have light as not growing or weak (student may not understand or display light's role in growth).",
+    "Include significant details to show the importance of light and water for plant growth (details may be incorrect or missing entirely).",
+    "Use clear visual patterns to distinguish differences between plants that receive water and light and those that do not (pattern may be inconsistent or incorrect, such as showing vibrant colors for all plants)."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw two students needing to communicate over a long distance, with a clear path or separation indicating distance.",
+    "The student can design and illustrate a string telephone as a device using cups and string, showing understanding of its basic function.",
+    "The student can include and label major components such as the cups and string in their drawing, indicating their function in facilitating communication.",
+    "The student can depict how the string telephone meets the need for long-distance communication through sound, showing comprehension of the overall purpose."
+  ],
+  "CANNOT": [
+    "The student might not fully illustrate the importance of the string being tight for effective function, potentially omitting to draw the string taut in the image (might show the string sagging).",
+    "The student may partially or incorrectly label the mechanism by which sound travels (e.g., missing arrows to show direction of sound travel or vague depictions of sound waves)."
+  ]
+}

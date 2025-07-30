@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a device that allows two students to communicate over a distance, with two students holding one cup each.",
+    "The student can show the use of string as a tool to transmit sound between the two students, connecting the cups with a straight line.",
+    "The student can represent the sound traveling from one cup through the string to the other cup by drawing arrows indicating the direction of sound travel.",
+    "The student can label parts of the drawing to show how the string telephone works, including identifying the cups and string."
+  ],
+  "CANNOT": [
+    "The student may inconsistently illustrate how the design solves the problem of communicating over a distance using sound, perhaps not fully showing sound waves or the mechanism of vibration *(student may think the string itself transmits the sound without needing to vibrate)*.",
+    "The student might not fully demonstrate how people communicate using sound when using the string telephone, such as omitting how speaking into the cup causes vibrations *(student may think placing ear to cup is enough to hear without understanding vibration)*."
+  ]
+}

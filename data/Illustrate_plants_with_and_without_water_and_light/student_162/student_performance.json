@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "Draw a healthy plant that has enough water and light and show it growing well with clear green leaves and a strong stem.",
+    "Draw a plant that has no water showing wilted leaves and drooping stems to indicate it is not healthy.",
+    "Draw a plant that has no light showing pale or yellowing leaves, indicating it is struggling to grow.",
+    "Illustrate that plants need both water and light by placing symbols (e.g., sun and raindrops) near healthy plants or crossed-out symbols near unhealthy ones."
+  ],
+  "CANNOT": [
+    "May inconsistently show the differences between plants lacking water versus light, sometimes mixing up which symptoms belong to which condition.",
+    "Might miss small details or labels indicating the levels of water or light, leaving some parts of the drawing open to interpretation (e.g., unlabeled water amount, unclear shading for light exposure)."
+  ]
+}

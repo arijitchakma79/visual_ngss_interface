@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "Illustrate two students using a string telephone to communicate, showing them holding cups connected by a string.",
+    "Accurately depict the string connecting two cups, clearly showing the path for sound travel.",
+    "Incorporate elements that show the device being used functionally for sending or receiving messages over a distance.",
+    "Represent how the string telephone uses sound to communicate information with thoughtful detail, perhaps showing sound waves or similar.",
+    "Highlight the importance of using materials like cups and string, effectively connecting the science and technology for communication.",
+    "Include annotations or labels with explanations of how the string telephone works, based on scientific concepts of sound travel, such as vibration and tension in the string."
+  ],
+  "CANNOT": [
+    "There may be minor gaps, such as slightly incomplete labeling or missing annotations on one minor aspect, but these do not affect the overall understanding or accuracy. (e.g., not labeling the string as 'vibrating' but showing it correctly)"
+  ]
+}

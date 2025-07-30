@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "The student is proficient, showing most elements clearly and correctly.",
+  "CAN": [
+    "The student can draw a plant that has plenty of water and light, depicting it as healthy and growing.",
+    "The student can draw a plant that is without water, illustrating it as wilting or not growing well.",
+    "The student can draw a plant that is without light, showing it as not growing well or appearing unhealthy.",
+    "The student can illustrate patterns by showing multiple plants with different combinations of water and light, although some combinations might lack details."
+  ],
+  "CANNOT": [
+    "The student may inconsistently depict minor details, such as the exact level of drooping for plants without water (i.e., not all drawings consistently reflect the severity of wilting).",
+    "The student might omit labeling in some areas or fail to highlight the connection between thriving plants and the simultaneous presence of water and light (i.e., labels or arrows might be missing or unclear)."
+  ]
+}

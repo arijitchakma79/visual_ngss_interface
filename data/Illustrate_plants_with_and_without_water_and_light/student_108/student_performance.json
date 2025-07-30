@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may be able to draw a simple plant, but it may lack detail or context.",
+    "The student might attempt to include elements like a sun or water, but these may be randomly placed or unlabeled."
+  ],
+  "CANNOT": [
+    "The student is unlikely to show the plant growing well with access to sunlight and water (student may not illustrate cause-effect relationship).",
+    "The student may not depict wilting or unhealthy plants correctly or at all (student doesn’t understand needs of plants).",
+    "The drawing is unlikely to show patterns like differences between healthy and unhealthy plants (student may not grasp pattern visualization).",
+    "The concept that plants need water and sunlight to live and grow is unlikely to be represented in the drawing (student lacks understanding)."
+  ]
+}

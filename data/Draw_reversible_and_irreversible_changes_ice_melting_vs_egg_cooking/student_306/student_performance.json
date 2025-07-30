@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Might draw ice as solid (e.g., may include a basic shape or incoherent doodle intending to represent ice).",
+    "May show irregular shapes or symbols to indicate change without clear distinction (e.g., attempts to show melting but lacks clarity)."
+  ],
+  "CANNOT": [
+    "Incorrectly represents the final states of materials (e.g., shows ice turning into fire instead of water).",
+    "Does not differentiate between reversible and irreversible changes (e.g., suggests cooked egg can turn back into raw egg).",
+    "Fails to include explanations or labels indicating reversibility (e.g., no labels or indicates all changes are reversible).",
+    "Misunderstands or omits characteristics of heated materials (e.g., may not show any change at all in ice melting)."
+  ]
+}

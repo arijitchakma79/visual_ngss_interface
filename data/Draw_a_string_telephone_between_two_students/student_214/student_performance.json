@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw two figures that might represent students but may lack clear communication (figures might just be stick figures without interaction).",
+    "The student can attempt to draw a string but it may be inaccurately connecting the cups, or might not connect to both cups correctly."
+  ],
+  "CANNOT": [
+    "The student likely does not illustrate the string as a means to transmit sound (string may be floating or drawn without purpose).",
+    "The student cannot effectively depict how sound travels through the string, possibly omitting arrows or labels (student may not understand sound transmission).",
+    "The student may not demonstrate that the device uses sound to send information across a distance (drawn students might be too close or inside the cups).",
+    "The student is likely unable to include features showing the solution works over distance (students could be close together or details are missing).",
+    "The student may not use specified materials correctly, such as using random shapes instead of recognizable paper cups or string (misunderstands material usage)."
+  ]
+}

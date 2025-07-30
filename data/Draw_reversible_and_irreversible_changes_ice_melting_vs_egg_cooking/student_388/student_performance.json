@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+  "Code": "2-PS1-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "Illustrate a material before heating or cooling and describe its characteristics accurately (e.g., ice cube, whole egg in shell).",
+    "Illustrate the changes in both materials accurately: ice melting into water and egg undergoing chemical change when cooked.",
+    "Clearly show and label conditions for reversibility with ice, depicting the process of freezing and melting accurately.",
+    "Depict with precision how the cooked egg remains in an altered state, even with attempts to cool or heat further.",
+    "Incorporate visual cues such as arrows or labels to distinguish between the process of heating and cooling.",
+    "Connect drawings with annotations explaining the scientific concept of reversibility, validating their depictions with accurate descriptions."
+  ],
+  "CANNOT": [
+    "May occasionally omit minor details in labeling, such as forgetting to label the temperature change explicitly next to the drawings.",
+    "Could inconsistently explain or label transitions in temperature between heating and cooling processes with equal clarity."
+  ]
+}

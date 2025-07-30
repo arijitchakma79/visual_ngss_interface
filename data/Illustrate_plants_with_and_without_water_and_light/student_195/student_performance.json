@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can draw a plant with leaves and a stem to show what a healthy, growing plant looks like, with realistic details.",
+    "The student can draw and label the sun correctly to show that plants need light to live and grow, possibly including details like sun rays.",
+    "The student can draw water accurately, such as raindrops or a watering can, to show that plants need water to live and grow.",
+    "The student can draw a plant that does not look healthy, with clear signs like wilted or droopy leaves when it does not have light, effectively showing lack of health.",
+    "The student can draw a plant that does not look healthy, with detailed signs like wilted or droopy leaves when it does not have water, illustrating the negative effect of lack of resources."
+  ],
+  "CANNOT": [
+    "Occasionally, the student may forget to label all elements, such as the types of water sources (e.g., raindrops vs. a watering can) *(minor oversight, despite understanding)*.",
+    "The student might inconsistently show the exact causes of plant health or lack thereof, such as not always directly connecting wilted plants to the absence of water or light *(minor gap due to natural variation)*."
+  ]
+}

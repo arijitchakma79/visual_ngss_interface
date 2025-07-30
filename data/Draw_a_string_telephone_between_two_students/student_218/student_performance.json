@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a string telephone between two students.",
+  "Code": "1-PS4-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Attempt to draw a basic string telephone using items like a string and cups, but these may be vaguely represented. (e.g., drawing a line between two circles without indicating they are cups and string)",
+    "Include two human figures intended to represent students, although they may be stick figures or rudimentary shapes."
+  ],
+  "CANNOT": [
+    "Accurately show how the string telephone allows sound to travel. (student likely does not convey the concept of sound traveling or might draw unrelated paths)",
+    "Clearly depict how sound travels along the string. (student might misplace arrows or neglect sound waves completely)",
+    "Correctly illustrate the necessary materials, like paper cups. (student may not label or distinguish between materials correctly)",
+    "Demonstrate the communication process effectively. (student might not show a clear interaction or connection between the two figures communicating)",
+    "Highlight features of the device that ensure it can send sound over a distance, such as tightness of string. (student possibly unaware of these aspects or conceptual features)"
+  ]
+}

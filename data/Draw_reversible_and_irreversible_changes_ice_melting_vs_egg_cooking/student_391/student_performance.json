@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+  "Code": "2-PS1-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "Draw the material before, during, and after the change, including ice as a solid, water as a liquid, and back to ice as a solid again.",
+    "Illustrate a reversible change completely, such as ice melting to water and refreezing into ice, showing all stages accurately with correct transitions.",
+    "Illustrate an irreversible change entirely, such as depicting a raw egg, an egg being cooked, and a cooked egg, noting that it cannot return to the raw state.",
+    "Use detailed drawings to show that heating sometimes causes changes that can’t be undone, like a melted chocolate that remains in a new shape.",
+    "Accurately label all parts of their drawings with observations before and after heating/cooling, noting changes in state and characteristics of the materials.",
+    "Clearly show and label the effects of both heating and cooling on materials, such as liquid chocolate becoming solid when cooled and a cooked egg remaining solid when cooled."
+  ],
+  "CANNOT": [
+    "May inconsistently include minor details like specific timeframes for each change stage *(may forget to include this detail)*.",
+    "Occasionally omits or partially mislabels minor parts that do not significantly impact the understanding *(labels might be incomplete for lesser important elements)*."
+  ]
+}

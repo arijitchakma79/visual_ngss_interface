@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water and light.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draws a basic shape meant to represent a plant with some scribbles or colors applied randomly, possibly lacking in detail.",
+    "Shows minimal or unclear differentiation between plants with and without water and light."
+  ],
+  "CANNOT": [
+    "Accurately depict a healthy and growing plant with both water and light (might draw unrelated shapes or symbols).",
+    "Demonstrate understanding that a plant is not growing due to lack of water (might show dry soil but plant looks the same).",
+    "Illustrate a plant not growing because it does not have light (may depict a light source incorrectly or not at all).",
+    "Use drawings to demonstrate the need for water and light for plant survival (student does not connect these concepts)."
+  ]
+}

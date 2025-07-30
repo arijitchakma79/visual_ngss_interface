@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible and irreversible changes (ice melting vs. egg cooking)",
+  "Code": "2-PS1-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "Draw a clear sequence of images showing a piece of ice melting into water and then refreezing back into ice, accurately illustrating the reversible nature of the change.",
+    "Depict an egg before and after it is cooked, correctly showing why the change is irreversible with details like changes in texture and color.",
+    "Label all stages of the processes with appropriate terms like 'melting', 'freezing', 'cooking', and 'irreversible'.",
+    "Illustrate and explain the cause (heating or cooling) and its effect on each material accurately, showing understanding of which changes can be reversed."
+  ],
+  "CANNOT": [
+    "There may be minor omissions or incomplete labeling, such as missing labels on one of the phases of the ice or egg drawing (e.g., the 'cooling' label might be inconsistent).",
+    "Might not include detailed background elements or secondary effects in the drawings due to focusing on primary changes (e.g., avoiding convoluted details of heat sources or ambient temperature effects)."
+  ]
+}

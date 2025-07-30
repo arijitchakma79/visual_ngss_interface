@@ -1,0 +1,186 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Draw two habitats and the different living things in each",
+      "fillcolor": "lightblue",
+      "shape": "hexagon"
+    },
+    {
+      "id": "n2",
+      "label": "Simple forest with green trees",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n3",
+      "label": "Ocean scene with blue waves",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n4",
+      "label": "Bird in the trees",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Squirrel on a branch",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Fish in the ocean",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Large whale in the ocean",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n8",
+      "label": "Strands of seaweed",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n9",
+      "label": "Identifies and draws two different habitats",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Illustrates different kinds of plants and animals",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "Limited variety of plants and animals",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n12",
+      "label": "Use more variety in plants and animals",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n13",
+      "label": "Shows comparison through different living things",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n14",
+      "label": "Patterns demonstrate diversity",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    }
+  ],
+  "edges": [
+    [
+      "n1",
+      "n2"
+    ],
+    [
+      "n1",
+      "n3"
+    ],
+    [
+      "n1",
+      "n4"
+    ],
+    [
+      "n1",
+      "n5"
+    ],
+    [
+      "n1",
+      "n6"
+    ],
+    [
+      "n1",
+      "n7"
+    ],
+    [
+      "n1",
+      "n8"
+    ],
+    [
+      "n2",
+      "n9"
+    ],
+    [
+      "n3",
+      "n9"
+    ],
+    [
+      "n2",
+      "n10"
+    ],
+    [
+      "n3",
+      "n10"
+    ],
+    [
+      "n4",
+      "n10"
+    ],
+    [
+      "n5",
+      "n10"
+    ],
+    [
+      "n6",
+      "n10"
+    ],
+    [
+      "n7",
+      "n10"
+    ],
+    [
+      "n8",
+      "n10"
+    ],
+    [
+      "n2",
+      "n11"
+    ],
+    [
+      "n3",
+      "n11"
+    ],
+    [
+      "n11",
+      "n12"
+    ],
+    [
+      "n4",
+      "n13"
+    ],
+    [
+      "n5",
+      "n13"
+    ],
+    [
+      "n6",
+      "n13"
+    ],
+    [
+      "n7",
+      "n13"
+    ],
+    [
+      "n8",
+      "n14"
+    ]
+  ]
+}
