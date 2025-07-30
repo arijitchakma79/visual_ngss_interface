@@ -43,6 +43,66 @@ const topicConfigs = {
     }
 };
 
+let evidenceStatementsData = {};
+
+async function loadEvidenceStatements() {
+    try {
+        const response = await fetch('../evidence_statements.json'); // Fetch from parent directory
+        if (!response.ok) throw new Error('Failed to load evidence_statements.json');
+        evidenceStatementsData = await response.json();
+        console.log('Evidence Statements Loaded:', evidenceStatementsData);
+    } catch (error) {
+        console.error('Error loading evidence statements:', error);
+    }
+}
+
+function generateEvidenceBreakdownTab(studentEvidence, performance) {
+    // Auto-detect NGSS code from performance OR student evidence
+    const ngssCode = performance.Code || Object.keys(studentEvidence || {})[0];
+
+    const evidence = evidenceStatementsData[ngssCode];
+    if (!evidence) {
+        return `<p style="color: #999;">No evidence breakdown available for NGSS Code: ${ngssCode}</p>`;
+    }
+
+    return `
+        <div class="evidence-breakdown">
+            <h3>NGSS Code: ${ngssCode}</h3>
+
+            <section>
+                <h4>🔬 SEP: ${evidence.SEP.Title}</h4>
+                <ul>${evidence.SEP.Concepts.map(c => `<li>${c}</li>`).join('')}</ul>
+            </section>
+
+            <section>
+                <h4>📖 DCI: ${evidence.DCI.Title}</h4>
+                <ul>${evidence.DCI.Concepts.map(c => `<li>${c}</li>`).join('')}</ul>
+            </section>
+
+            <section>
+                <h4>🔗 CCC: ${evidence.CCC.Title}</h4>
+                <ul>${evidence.CCC.Concepts.map(c => `<li>${c}</li>`).join('')}</ul>
+            </section>
+
+            <section>
+                <h4>📝 Observable Statements</h4>
+                ${Object.entries(evidence.Observable_Statements).map(([key, obj]) => {
+                    const title = Object.keys(obj)[0];
+                    const statements = obj[title];
+                    return `
+                        <div class="observable">
+                            <h5>${key}. ${title}</h5>
+                            <ul>${statements.map(s => `<li>${s}</li>`).join('')}</ul>
+                        </div>
+                    `;
+                }).join('')}
+            </section>
+        </div>
+    `;
+}
+
+
+
 // Load topic overview
 async function loadTopic() {
     const select = document.getElementById('topicSelect');
@@ -166,6 +226,34 @@ function showStudentBrowser() {
         studentGrid.innerHTML = studentsHTML;
     }, 500);
 }
+
+// Keyboard navigation
+document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape') {
+        closeStudentModal();
+        closeDetailsModal();
+        return;
+    }
+
+    // Arrow key navigation when student details modal is open
+    if (currentStudentId && document.getElementById('detailsModal').style.display === 'block') {
+        const currentIndex = availableStudents.indexOf(currentStudentId);
+
+        if (event.key === 'ArrowLeft' && currentIndex > 0) {
+            navigateToStudent(availableStudents[currentIndex - 1]);
+            event.preventDefault();
+        } else if (event.key === 'ArrowRight' && currentIndex < availableStudents.length - 1) {
+            navigateToStudent(availableStudents[currentIndex + 1]);
+            event.preventDefault();
+        }
+    }
+});
+
+// ✅ Load evidence statements first, then initialize UI
+document.addEventListener('DOMContentLoaded', async function () {
+    await loadEvidenceStatements();  // <-- Fetch ../evidence_statements.json here
+    showWelcomeMessage();            // <-- Then show the welcome screen
+});
 
 // Load student details with real data
 async function loadStudentDetails(studentId) {
@@ -378,6 +466,7 @@ function displayRealStudentDetails(studentId, config, studentData, basePath) {
                 <button class="tab-button" onclick="showTab('performance')">📈 Performance</button>
                 <button class="tab-button" onclick="showTab('evidence')">📋 Evidence</button>
                 <button class="tab-button" onclick="showTab('simulation')">🤖 AI Analysis</button>
+                <button class="tab-button" onclick="showTab('evidenceBreakdown')">🔎 Evidence Breakdown</button>
             </div>
             
             <div id="tab-overview" class="tab-content active">
@@ -390,6 +479,10 @@ function displayRealStudentDetails(studentId, config, studentData, basePath) {
             
             <div id="tab-performance" class="tab-content">
                 ${generateRealPerformanceTab(performance)}
+            </div>
+
+            <div id="tab-evidenceBreakdown" class="tab-content">
+                ${generateEvidenceBreakdownTab(studentData.evidence_statements, performance)}
             </div>
             
             <div id="tab-evidence" class="tab-content">

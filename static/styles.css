@@ -552,3 +552,30 @@ header p {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 } 
+
+
+.evidence-breakdown section {
+    margin-bottom: 20px;
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    border-left: 4px solid #007acc;
+}
+
+.evidence-breakdown h4 {
+    margin-bottom: 10px;
+    color: #005a9e;
+}
+
+.evidence-breakdown ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.observable {
+    margin-bottom: 15px;
+    padding: 10px;
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
