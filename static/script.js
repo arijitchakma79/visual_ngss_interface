@@ -196,6 +196,16 @@ async function loadStudentDetails(studentId) {
                 <h3>⚠️ Error Loading Student Data</h3>
                 <p>Could not load data for Student ${studentId}. Please try again.</p>
                 <p style="font-size: 0.9em; color: #666; margin-top: 10px;">Error: ${error.message}</p>
+                <div style="background: #f3f4f6; padding: 15px; border-radius: 8px; margin: 20px 0; text-align: left;">
+                    <p style="margin: 0; font-size: 0.85em; color: #4b5563;">
+                        <strong>Note:</strong> Make sure you're running this from a local server. 
+                        For security reasons, browsers can't load local files when opening HTML files directly.
+                        <br><br>
+                        <strong>Quick fix:</strong> Use the provided <code>serve.py</code> script or run:
+                        <br><code>python -m http.server 8000</code>
+                        <br>Then visit: <code>http://localhost:8000</code>
+                    </p>
+                </div>
                 <button onclick="closeDetailsModal()" style="margin-top: 20px; padding: 10px 20px; background: #667eea; color: white; border: none; border-radius: 5px; cursor: pointer;">Close</button>
             </div>
         `;
@@ -510,13 +520,13 @@ function generateRealVisualTab(topicId, studentId) {
         <div class="visual-content">
             <div class="drawing-container">
                 <h3>Student Drawing</h3>
-                <img src="/api/image/${topicId}/${studentId}/drawing"
+                <img src="data/${currentTopic}/student_${studentId}/drawing.png"
                      alt="Student ${studentId} drawing"
                      onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWVlIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZpbGw9IiM5OTkiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk5vIEltYWdlPC90ZXh0Pjwvc3ZnPg=='">
             </div>
             <div class="concept-map-container">
                 <h3>Concept Map</h3>
-                <object data="/api/image/${topicId}/${studentId}/concept_map"
+                <object data="data/${currentTopic}/student_${studentId}/concept_map.svg"
                         type="image/svg+xml"
                         style="width: 100%; height: 400px; border: 1px solid #e2e8f0; border-radius: 10px;">
                     <p>Concept map not available</p>
@@ -701,34 +711,30 @@ document.addEventListener('DOMContentLoaded', function() {
 // Real data tab generation functions
 
 // Generate real overview tab with actual data
-function generateRealOverviewTab(studentId, studentData, basePath) {
+function generateRealOverviewTab(studentId, studentData) {
     const performance = studentData.student_performance || {};
     const level = performance.Level || 'Unknown';
     const levelDesc = performance['Level Description'] || 'Not available';
-    
+
     return `
         <div class="visual-content">
             <div class="drawing-container">
                 <h3>🎨 Student Drawing</h3>
-                <img src="${basePath}/drawing.png" 
+                <img src="data/${currentTopic}/student_${studentId}/drawing.png" 
                      alt="Student ${studentId} drawing" 
-                     style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);"
+                     style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);" 
                      onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
                 <div style="display: none; background: #f0f0f0; padding: 40px; border-radius: 10px; color: #666; text-align: center;">
                     <p>📷 Image not available</p>
-                    <p style="font-size: 0.9em;">drawing.png could not be loaded</p>
                 </div>
             </div>
             <div class="concept-map-container">
                 <h3>🗺️ Concept Map</h3>
-                <object data="${basePath}/concept_map.svg" 
+                <object data="data/${currentTopic}/student_${studentId}/concept_map.svg" 
                         type="image/svg+xml" 
                         style="width: 100%; height: 300px; border: 1px solid #e2e8f0; border-radius: 10px;">
-                    <div style="background: #f0f0f0; padding: 40px; border-radius: 10px; color: #666; text-align: center; height: 100%; display: flex; align-items: center; justify-content: center;">
-                        <div>
-                            <p>🌐 Concept map not available</p>
-                            <p style="font-size: 0.9em;">concept_map.svg could not be loaded</p>
-                        </div>
+                    <div style="background: #f0f0f0; padding: 40px; border-radius: 10px; color: #666; text-align: center;">
+                        <p>🌐 Concept map not available</p>
                     </div>
                 </object>
             </div>
@@ -752,53 +758,31 @@ function generateRealOverviewTab(studentId, studentData, basePath) {
         </div>
     `;
 }
-
 // Generate real visual tab with actual images
-function generateRealVisualTab(studentId, basePath) {
+function generateRealVisualTab(studentId) {
     return `
         <div class="visual-content">
             <div class="drawing-container">
                 <h3>🎨 Original Student Drawing</h3>
-                <img src="${basePath}/drawing.png" 
+                <img src="data/${currentTopic}/student_${studentId}/drawing.png" 
                      alt="Student ${studentId} drawing" 
-                     style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); cursor: pointer;"
-                     onclick="window.open('${basePath}/drawing.png', '_blank')"
+                     style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);" 
+                     onclick="window.open('data/${currentTopic}/student_${studentId}/drawing.png', '_blank')" 
                      onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
                 <div style="display: none; background: #f8f9fa; border: 2px dashed #dee2e6; padding: 60px 20px; border-radius: 10px; text-align: center; color: #6c757d;">
-                    <div style="font-size: 3em; margin-bottom: 15px;">📷</div>
-                    <h4>Drawing Not Available</h4>
-                    <p>drawing.png could not be loaded</p>
-                    <p style="font-size: 0.9em; margin-top: 10px;">
-                        Expected location: <code>${basePath}/drawing.png</code>
-                    </p>
+                    <h4>📷 Drawing Not Available</h4>
                 </div>
             </div>
             <div class="concept-map-container">
                 <h3>🗺️ Interactive Concept Map</h3>
-                <object data="${basePath}/concept_map.svg" 
+                <object data="data/${currentTopic}/student_${studentId}/concept_map.svg" 
                         type="image/svg+xml" 
                         style="width: 100%; height: 500px; border: 1px solid #e2e8f0; border-radius: 10px; background: white;">
-                    <div style="background: #f8f9fa; border: 2px dashed #dee2e6; padding: 60px 20px; border-radius: 10px; text-align: center; color: #6c757d; height: 100%; display: flex; align-items: center; justify-content: center;">
-                        <div>
-                            <div style="font-size: 3em; margin-bottom: 15px;">🌐</div>
-                            <h4>Concept Map Not Available</h4>
-                            <p>concept_map.svg could not be loaded</p>
-                            <p style="font-size: 0.9em; margin-top: 10px;">
-                                Expected location: <code>${basePath}/concept_map.svg</code>
-                            </p>
-                        </div>
+                    <div style="background: #f8f9fa; border: 2px dashed #dee2e6; padding: 60px 20px; border-radius: 10px; text-align: center; color: #6c757d;">
+                        <h4>🌐 Concept Map Not Available</h4>
                     </div>
                 </object>
             </div>
-        </div>
-        <div style="background: linear-gradient(135deg, #f0f8ff 0%, #e6f3ff 100%); padding: 20px; border-radius: 15px; margin-top: 20px; border-left: 4px solid #0284c7;">
-            <h4 style="color: #0c4a6e; margin-bottom: 10px;">🔍 Viewing Tips</h4>
-            <ul style="color: #0c4a6e; padding-left: 20px;">
-                <li>Click the drawing to view it in full size</li>
-                <li>The concept map is interactive - you can zoom and explore</li>
-                <li>Both files are loaded directly from the student data directory</li>
-                <li>If images don't load, check that the files exist in the data folder</li>
-            </ul>
         </div>
     `;
 }

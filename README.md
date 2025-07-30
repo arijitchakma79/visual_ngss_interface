@@ -1,160 +1,164 @@
 # 🎓 Visual NGSS Interface
 
-A comprehensive web-based interface for exploring and visualizing student concept maps, drawings, and performance data in NGSS (Next Generation Science Standards) assessments.
+A lightweight, client-side interface for exploring student concept maps, drawings, and performance data related to NGSS (Next Generation Science Standards) assessments.
 
-## 🚀 Features
+## ✨ Features
 
-- **Interactive Topic Browser**: Navigate between different NGSS topics and standards
-- **Student Work Visualization**: View student drawings and concept maps
-- **Performance Analysis**: Detailed breakdown of student capabilities and areas for improvement
-- **Evidence Statements**: Alignment with NGSS evidence statements and learning objectives
-- **AI Analysis**: Insights from AI-generated reasoning and educational analysis
-- **Responsive Design**: Works on desktop, tablet, and mobile devices
+- 🖼️ **Student Drawings**: View original student artwork and drawings
+- 🗺️ **Concept Maps**: Interactive SVG concept maps showing student understanding  
+- 📊 **Performance Data**: Detailed analysis of student capabilities and areas for improvement
+- 📋 **Evidence Statements**: NGSS-aligned assessment criteria
+- 🤖 **AI Analysis**: Simulation data showing AI reasoning about student performance
+- ⌨️ **Keyboard Navigation**: Use arrow keys to navigate between students
+- 📱 **Responsive Design**: Works on desktop and mobile devices
 
-## 📚 Topics Available
+## 🚀 Quick Start
 
-1. **String Telephone Communication** (1-PS4-4)
-   - Students 201-300
-   - Grade 1: Sound transmission and communication
+### Prerequisites
+- Python 3.6 or higher (comes with most modern systems)
+- A modern web browser
 
-2. **Animal Habitats** (K-LS1-1)
-   - Students 1-100  
-   - Kindergarten: Animals in their natural environments
+### Running the Interface
 
-3. **Reversible and Irreversible Changes** (2-PS1-4)
-   - Students 1-100
-   - Grade 2: Physical and chemical changes
+1. **Clone or download this repository**
+   ```bash
+   git clone <repository-url>
+   cd visual_ngss_interface
+   ```
 
-4. **Comparing Two Habitats** (2-LS4-1)
-   - Students 1-100
-   - Grade 2: Different habitats and their organisms
-
-5. **Plant Growth Requirements** (K-LS1-1)
-   - Students 1-100
-   - Kindergarten: Plant responses to environmental conditions
-
-## 🖥️ Getting Started
-
-### Option 1: Direct File Access
-1. Open `index.html` in your web browser
-2. Select a topic from the dropdown menu
-3. Browse student work and explore their data
-
-### Option 2: Local Server (Recommended)
-1. Start a local HTTP server:
+2. **Start the local server**
+   ```bash
+   python serve.py
+   ```
+   
+   Or use Python's built-in server directly:
    ```bash
    python -m http.server 8000
    ```
-2. Open your browser and navigate to `http://localhost:8000`
-3. Start exploring student work!
 
-## 📊 Data Structure
+3. **Open in browser**
+   - The server will automatically try to open your browser
+   - Or manually visit: `http://localhost:8000`
 
-Each student directory contains:
-- `drawing.png` - Original student artwork
-- `concept_map.svg` - Visual concept map representation  
-- `concept_map.json` - Concept map data structure
-- `evidence_statements.json` - NGSS evidence statements
-- `student_info.txt` - Basic student information
-- `student_performance.json` - Performance analysis
-- `student_simulation.json` - AI reasoning and analysis
+4. **Explore the data**
+   - Select a topic from the dropdown
+   - Browse student work by clicking "Browse Student Work"
+   - Navigate between students using the Previous/Next buttons or arrow keys
 
-## 🎯 Interface Components
+## 📁 Project Structure
 
-### Topic Overview
-- NGSS standard information
-- Grade level and student count
-- Topic description and objectives
-
-### Student Browser
-- Grid view of all students in a topic
-- Performance level indicators
-- Quick access to individual student data
-
-### Student Details
-Comprehensive view with multiple tabs and seamless navigation:
-
-**📍 Navigation Features:**
-- **Previous/Next buttons**: Navigate between students without closing the modal
-- **Keyboard shortcuts**: Use left/right arrow keys for quick navigation
-- **Student counter**: Shows current position (e.g., "5 of 100")
-- **Smooth transitions**: Fast loading with real-time data updates
-
-**📑 Content Tabs:**
-1. **📊 Overview**: Quick summary with visual previews
-2. **🖼️ Visual Work**: Student drawings and concept maps
-3. **📈 Performance**: What students can/cannot do
-4. **📋 Evidence**: NGSS evidence statement alignment
-5. **🤖 AI Analysis**: Educational insights and reasoning
-
-## 🔧 Technical Details
-
-### Built With
-- **HTML5**: Semantic structure and accessibility
-- **CSS3**: Modern styling with gradients and animations
-- **Vanilla JavaScript**: Interactive functionality and data handling
-- **Responsive Design**: CSS Grid and Flexbox for all screen sizes
-
-### Browser Compatibility
-- Chrome/Edge 88+
-- Firefox 85+
-- Safari 14+
-- Mobile browsers
-
-### File Structure
 ```
 visual_ngss_interface/
-├── index.html          # Main interface
-├── styles.css          # Comprehensive styling
-├── script.js           # Interactive functionality  
-├── README.md           # This documentation
-└── data/               # Student data directories
-    ├── Draw_a_string_telephone_between_two_students/
-    ├── Draw_animals_in_their_habitats_with_labels_eg_fish_in_water/
-    └── ... (other topics)
+├── index.html              # Main interface
+├── serve.py                # Simple HTTP server script
+├── static/
+│   ├── script.js           # JavaScript functionality
+│   └── styles.css          # CSS styling
+├── data/                   # Student data organized by topic
+│   ├── Draw_a_string_telephone_between_two_students/
+│   │   ├── student_201/
+│   │   │   ├── drawing.png
+│   │   │   ├── concept_map.svg
+│   │   │   ├── concept_map.json
+│   │   │   ├── evidence_statements.json
+│   │   │   ├── student_performance.json
+│   │   │   ├── student_simulation.json
+│   │   │   └── student_info.txt
+│   │   └── ... (more students)
+│   └── ... (more topics)
+└── README.md
 ```
 
-## 🎨 Features in Detail
+## 📊 Data Format
 
-### Responsive Design
-- Mobile-first approach
-- Adaptive layouts for different screen sizes
-- Touch-friendly interface elements
+Each student folder contains:
+- **drawing.png**: Original student artwork
+- **concept_map.svg**: Interactive concept map visualization
+- **concept_map.json**: Concept map data structure
+- **evidence_statements.json**: NGSS evidence statements and alignment
+- **student_performance.json**: CAN/CANNOT statements and performance level
+- **student_simulation.json**: AI reasoning and analysis
+- **student_info.txt**: Basic student and topic information
 
-### Accessibility
-- Semantic HTML structure
-- ARIA labels and descriptions
-- Keyboard navigation support
-- High contrast design elements
+## 🔧 Topics Available
 
-### Performance
-- Lazy loading of student data
-- Efficient grid layouts
-- Smooth animations and transitions
+1. **String Telephone Communication** (Students 201-300)
+   - NGSS: 1-PS4-4, Grade 1
+   - Focus: Sound transmission and communication
 
-## 🔮 Future Enhancements
+2. **Animal Habitats** (Students 1-100) 
+   - NGSS: K-LS1-1, Grade K
+   - Focus: Animals in their natural environments
 
-- Real file loading from the data directories
-- Advanced filtering and search capabilities
-- Data export functionality
-- Comparative analysis tools
-- Integration with learning management systems
-- Advanced concept map interactions
+3. **Plant Growth Requirements** (Students 101-200)
+   - NGSS: K-LS1-1, Grade K  
+   - Focus: Plants and environmental conditions
 
-## 📝 Usage Notes
+4. **Reversible and Irreversible Changes** (Students 301-400)
+   - NGSS: 2-PS1-4, Grade 2
+   - Focus: Physical and chemical changes
 
-Currently, the interface demonstrates the structure and functionality using sample data. In a production environment, it would:
+5. **Comparing Two Habitats** (Students 401-500)
+   - NGSS: 2-LS4-1, Grade 2
+   - Focus: Different habitats and organisms
 
-1. Load actual PNG images from student directories
-2. Render SVG concept maps with interactive elements
-3. Parse JSON files for real performance data
-4. Provide file download capabilities
-5. Include advanced analytics and reporting
+## 🎯 Key Features
+
+### Navigation
+- **Previous/Next Buttons**: Navigate between students in sequence
+- **Keyboard Shortcuts**: Use ← → arrow keys for quick navigation
+- **Student Browser**: Grid view of all students with performance levels
+
+### Data Visualization
+- **Real Student Data**: Loads actual JSON files and images
+- **Interactive Elements**: Click to view full-size images
+- **Tabbed Interface**: Organized view of different data types
+- **Responsive Design**: Adapts to different screen sizes
+
+### Performance Analysis
+- **CAN/CANNOT Statements**: Clear breakdown of student capabilities
+- **Evidence Alignment**: Shows how work aligns with NGSS standards
+- **AI Insights**: Computer-generated analysis of student approaches
+
+## 🛠️ Technical Details
+
+### No Dependencies Required!
+This interface uses only Python's built-in modules:
+- `http.server` for serving files
+- Standard web technologies (HTML, CSS, JavaScript)
+- No Flask, Django, or other frameworks needed
+
+### Browser Compatibility
+- Chrome/Chromium (recommended)
+- Firefox
+- Safari  
+- Edge
+- Mobile browsers
+
+### Security Note
+The interface loads files via HTTP requests, so it requires a local server to function properly. Opening `index.html` directly in a browser won't work due to CORS restrictions.
+
+## 🚨 Troubleshooting
+
+### Port Already in Use
+```bash
+python serve.py --port 8001
+```
+
+### Files Not Loading
+Make sure you're accessing via `http://localhost:8000` and not opening the HTML file directly.
+
+### Images Not Displaying
+Check that the `data/` folder structure matches the expected format and image files exist.
 
 ## 🤝 Contributing
 
-This interface serves as a foundation for educational data visualization. Contributions for enhanced functionality, additional NGSS topics, or improved accessibility are welcome.
+Feel free to submit issues, fork the repository, and create pull requests for any improvements.
 
 ## 📄 License
 
-This educational interface is designed for research and educational purposes in NGSS assessment visualization. 
+This project is open source. Please check the repository for specific license terms.
+
+---
+
+**Made for educational research and NGSS assessment visualization** 🎓✨ 
