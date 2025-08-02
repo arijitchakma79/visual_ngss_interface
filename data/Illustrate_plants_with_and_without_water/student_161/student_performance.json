@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw a basic shape that resembles a plant, although details are minimal (e.g., the plant might just be a simple stem and leaves without any distinction)."
+  ],
+  "CANNOT": [
+    "The student cannot clearly depict the difference between a well-watered plant and an unwatered plant (e.g., both plants might look the same or have no discernible features).",
+    "The student cannot use the drawing to show that plants need water to live and grow (e.g., the concept of wilting or growth isn't conveyed).",
+    "The student cannot identify patterns showing how plants react differently with and without water (e.g., both scenarios look alike without any specific features indicating water's impact).",
+    "The student may inaccurately represent what plants need, perhaps only showing light or neither light nor water in their drawing (e.g., drawings might exclude essential elements like the sun or raindrops).",
+    "The student may incorrectly label parts of the drawing or include unrelated elements that don't contribute to demonstrating understanding (e.g., flowers floating without any wilting signs or water visible)."
+  ]
+}

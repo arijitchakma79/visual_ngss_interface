@@ -1,0 +1,15 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a plant that has plenty of water, showing it looking healthy and growing well with details like green leaves and an upright stem.",
+    "The student can draw a plant without water, depicting it as wilted or not growing well, possibly with drooping leaves and a bent stem.",
+    "The student can illustrate the concept that plants need water to live and grow by comparing a healthy plant with a wilted plant in their drawing, showing clear differences between the two."
+  ],
+  "CANNOT": [
+    "The student may sometimes miss details like showing roots or might not fully capture the process of a plant wilting (student focuses primarily on the visible parts of the plant).",
+    "The student might inconsistently label parts of the plant or might leave out labels entirely in some parts of their drawing (student assumes the drawing is self-explanatory)."
+  ]
+}

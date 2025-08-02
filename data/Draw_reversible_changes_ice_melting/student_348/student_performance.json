@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can accurately illustrate the initial state with ice cubes clearly depicted before melting.",
+    "The student can effectively show the process of ice melting into water, illustrating droplets or a pool of water around the melting ice.",
+    "The student can accurately depict the reversible process by illustrating water freezing back into ice, showing a freezer or a cold environment.",
+    "The student can correctly identify and represent through their drawings that the change from ice to water is reversible.",
+    "The student can demonstrate a clear understanding of cause and effect by showing the sequence of heating (sunlight, warmth) leading to ice melting and cooling (freezing environment) leading back to ice, with appropriate symbols or arrows."
+  ],
+  "CANNOT": [
+    "Minor gaps such as potentially incomplete labeling of temperature changes or states (e.g., not labeling 'solid' or 'liquid').",
+    "The student might show mixed success with artistic consistency, such as maintaining proportions or realistic representation, especially if attempting detailed aspects like temperature symbols (e.g., partially drawn sun or clouds could be unclear visually)."
+  ]
+}

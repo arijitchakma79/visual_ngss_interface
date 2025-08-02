@@ -4,14 +4,13 @@
   "Level": 2,
   "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can illustrate two people trying to communicate, possibly standing at a distance from each other.",
-    "The student can design and draw a basic device using a line to connect two figures, representing the string.",
-    "The student might label some parts of the device, such as 'string' or 'student' (some key elements labeled)."
+    "The student can illustrate two cups connected by a string, indicating a basic representation of a string telephone.",
+    "The student may attempt to show the direction of sound travel through simple arrows or lines, but these may not be consistently applied or clear.",
+    "The student can depict basic elements like two students holding the cups, giving a rudimentary sense of communication."
   ],
   "CANNOT": [
-    "The student is unlikely to incorporate clear elements showing sound used to communicate, such as waves or vibrations *(student may not understand the role of sound waves)*.",
-    "The student might not properly label critical parts like 'cups' or fail to indicate how the parts function *(incomplete labeling of necessary components)*.",
-    "The student is likely unable to illustrate sound waves traveling along the string correctly *(student may miss the concept of sound traveling through string)*.",
-    "The student is unlikely to provide a clear or accurate explanation of how their design allows communication over distance *(lacks understanding of the sound travel mechanism)*."
+    "The student is likely unable to clearly show how sound travels through the string, possibly omitting arrows or incorrectly indicating sound waves (e.g., no or incorrect directional arrows).",
+    "The student may not accurately depict the materials used, perhaps including additional or unnecessary items beyond the string and cups (e.g., drawing a bell or speaker that is not part of the task).",
+    "The student may misunderstand the connection between the device and its function as a communication tool, such as showing sound traveling through the air instead of the string."
   ]
 }

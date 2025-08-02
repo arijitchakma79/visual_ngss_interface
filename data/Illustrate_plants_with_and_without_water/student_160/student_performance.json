@@ -1,0 +1,18 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can draw a plant that has been watered, showing it as healthy and growing, with details such as vibrant green leaves and a strong stem.",
+    "The student can draw a plant that has not been watered, showing it as wilted or not growing, with features like drooping leaves and a weaker stem.",
+    "The student can identify and illustrate that plants need water to live and grow, possibly including a labeled water source such as rain or a watering can.",
+    "The student can use observations to show how the appearance of a plant changes with and without water, perhaps indicating stages over time.",
+    "The student can depict the sunlight's role by drawing plants exposed to light, showing growth and healthy foliage.",
+    "The student can illustrate the effects of light absence by drawing plants in a dark or shaded area, showing them struggling or not growing well."
+  ],
+  "CANNOT": [
+    "The student might not consistently label all parts of the plant correctly, such as forgetting to label the roots or the stem.",
+    "The student may not include every environmental factor (like soil quality) even though they understand the primary role of water and light."
+  ]
+}

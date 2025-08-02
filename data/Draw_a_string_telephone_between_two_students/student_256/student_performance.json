@@ -1,17 +1,18 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can draw two people who need to communicate over a long distance, with each person holding one end of the string telephone.",
-    "The student can illustrate a basic string telephone device, showing a string connecting two tin cans or cups.",
-    "The student can demonstrate sound travel by depicting the string stretched tightly, with possible small wave-like lines or arrows indicating sound waves.",
-    "The student can use labels or brief notes to describe components like 'string', 'cup', and indicate that sound travels through the string."
+    "The student can illustrate a string telephone device that connects two students over a distance, depicting the string taut and straight.",
+    "The student can show how the string telephone uses sound to communicate information by indicating sound waves traveling through the string.",
+    "The student can portray specific features that allow sound to travel, such as ensuring the string is drawn with tension and directly connected to each cup.",
+    "The student can incorporate only the given materials (cups and string) in their illustration of the string telephone.",
+    "The student can depict a successful exchange of information between the students, such as one student appearing to speak while the other is listening.",
+    "The student can include a caption or label explaining how the string telephone helps people communicate over long distances, demonstrating an understanding of sound transmission through the medium of the string."
   ],
   "CANNOT": [
-    "The student may not fully represent the idea that sound vibrations travel through the string accurately (e.g., lack of directionality in arrows).",
-    "The student might inconsistently label all parts of the device (e.g., 'tin can' labeled but 'string' is not).",
-    "The student may not completely explain in notes how sound exactly travels through the string (e.g., notes include 'sound goes through string' without mentioning vibrations)."
+    "The student might occasionally omit minor details such as improperly labeled parts of the string telephone (e.g., labeling one part of the string but not the other), but this doesn't affect overall understanding.",
+    "The student might not perfectly illustrate the subtle curvature of sound waves in the air or through the string, focusing more on a clear schematic."
   ]
 }

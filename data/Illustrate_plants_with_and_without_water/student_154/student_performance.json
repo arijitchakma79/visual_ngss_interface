@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a basic outline of two plants, one representing a healthy plant and one representing a plant without water.",
+    "The student can attempt to show differences between the two plants, such as a wilted shape for the plant without water and an upright shape for the plant with water.",
+    "The student can label some parts of the plant, like the stem and leaves, though labels may be inconsistent or incomplete."
+  ],
+  "CANNOT": [
+    "The student may not clearly show all the differences between the plants with and without water, potentially missing key details like leaf color changes or stem strength (student might not fully grasp these aspects).",
+    "The student is likely unable to consistently label all parts of each plant accurately, perhaps omitting parts like roots or flowers (student has limited knowledge of plant anatomy).",
+    "The student may misunderstand the direct need for water, and could depict both plants similarly or fail to represent water's role in plant health clearly (student might not connect water with healthy plant growth)."
+  ]
+}

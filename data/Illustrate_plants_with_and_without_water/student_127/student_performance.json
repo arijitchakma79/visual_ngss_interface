@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a plant with enough water, showing it as healthy with green leaves and strong stems.",
+    "The student can draw a plant without water, depicting it as wilted or dry with brown or drooping leaves.",
+    "The student can observe and illustrate the pattern that plants do not thrive without water.",
+    "The student might attempt to include the differences between plants with light and plants in the dark, though this may not be complete."
+  ],
+  "CANNOT": [
+    "The student may not consistently or accurately show the differences between plants with light and those in the dark, resulting in unclear or mixed illustrations (e.g., confusion about light's impact).",
+    "The student might show animals near healthy plants but might not clearly represent this as an example of animals relying on plants for food (e.g., animals are present but not engaging with the plant)."
+  ]
+}

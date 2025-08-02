@@ -8,49 +8,61 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure students",
+      "label": "Two children using string telephone",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Cups as open cylinders",
+      "label": "Sound traveling through string with arrows",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Straight line as string",
+      "label": "Cups and string used as materials",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Emphasizes communication attempt",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Scene indicates distance",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Correct material labeling",
+      "label": "Understands how to communicate over distance using sound",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Depicts usage for communication",
+      "label": "Understands how sound travels through the string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Does not show sound travel",
+      "label": "Understands realistic materials for string telephone",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n9",
+      "label": "Communication device is useful over long distances",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Inconsistent labeling or scale issues",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n9",
-      "label": "Add sound waves to indicate sound travel",
+      "id": "n11",
+      "label": "Consider adding labels and adjusting scale",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -69,15 +81,15 @@
       "n4"
     ],
     [
-      "n2",
+      "n1",
       "n5"
     ],
     [
-      "n3",
+      "n2",
       "n6"
     ],
     [
-      "n4",
+      "n3",
       "n7"
     ],
     [
@@ -85,8 +97,16 @@
       "n8"
     ],
     [
-      "n8",
+      "n5",
       "n9"
+    ],
+    [
+      "n5",
+      "n10"
+    ],
+    [
+      "n10",
+      "n11"
     ]
   ]
 }

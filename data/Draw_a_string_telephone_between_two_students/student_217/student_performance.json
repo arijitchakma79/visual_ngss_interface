@@ -4,14 +4,14 @@
   "Level": 1,
   "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can attempt to draw two students but may not connect them with the device clearly.",
-    "The student can depict cups or a cup-like object, though may not show them as part of a functional device (e.g., cups may appear as separate items without any connection)."
+    "The student may draw two students holding something that might represent a string or cups (e.g., a simple line connecting them).",
+    "The student might use colors or shapes to imply communication but without clarity (e.g., lines or circles near the students)."
   ],
   "CANNOT": [
-    "The student is unlikely to show a correct connection between the cups with a string (e.g., the string may be missing or incorrectly drawn, like dangling loosely).",
-    "The student cannot accurately represent the function of the string telephone to carry sound (e.g., no indication of sound traveling or the operation of the device).",
-    "The student does not show the string being stretched tightly between the cups (e.g., string might be loose or not shown).",
-    "The student may misunderstand the purpose of the device entirely (e.g., both figures might be shown holding the cups in a way unrelated to communication).",
-    "The drawing may not indicate communication or sound as the method for distance communication (e.g., no clear actions depicting speaking or listening)."
+    "The student is unlikely to correctly illustrate how the string telephone works (e.g., may not draw the cups or string properly connected or depicted at all).",
+    "The student may not show how sound travels through the string (e.g., no indication of vibration or sound waves).",
+    "The student may not use the designated materials correctly (e.g., drawing a wire instead of a string, or not using cups).",
+    "The student may not include features for sending or receiving information (e.g., speaking or listening parts of the cups are not evident or accurately depicted).",
+    "The student might not understand the concept of communication over distance or fail to illustrate it meaningfully (e.g., drawing the two students too close together or without a clear purpose)."
   ]
 }

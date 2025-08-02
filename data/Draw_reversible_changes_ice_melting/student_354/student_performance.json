@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can depict ice in a solid form using simple shapes to represent its structure (e.g., a cube or block) and may label it 'ice'.",
+    "The student can attempt to show ice melting into water by drawing water beneath or next to the ice, possibly with arrows to indicate change.",
+    "The student might illustrate water in liquid form using wavy lines or droplets, showing that it is different from the ice."
+  ],
+  "CANNOT": [
+    "The student may not consistently represent the process of refreezing correctly or may omit it entirely (e.g., showing only melting but not solidification).",
+    "The student might not clearly indicate cause and effect, such as heating leading to melting and cooling lead to freezing (e.g., arrows or symbols may be missing or incorrectly placed).",
+    "The student is unlikely to use technical terms or detailed labels consistently, such as 'liquid' or 'solid', or may confuse them (e.g., labeling water as 'ice').",
+    "The student may fail to illustrate that the process is reversible, not showing water turning back into ice (e.g., depicting only one directional change)."
+  ]
+}

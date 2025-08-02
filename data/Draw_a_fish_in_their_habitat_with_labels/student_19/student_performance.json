@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a fish and clearly label it as well as draw water around it to represent its habitat.",
+    "The student can label the water as the habitat essential for the fish's survival.",
+    "The student can include some plants or aquatic elements, such as seaweed or coral, in the drawing.",
+    "The student can illustrate basic resources like water and partially or fully label these as necessary for the fish."
+  ],
+  "CANNOT": [
+    "The student might omit some specific labels for other resources like air if they draw aquatic plants (minor gap in labeling).",
+    "The student might not fully explain the interconnection between different elements of the system, such as how plants provide oxygen within the fish’s habitat, due to limited integration of systemic view."
+  ]
+}

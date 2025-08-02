@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can draw a plant that looks healthy when it has water, showing lush green leaves and strong stems.",
+    "The student can accurately depict a plant that appears unhealthy or wilting due to lack of water, with droopy, brown leaves.",
+    "The student can include detailed elements like raindrops and dry, cracked earth to indicate presence and absence of water.",
+    "The student can successfully show a comparison by placing a healthy, vibrant plant and an unhealthy, wilting plant side by side.",
+    "The student can effectively use color to differentiate between the vibrant, healthy plant and the dull, unhealthy plant, using greenery and browns to show health levels."
+  ],
+  "CANNOT": [
+    "The student may occasionally forget to label or provide minimal explanation for their illustrations, assuming details are self-evident. (e.g., not labeling 'with water' and 'without water')",
+    "The student might not perfectly balance plant characteristics in each scenario, such as slightly subdued color vibrancy in the healthy plant. (e.g., less vibrant than intended)"
+  ]
+}

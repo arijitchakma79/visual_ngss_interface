@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a healthy plant with green leaves and flowers, indicating it has plenty of water.",
+    "The student can draw an unhealthy plant with wilted or brown leaves, demonstrating a lack of water.",
+    "The student can clearly show the difference between a healthy and an unhealthy plant in their drawing.",
+    "The student can use their drawing to demonstrate that plants need water to live and grow, perhaps by labeling or with contextual symbols like raindrops."
+  ],
+  "CANNOT": [
+    "The student may inconsistently show certain elements, such as occasionally omitting detailed features like root systems that could further illustrate water dependence (minor gap).",
+    "The student might not fully label all parts of the drawing that could make the illustrations more informative, such as naming the plant or specific plant parts that would benefit from water (partial labeling)."
+  ]
+}

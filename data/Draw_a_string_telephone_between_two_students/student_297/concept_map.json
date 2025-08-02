@@ -8,61 +8,67 @@
     },
     {
       "id": "n2",
-      "label": "Two smiling students facing each other",
+      "label": "Two cartoonish students holding cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Each holding a cup",
+      "label": "Loosely drawn line representing string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Connected by a taut, unbroken string",
+      "label": "Students close together",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Arrows along the string",
+      "label": "No labels present",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Cups and string labeled appropriately",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
-    },
-    {
-      "id": "n7",
-      "label": "Soundwave lines depicted on the string",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
-    },
-    {
-      "id": "n8",
-      "label": "Sound travels through the string",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
-    },
-    {
-      "id": "n9",
-      "label": "Understanding of sound transmission via string",
+      "label": "Understands basic components of string telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n10",
-      "label": "Limited understanding of environmental factors",
+      "id": "n7",
+      "label": "Misunderstand sound travel - string tension",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
+      "id": "n8",
+      "label": "Misunderstand distance in communication",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n9",
+      "label": "Lacks detail - missing labels",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n10",
+      "label": "Draw string tight for sound to travel",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
       "id": "n11",
-      "label": "Suggest explanation of speed of sound in different media",
+      "label": "Depict students further apart for communication",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n12",
+      "label": "Label parts of string telephone",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -85,52 +91,32 @@
       "n5"
     ],
     [
-      "n1",
+      "n2",
       "n6"
     ],
     [
-      "n1",
+      "n3",
       "n7"
     ],
     [
-      "n1",
-      "n8"
-    ],
-    [
-      "n2",
-      "n9"
-    ],
-    [
-      "n3",
-      "n9"
-    ],
-    [
       "n4",
-      "n9"
+      "n8"
     ],
     [
       "n5",
       "n9"
     ],
     [
-      "n6",
-      "n9"
-    ],
-    [
       "n7",
-      "n9"
-    ],
-    [
-      "n8",
-      "n9"
-    ],
-    [
-      "n4",
       "n10"
     ],
     [
-      "n10",
+      "n8",
       "n11"
+    ],
+    [
+      "n9",
+      "n12"
     ]
   ]
 }

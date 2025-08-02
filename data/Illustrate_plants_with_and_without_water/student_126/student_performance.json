@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a plant that has enough water, showing it looking somewhat healthy, possibly with some indication of growth like visible leaves or a simple stem.",
+    "The student can draw a plant without enough water but may show basic signs of wilting, such as drooping leaves or slightly bent stem.",
+    "The student can partially show how plants need light by drawing a plant under a sun, although the drawing might lack in detail or focus on light as a critical element."
+  ],
+  "CANNOT": [
+    "The student is likely unable to accurately show detailed differences between healthy and unhealthy plants (e.g., drooping might not be prominent, or plant size differences are minimal).",
+    "The student may not illustrate comparison and contrast effectively, often missing labels or leaving out clear signs of differences (e.g., lack of elements indicating growth or health).",
+    "The drawing might not clearly show different types of plants to fully represent the need for water and light (e.g., all plants may look very similar, suggesting a gap in understanding diversity)."
+  ]
+}

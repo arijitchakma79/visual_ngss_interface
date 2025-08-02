@@ -8,63 +8,63 @@
     },
     {
       "id": "n2",
-      "label": "Two students using string telephone",
+      "label": "Two stick-figure children holding cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "String connecting two paper cups",
+      "label": "Slightly wavy line representing string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Labels for cups, string, students",
+      "label": "One cup labeled 'cup'",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Distance greater than shouting range",
+      "label": "Simple colors used",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Sound waves depicted",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Cups connect students",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Understanding of communication using string",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "String not taut, misunderstanding of sound travel",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Correct illustration of string connection",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Inconsistent labeling",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "Effective use of labels for clarity",
+      "label": "Basic understanding of components",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Understanding of distance factor in communication",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Make string taut to carry sound better.",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     },
     {
       "id": "n11",
-      "label": "Basic understanding of sound waves traveling",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Add missing labels for clarity.",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     }
   ],
   "edges": [
@@ -85,27 +85,27 @@
       "n5"
     ],
     [
-      "n1",
+      "n2",
       "n6"
     ],
     [
-      "n2",
+      "n3",
       "n7"
     ],
     [
-      "n3",
+      "n4",
       "n8"
     ],
     [
-      "n4",
+      "n5",
       "n9"
     ],
     [
-      "n5",
+      "n7",
       "n10"
     ],
     [
-      "n6",
+      "n8",
       "n11"
     ]
   ]

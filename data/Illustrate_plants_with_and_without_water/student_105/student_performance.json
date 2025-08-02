@@ -1,0 +1,15 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw two plants, but they may both look similar without clear distinction between a plant with water and one without."
+  ],
+  "CANNOT": [
+    "The student is unlikely to show the effect of having water on the plant, such as healthy growth or vibrant color (student might not know how water affects plant appearance).",
+    "The student may not illustrate the effect of lacking water, such as wilting or brown leaves (student might not understand what happens when plants lack water).",
+    "The student cannot use the drawing to show that plants need water to live and grow (student doesn’t recognize the role of water).",
+    "The student is unable to identify patterns between plants with and without water based on their drawings, as they may not see any differences (student lacks observational skills or knowledge of patterns)."
+  ]
+}

@@ -1,16 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can demonstrate a device that allows two people to communicate using sound over a distance by drawing a string telephone connecting two students.",
-    "The student can represent the use of string and cups as tools to solve the problem of communication with a clear depiction of cups at both ends of the string.",
-    "The student can include elements in the drawing that show sound traveling through the string, such as arrows or sound waves moving towards the listener.",
-    "The student can illustrate how the device connects two students to communicate, showing a complete line of string between them."
+    "Depict two students holding cups connected by a string (basic representation of a string telephone).",
+    "Show the string connecting the two cups (illustrates a basic understanding of how sound travels).",
+    "Identify some of the materials involved (e.g., cups and string) without understanding their purpose."
   ],
   "CANNOT": [
-    "The student may have an incomplete understanding of how sound travels, potentially omitting arrows or not fully illustrating sound waves traveling through the string (e.g., lacks clarity on how sound moves through the medium).",
-    "The student might not fully explain or label why communicating with this device is helpful for long distances, without text or elements that emphasize distance communication (e.g., may not label or explain effectiveness beyond immediate depiction)."
+    "Accurately illustrate the concept of sound traveling through the string (may not show how sound vibrations work).",
+    "Show the function of the string telephone for long-distance communication (student may not grasp distance concept).",
+    "Explain or represent how the device solves the communication problem (lacks understanding of communication purpose).",
+    "Correctly identify light or sound as the method of communication (might confuse light and sound usage)."
   ]
 }

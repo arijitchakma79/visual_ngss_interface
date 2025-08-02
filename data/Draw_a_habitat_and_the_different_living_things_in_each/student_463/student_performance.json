@@ -1,0 +1,19 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw and identify different kinds of living things in a specific land habitat, like a garden or forest. (e.g., may include trees, flowers, birds, and insects)",
+    "The student can draw and identify different kinds of living things in a specific water habitat, like a pond or stream. (e.g., may include fish, frogs, aquatic plants)",
+    "The student can show different types of plants in both land and water habitats, such as trees, grasses, and flowering plants.",
+    "The student can show different types of animals in both land and water habitats, such as fish in the water habitat and squirrels in the land habitat.",
+    "The student can compare the types of living things found in different habitats by drawing both habitats and some of their inhabitants side by side.",
+    "The student can organize and label their drawings clearly for the types of plants and animals in each habitat, but may miss a few labels."
+  ],
+  "CANNOT": [
+    "The student might not show all possible species correctly or omit some common species. (e.g., only one type of fish in the water habitat)",
+    "The student may inconsistently label some organisms or occasionally misspell names. (e.g., 'lizerd' instead of 'lizard')",
+    "The student may have minor inaccuracies in proportion or scale between plants and animals. (e.g., a fish being too large compared to trees in a pond drawing)"
+  ]
+}

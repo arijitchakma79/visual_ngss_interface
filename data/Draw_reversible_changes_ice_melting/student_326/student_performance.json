@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw an illustration of ice before it undergoes change, such as a block of ice with basic features like straight lines and a blue color to indicate it is solid.",
+    "The student can show that the ice has melted into water using a basic drawing with wavy lines or blue color to hint at a liquid state after heating.",
+    "The student can depict that water can refreeze into ice using arrows to indicate change, even if not detailed."
+  ],
+  "CANNOT": [
+    "The student may not clearly demonstrate how the ice returns to its original state, perhaps missing labels or drawing unclear transitions when water refreezes into ice.",
+    "The student might not identify or illustrate a change where the material does not return to its original state (e.g., they might not know how to depict a cooked egg staying solid).",
+    "The student may not be able to accurately label their drawing to indicate which changes are reversible or irreversible (mixed or missing labels may occur)."
+  ]
+}

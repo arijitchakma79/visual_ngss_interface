@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can accurately depict a healthy plant with enough water, showing vibrant green leaves and upright stems.",
+    "The student can clearly show an unhealthy plant without enough water, illustrating wilted or drooping leaves and stems.",
+    "The student can effectively illustrate the importance of water for plant growth by incorporating visible water sources like rain or watering cans in their drawing.",
+    "The student can clearly differentiate between plants with and without water by using contrasting patterns, such as vibrant colors for healthy plants and dull, wilted appearances for dehydrated ones."
+  ],
+  "CANNOT": [
+    "The student might occasionally miss minor details like additional labeling of water sources.",
+    "The student might infrequently show small inconsistencies in the size or thickness of leaves, but this does not impact the overall understanding of the concept."
+  ]
+}

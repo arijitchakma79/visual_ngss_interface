@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw random scenery that resembles a general outdoor environment, but not distinguish between specific habitats (e.g., mixing water and land elements together without separation).",
+    "Include a few elements that might belong to a habitat, like a cloud or a sun, but not specific living things related to the habitat (e.g., drawing a tree but not understanding it fits in a land habitat)."
+  ],
+  "CANNOT": [
+    "Correctly identify and draw distinct habitats, like separating a land habitat from a water habitat (student may draw all elements together without understanding habitat differences).",
+    "Label the habitats correctly (might write labels like 'land' and 'water' but mix them up or not label at all).",
+    "Show an understanding of living things specific to each habitat (e.g., drawing a fish on land or a tree underwater).",
+    "Demonstrate patterns or draw a variety of living things specific to each habitat (might repeatedly draw the same element in both habitats or not draw living things at all).",
+    "Provide any evidence of diversity within habitats (student may not include different species or types of plants and animals, showing lack of understanding or awareness of biodiversity)."
+  ]
+}

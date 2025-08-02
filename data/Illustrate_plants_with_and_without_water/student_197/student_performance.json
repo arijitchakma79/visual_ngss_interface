@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may draw a plant without clear distinguishing features (e.g., basic stick figure representation that might include a few green lines for leaves).",
+    "The student can attempt to show differences by using a single color for both plants, suggesting some awareness that they can be represented similarly."
+  ],
+  "CANNOT": [
+    "The student cannot clearly show differences between a well-watered and a water-deprived plant (e.g., all plants look the same regardless of watering, showing no signs of wilting or color changes).",
+    "The student does not demonstrate the plant's need for light (e.g., omits any indication of sunlight or differences in plant appearance due to light exposure, possibly perceiving plants as not needing light).",
+    "The student may incorrectly label some parts or incorrectly switch causes, such as believing wilting is due to too much sunlight rather than lack of water (student might draw sun incorrectly as a harmful element).",
+    "The student cannot use drawings to indicate that plants need water to live or grow (e.g., shows plants growing despite the absence of any indicators of water)."
+  ]
+}

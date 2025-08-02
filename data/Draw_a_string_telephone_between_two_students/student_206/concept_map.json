@@ -2,49 +2,61 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students",
+      "label": "Draw a string telephone between two students.",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two stick figures representing students",
+      "label": "Two children standing apart",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "A straight line representing a string",
+      "label": "Strings connected to cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Basic understanding of a communication device",
+      "label": "Wavy lines along the string",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Happy faces and grassy field",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Shows need to communicate over distance",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n5",
-      "label": "Misunderstanding sound transmission",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n6",
-      "label": "No depiction of materials used or sound functions",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
       "id": "n7",
-      "label": "Add cups to depict materials used",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Demonstrates string carries sound",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Demonstrate sound travels via string",
+      "label": "Lacks clarity of sound direction",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n9",
+      "label": "Conveys a positive interaction setting",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Consider adding arrows to show sound travel",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -59,24 +71,32 @@
       "n3"
     ],
     [
-      "n2",
+      "n1",
       "n4"
     ],
     [
-      "n3",
+      "n1",
       "n5"
     ],
     [
-      "n3",
+      "n2",
       "n6"
     ],
     [
-      "n5",
+      "n3",
+      "n7"
+    ],
+    [
+      "n4",
       "n8"
     ],
     [
-      "n6",
-      "n7"
+      "n5",
+      "n9"
+    ],
+    [
+      "n8",
+      "n10"
     ]
   ]
 }

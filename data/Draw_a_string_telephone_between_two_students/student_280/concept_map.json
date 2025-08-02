@@ -8,51 +8,81 @@
     },
     {
       "id": "n2",
-      "label": "Two students using a string telephone",
+      "label": "Two students using string telephone",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Straight string connecting two cups",
+      "label": "Student speaking into a blue cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Labels for 'sound waves'",
+      "label": "Student listening from a similar cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Small drawings of a phone and a walkie-talkie",
+      "label": "Red string connects the cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Students effectively using device to communicate",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Sound waves near speaking student's mouth",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "String clearly connects students for communication",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Includes labeled parts: 'cup', 'string'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n8",
-      "label": "Correct depiction of sound as a communication medium",
+      "label": "Students communicate over distance using string telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Understanding of communication tools",
+      "label": "Device uses sound to communicate",
       "fillcolor": "palegreen",
       "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Illustration of sending/receiving information",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "String allows sound to travel",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n12",
+      "label": "Function of each part is labeled",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n13",
+      "label": "May occasionally miss a minor label",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n14",
+      "label": "Ensure all parts are labeled for clarity",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     }
   ],
   "edges": [
@@ -73,20 +103,40 @@
       "n5"
     ],
     [
-      "n2",
+      "n1",
       "n6"
     ],
     [
-      "n3",
+      "n1",
       "n7"
     ],
     [
-      "n4",
+      "n2",
       "n8"
     ],
     [
-      "n5",
+      "n3",
       "n9"
+    ],
+    [
+      "n4",
+      "n10"
+    ],
+    [
+      "n5",
+      "n11"
+    ],
+    [
+      "n7",
+      "n12"
+    ],
+    [
+      "n7",
+      "n13"
+    ],
+    [
+      "n13",
+      "n14"
     ]
   ]
 }

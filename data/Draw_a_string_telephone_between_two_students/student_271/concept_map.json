@@ -2,69 +2,69 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students.",
+      "label": "Draw a string telephone between two students",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two stick figure students",
+      "label": "Two cartoon-style students with different clothes and hairstyles",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Cups held to ear/mouth",
+      "label": "String telephone made of paper cups and straight string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Red line connecting cups",
+      "label": "Arrows along the string indicating sound travel",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Wavy arrows on the string",
+      "label": "Labels: 'sound travels here' and 'speaking side'",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Sound travels through vibrating string",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Illustrates problem of distance communication",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Represents communication between distant people",
+      "label": "Shows communication using sound through a device",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Illustrates use of string telephone",
+      "label": "Depicts sound travel direction with arrows",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Depicts sound travel between cups",
+      "label": "Labels describe sound use in communication",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Shows how sound can send information",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Incomplete understanding of sound wave mechanics",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n11",
-      "label": "Explains communication problem resolution",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Ensure string is taut to represent sound traveling",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     }
   ],
   "edges": [
@@ -85,31 +85,27 @@
       "n5"
     ],
     [
-      "n1",
+      "n2",
       "n6"
     ],
     [
-      "n2",
+      "n3",
       "n7"
     ],
     [
-      "n3",
-      "n8"
-    ],
-    [
       "n4",
-      "n9"
+      "n8"
     ],
     [
       "n5",
       "n9"
     ],
     [
-      "n6",
+      "n3",
       "n10"
     ],
     [
-      "n6",
+      "n10",
       "n11"
     ]
   ]

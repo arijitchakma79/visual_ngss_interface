@@ -8,49 +8,49 @@
     },
     {
       "id": "n2",
-      "label": "Two children with paper cups",
+      "label": "Two cartoon-style students holding cans",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "String connected between cups with some slack",
+      "label": "String connecting the cans",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Children speaking and listening",
+      "label": "Arrows on string showing sound travel",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Wavy lines as sound waves",
+      "label": "Labeled tin can on one end only",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Basic use of string telephone to communicate",
+      "label": "Using device to communicate",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Misunderstanding of tension for sound transmission",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n8",
-      "label": "Attempt to show communication",
+      "label": "Shows how sound travels through string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
+      "id": "n8",
+      "label": "Limited labeling",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
       "id": "n9",
-      "label": "Feedback: Ensure string is tight to transmit sound",
+      "label": "Label both cans for completeness",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -81,15 +81,11 @@
       "n7"
     ],
     [
-      "n4",
-      "n8"
-    ],
-    [
       "n5",
       "n8"
     ],
     [
-      "n7",
+      "n8",
       "n9"
     ]
   ]

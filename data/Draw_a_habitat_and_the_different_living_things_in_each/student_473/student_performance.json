@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may draw a simple representation of a habitat, possibly a recognizable land area (e.g., a rough outline of a garden or forest), but it may lack specific features.",
+    "The student might include one or two basic living things, like a tree or a simple animal figure (e.g., a stick figure bird or person), though they might not accurately represent the habitat's biodiversity."
+  ],
+  "CANNOT": [
+    "The student is likely unable to draw a coherent water habitat (student doesn't distinguish between land and water habitats).",
+    "The student cannot illustrate different plant types (student doesn't recognize diversity in plant life).",
+    "The student cannot illustrate different animal types relevant to specific habitats (student might place a fish in a forest).",
+    "The student does not show how the types of plants and animals differ between habitats (student may draw the same living things in both habitats).",
+    "The student is unlikely to demonstrate patterns of biodiversity effectively (student may not understand the concept of biodiversity)."
+  ]
+}

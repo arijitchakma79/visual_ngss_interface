@@ -1,75 +1,107 @@
 {
   "nodes": [
     {
-      "id": "n0",
-      "label": "Draw a string telephone between two students.",
+      "id": "n1",
+      "label": "Draw a string telephone between two students",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
-      "id": "n1",
-      "label": "Two students standing apart with a string telephone",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
-    },
-    {
       "id": "n2",
-      "label": "Arrows along the string indicating sound wave direction",
+      "label": "Two cartoon-style students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Labels 'Tin Can' and 'String'",
+      "label": "Holding a cup to their ear or mouth",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Background illustrates distance (trees, pathway)",
+      "label": "String connecting the cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Depicts communication over a long distance",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Arrows or wavy lines for sound movement",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Illustrates how sound travels through the string",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Labels for 'cup' and 'string'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Enhances understanding with clear labels",
+      "label": "Distance between students",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n8",
+      "label": "Basic setup of string telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n8",
-      "label": "Shows practical use of string telephone over distance",
+      "id": "n9",
+      "label": "Student can use string and cups to send sound",
       "fillcolor": "palegreen",
       "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Emerging understanding of sound travel",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n11",
+      "label": "Inconsistent sound movement depiction",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n12",
+      "label": "Unclear communication from distance",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n13",
+      "label": "Space to show longer distance",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n14",
+      "label": "Incomplete labeling",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n15",
+      "label": "Standardize labels for parts",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     }
   ],
   "edges": [
     [
-      "n0",
-      "n1"
-    ],
-    [
-      "n0",
+      "n1",
       "n2"
     ],
     [
-      "n0",
+      "n1",
       "n3"
     ],
     [
-      "n0",
+      "n1",
       "n4"
     ],
     [
@@ -77,16 +109,48 @@
       "n5"
     ],
     [
-      "n2",
+      "n1",
       "n6"
     ],
     [
-      "n3",
+      "n1",
       "n7"
     ],
     [
-      "n4",
+      "n2",
       "n8"
+    ],
+    [
+      "n3",
+      "n9"
+    ],
+    [
+      "n4",
+      "n9"
+    ],
+    [
+      "n5",
+      "n10"
+    ],
+    [
+      "n10",
+      "n11"
+    ],
+    [
+      "n7",
+      "n12"
+    ],
+    [
+      "n12",
+      "n13"
+    ],
+    [
+      "n6",
+      "n14"
+    ],
+    [
+      "n14",
+      "n15"
     ]
   ]
 }

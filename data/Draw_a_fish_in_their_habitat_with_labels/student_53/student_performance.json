@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can include a fish in their drawing, but it may not be clearly shown to be in its environment (e.g., the fish appears alone or floating in a space without context)."
+  ],
+  "CANNOT": [
+    "The student is unlikely to depict a clear representation of the fish's habitat (e.g., fish is not shown in water or specific habitat like a river, pond, lake, or ocean).",
+    "The student does not label the water as a vital resource necessary for the fish's survival (e.g., missing labels or incorrect labels).",
+    "The student often omits other living things or plants that are part of the fish's environment, like seaweed or other aquatic animals (e.g., drawing focused only on the fish).",
+    "The student is unable to label parts of the environment that affect the fish, such as sunlight or water plants (e.g., no labels for sunlight or plants).",
+    "The student does not show how the environment and resources like water and sunlight meet the fish's needs (no connection made between habitat and fish needs).",
+    "The student is unlikely to demonstrate interactions between the fish and its habitat (e.g., water and resources supporting life are not shown or misunderstood)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can depict a basic difference between a healthy plant and one without water, showing a plant with green parts and another with drooping or brown parts.",
+    "The student can include a sun symbol or rays to indicate the presence of light in their drawing, though this might not be integrated into the overall representation."
+  ],
+  "CANNOT": [
+    "The student might incorrectly show a plant without water as simply smaller, without depicting specific signs of wilting or color change (student might think size is the only indicator of water shortage).",
+    "The student may not illustrate or distinguish the area with and without light accurately, leading to both healthy and unhealthy plants being shown with light rays (student may not realize light’s role)."
+  ]
+}

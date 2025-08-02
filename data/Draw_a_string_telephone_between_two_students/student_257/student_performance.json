@@ -1,18 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can draw two people attempting to communicate over a long distance, showing the intent behind the device.",
-    "The student can accurately depict a string telephone with cups connected by a string.",
-    "The student can label basic parts of the device, such as the cups and string, with some occasional minor omissions.",
-    "The student can demonstrate in the drawing that the string is stretched between the two cups to show its function in communication.",
-    "The student can illustrate, possibly with arrows, how sound travels through the string from one person to the other."
+    "The student may be able to draw a picture of two people, but not necessarily with any context of distance or communication (e.g., two stick figures).",
+    "May include shapes resembling cans but not clearly labeled or connected (e.g., two circles)."
   ],
   "CANNOT": [
-    "The student may inconsistently label all materials used, sometimes omitting or mislabeling one of the materials *(e.g., forgets to label the string)*.",
-    "The student might not completely visually represent how this device fully solves the problem of communicating over distance *(e.g., may not include detailed context of a long distance)*.",
-    "The student may sometimes leave illustrative cues incomplete, like missing some arrows or incorrectly placing them *(e.g., arrows pointing away from the cups)*."
+    "The student is likely unable to consistently illustrate the cans with a string connecting them (student may not know to draw a connecting line).",
+    "The student may not depict how sound travels through the string (student doesn’t show sound waves or arrows).",
+    "Fail to label the parts of the device or explain their use (e.g., no labels or wrong labels on cans).",
+    "The student might not illustrate how the device solves communication problems over a distance (no indication of problem-solving in drawing).",
+    "No elements showing how this communication connects people despite distance (e.g., no clear communication depicted)."
   ]
 }

@@ -1,16 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can draw two students with a string between them, implying a connection but lacking detail.",
-    "The student might attempt a basic depiction of people speaking, but without clear indication of the technology or process involved."
+    "The student can draw two students and show them connected by a string telephone.",
+    "The student might include some labels or simple descriptions, such as 'sound goes through string' or 'talk here'."
   ],
   "CANNOT": [
-    "The student does not draw any visual elements to indicate sound or communication over distance (student thinks the connection is visual rather than auditory).",
-    "The student does not include labels or captions explaining the purpose of the string or how communication happens (student doesn't understand the function of the device).",
-    "The student may not accurately depict the string as communicating sound; they might draw it as just a line or rope without functional context.",
-    "The drawing lacks any portrayal of how technology like this affects communication or everyday life (student doesn't understand technological impact)."
+    "The student is unlikely to accurately depict how sound is transmitted (may not show tension in the string or may leave out how sound travels through the string).",
+    "The student may not clearly illustrate the concept of information being sent or received (could be missing arrows or direction indicators).",
+    "The student might not correctly label or misunderstand the materials used (for example, might think that metal cups are necessary instead of available alternatives like plastic or paper cups).",
+    "The student may struggle to explain how this device solves the problem of communication over distance (could omit explanation or add unrelated features)."
   ]
 }

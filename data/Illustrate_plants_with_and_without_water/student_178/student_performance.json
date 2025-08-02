@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a plant with bright green leaves to show it has enough water and light. (basic understanding of healthy plant features)",
+    "The student can draw a plant with wilted or brown leaves to show it does not have enough water. (understands basic signs of an unhealthy plant)",
+    "The student can partially use arrows to indicate the sun shining on the plant, showing it needs light. (might not consistently use arrows correctly)"
+  ],
+  "CANNOT": [
+    "The student may struggle to correctly depict a comparison side-by-side of a healthy plant and an unhealthy plant. (does not fully grasp the difference)",
+    "The student may inconsistently include raindrops or a watering can in their drawing to indicate the plant's need for water. (might omit these elements or use them randomly)",
+    "The student may not use different colors effectively to represent healthy and unhealthy plants. (might use colors inconsistently or incorrectly)",
+    "The student may not consistently show the relationship between sunlight, water, and plant health. (may sometimes mix up causes and effects)"
+  ]
+}

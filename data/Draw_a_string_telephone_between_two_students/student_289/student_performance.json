@@ -1,16 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can accurately draw a string telephone connecting two students, showing the cups and string clearly.",
-    "The student can illustrate how the string telephone uses sound by showing one student speaking into a cup and the other listening from the opposite cup.",
-    "The student can correctly label all parts of the string telephone, including the cups and string.",
-    "The student can include a detailed explanation, possibly in written form, of how sound travels through the string to carry messages."
+    "The student may draw two students with a string between them, but there is little detail beyond that.",
+    "The student might attempt to show cups or a line indicating a string without correctly connecting the details."
   ],
   "CANNOT": [
-    "The student might occasionally leave out minor details such as the exact positioning of a student relative to the cups, although this is unlikely at Level 4.",
-    "The student might not consistently use the most technical language possible, but still captures all necessary concepts (e.g., uses 'talks' instead of 'vibrates' when describing how sound travels)."
+    "The student is unlikely to illustrate the concept of the string being pulled tight to properly convey sound transmission. (student may draw the string loose or not straight)",
+    "The student probably cannot identify or label the source and receiver of the sound; they might not include cups or misplace them. (student may not understand the roles of source and receiver)",
+    "The student is unable to accurately depict or label the concept of sound traveling through the string. (student might not show any movement or concept of sound)",
+    "The student doesn't reliably include features in the drawing that demonstrate communication over a distance effectively. (student might not grasp the need for distance or how the telephone concept works)",
+    "Misunderstandings may include depicting the students using the cups incorrectly (e.g., placing cups on the ground instead of at the mouth/ear)."
   ]
 }

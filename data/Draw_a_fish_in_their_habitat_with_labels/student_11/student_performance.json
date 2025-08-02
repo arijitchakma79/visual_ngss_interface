@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "Include a drawing of a fish in its natural water environment, like a lake or ocean, and identify it as such with a label.",
+    "Label key components in the drawing, such as water and plants or algae, but may occasionally miss labeling an item like 'rocks.'",
+    "Illustrate and label at least one thing the fish needs to survive, such as water or plants for safety purposes.",
+    "Label other living things that might share the habitat, such as another type of fish or underwater plants.",
+    "Show the relationship between the fish and its environment, illustrating how the fish needs water to swim and live."
+  ],
+  "CANNOT": [
+    "Might inconsistently label smaller or less conspicuous parts of the habitat, such as very tiny aquatic plants or microorganisms, leaving some details unlabeled or incorrectly labeled.",
+    "May sometimes omit detailing the specific way the fish interacts with certain elements, like how it might use rocks for protection or camouflaging."
+  ]
+}

@@ -1,17 +1,18 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can draw a string telephone that shows two students communicating over a distance, positioned at either end of the string telephone.",
-    "The student can include basic features that demonstrate using sound to communicate, such as drawing simple sound wave lines coming from the mouth of one student or towards the ear of the other.",
-    "The student can show that the string telephone connects the two students, ensuring the string appears taut and continuous between the cups.",
-    "The student can illustrate the use of everyday materials in the drawing, such as showing clear representations of cups connected by a string.",
-    "The student can represent how the device solves the problem of communication over a distance by positioning the students far apart, which implies that they are using the device to communicate due to the distance."
+    "The student can accurately draw two people who are trying to communicate over a long distance, possibly with details like expressions or posture indicating communication.",
+    "The student can illustrate a string telephone device using a clear and correctly drawn string connecting cups or cans that each person is holding.",
+    "The student can show how the device allows information to travel from one person to the other, potentially with arrows or motion lines to indicate sound traveling.",
+    "The student can creatively incorporate and label materials in the drawing, such as string, cups, or cans, indicating their role in sound transmission.",
+    "The student can represent the concept of people using technology to communicate over distances, possibly including additional context like phones or other communication devices around them.",
+    "The student can explain through their drawing how the device works to solve the problem of long-distance communication, possibly with labels or a simple explanation near the drawing."
   ],
   "CANNOT": [
-    "The student may inaccurately depict the direction or nature of sound waves, such as drawing them inconsistently or not showing them reaching the second student completely *(student may think sound stops midway)*.",
-    "The student might not label all components clearly, such as missing labels on the cups or the string making it unclear what materials are used *(student assumes materials are obvious)*."
+    "The student may have minor errors or omissions, like forgetting to label a component (e.g., labeling only one cup or can).",
+    "The student might show slight inconsistencies, such as uneven string lengths or slightly misaligned components without it meaningfully affecting the overall understanding."
   ]
 }

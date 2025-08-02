@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw a simple shape that might represent a fish, although it may not be distinct or recognizable as a specific fish type.",
+    "The student may attempt to label the fish but might only include one or two incorrect or generic labels like 'fish' or 'animal'."
+  ],
+  "CANNOT": [
+    "The student cannot accurately draw or label the water environment (e.g., might draw land or an indistinct scribble instead of water).",
+    "The student cannot draw or label other plants and animals in the habitat (e.g., might draw unrelated things like trees or birds).",
+    "The student cannot show or label the resources that fish need, such as water or food (e.g., might include unrelated items like a bowl or toy fish).",
+    "The student cannot illustrate or explain how the fish and other living things are part of a system (e.g., might show random objects without understanding of a habitat system)."
+  ]
+}

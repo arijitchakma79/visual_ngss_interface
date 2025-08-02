@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing: Emerging understanding, basic elements shown.",
+  "CAN": [
+    "The student can draw two pictures of the same plant species but may only show basic differences between them, like a drooping plant versus a standing plant.",
+    "The student can illustrate the plant with water as generally healthy, like using green color for leaves, but might not consistently depict details like a strong stem.",
+    "The student can attempt to use symbols or colors to indicate the presence of water, like drawing water droplets in one scene."
+  ],
+  "CANNOT": [
+    "The student may struggle to accurately depict a wilted or shriveled plant without water and might show just a slightly less green plant (student may not fully understand the effects of no water).",
+    "The student may forget to include or inconsistently draw elements like the sun that indicate the plant also needs light.",
+    "Symbols or colors might be used inconsistently or incorrectly to show the presence or absence of water (e.g., could show blue symbols on both or none)."
+  ]
+}

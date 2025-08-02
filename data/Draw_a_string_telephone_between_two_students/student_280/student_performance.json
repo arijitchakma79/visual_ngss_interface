@@ -4,14 +4,13 @@
   "Level": 4,
   "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can accurately draw two students using a device to communicate over a distance.",
-    "The student can clearly show the string telephone connecting the two students.",
-    "The student can include detailed labels or images indicating that the device uses sound to send information.",
-    "The student can effectively use the provided materials, such as cups and string, to show the construction of the string telephone.",
-    "The student can clearly represent how the string telephone helps the students communicate over a distance.",
-    "The student can illustrate that people depend on devices like string telephones to communicate when far apart, possibly including other examples of communication devices."
+    "The student can clearly show how people communicate over a distance using a string telephone with all necessary components.",
+    "The student can draw the device ensuring that it uses sound to communicate, with accurate details such as tight, straight strings.",
+    "The student can illustrate both students using the string telephone to send or receive information, showing them actively speaking or listening.",
+    "The student can represent the connection between the two phones as a string that allows for sound to travel, clearly depicting the string's path.",
+    "The student can label and describe the function of each part of the string telephone in their drawing, such as labeling the string, cups, and explaining the travel of sound."
   ],
   "CANNOT": [
-    "There are no significant elements the student cannot show, but minor inconsistencies might exist, such as slightly uneven lengths of the string (natural variation)."
+    "The student may occasionally miss minor details or have small gaps, such as forgetting to include one minor label on an element, but these do not significantly affect the overall understanding."
   ]
 }

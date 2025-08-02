@@ -8,55 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Drawing of two students facing each other.",
+      "label": "Two children holding plastic cups to their mouths",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Drawing of cups and string between students.",
+      "label": "String loosely connecting the cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Arrows along the string indicating sound travel.",
+      "label": "Children are smiling and facing each other",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Labels for cups and string.",
+      "label": "Colorful outdoor setting with green grass and blue sky",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Shows understanding of using string for communication.",
+      "label": "Demonstrates two children communicating via string telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Understands that sound travels through the string.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "String should be tight for effective communication",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Correct labels for parts of the string telephone.",
+      "label": "Illustrates communication without modern technology",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Misunderstanding in expressing sound waves' path.",
+      "label": "Understanding tension's role in sound transmission is missing",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n10",
-      "label": "Clarify sound wave path using wave lines.",
+      "label": "Consider tightening the string to show effective sound transmission.",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -84,19 +84,19 @@
     ],
     [
       "n3",
-      "n6"
-    ],
-    [
-      "n3",
       "n7"
     ],
     [
-      "n4",
+      "n3",
       "n9"
     ],
     [
-      "n5",
+      "n4",
       "n8"
+    ],
+    [
+      "n7",
+      "n10"
     ],
     [
       "n9",

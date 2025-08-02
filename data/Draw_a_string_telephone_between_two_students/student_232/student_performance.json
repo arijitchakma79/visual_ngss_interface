@@ -1,16 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can draw a basic representation of a string telephone with two cups and a string connecting them (shows basic elements of the device).",
-    "The student can attempt to depict two students holding the device, suggesting usage for communication (indicates basic function)."
+    "Draw a working string telephone setup that successfully includes all necessary components, like cups and string.",
+    "Include both students in the drawing, clearly showing them using the string telephone to communicate with each other over a distance.",
+    "Illustrate the concept of sound traveling through the string, possibly including directional indicators to show sound moving from one student to the other.",
+    "Depict the device using realistic materials that are commonly available, such as paper cups and string.",
+    "Demonstrate the device’s usefulness by showing that it helps the students communicate over a considerable distance, perhaps through artistic representation of distance."
   ],
   "CANNOT": [
-    "The student might not accurately depict how sound travels through the string (may not show sound waves or vibrations).",
-    "The student might leave out or incorrectly label some materials involved, such as labeling the cups as 'metal' or missing the string completely (incomplete or incorrect labeling).",
-    "The student might not clearly show how the device can send or receive information, missing arrows or sound lines indicating direction (lacks clear indication of sound transmission).",
-    "The student might overlook explaining why the device is an important communication solution, not conveying the purpose beyond the basic function (doesn't communicate significance)."
+    "There may be minor gaps like slightly unclear labeling of some components, such as not explicitly labeling one of the cups *(labeling is not fully consistent)*.",
+    "The drawing might not show perfect proportionality in terms of the relative size of components or the space between them *(artistic scale can be off, but concept is accurate)*."
   ]
 }

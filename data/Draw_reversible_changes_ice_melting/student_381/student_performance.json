@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw ice before heating, but it may not clearly show characteristics related to cold or solid state. (e.g., a simple blank square labeled as ice)",
+    "The student can include some kind of transformation indication, like water dripping off the ice, without clear arrows or explanation."
+  ],
+  "CANNOT": [
+    "The student is unable to accurately show water resulting from melted ice. (e.g., melted state is not represented or misunderstood as a solid water puddle)",
+    "The student does not illustrate the reversal of change, as they might believe the process to be one-way or irreversible. (e.g., no depiction of water turning back to ice)",
+    "The student cannot use arrows or labels to denote changes being reversible due to misunderstanding how heating and cooling work. (e.g., arrows might point in incorrect directions)",
+    "The student likely shows a misunderstanding of irreversible changes. (e.g., drawing a scrambled egg and indicating it can be reversed back to raw egg because of the same process of cooling)"
+  ]
+}

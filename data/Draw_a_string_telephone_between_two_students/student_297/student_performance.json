@@ -1,18 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "At Level 4, the student demonstrates an advanced understanding, showing a complete and accurate representation of all elements related to the string telephone task, including detailed illustrations and labels of the processes involved.",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can draw two students or people communicating clearly, making it obvious that they are interacting with each other via the string telephone.",
-    "The student can accurately show the string or wire connecting the two cups, ensuring that it is taut and unbroken, indicating the medium for sound travel.",
-    "The student can illustrate how sound travels through the string between the two cups, possibly using arrows or symbols to indicate the direction and flow of sound.",
-    "The student can depict the device as effectively sending and receiving sound information across a distance between the two students.",
-    "The student can label the parts of the device accurately and explain their function, such as 'cup' for the receiver and 'string' for transmitting sound.",
-    "The student can use relevant scientific ideas in their drawing, perhaps adding notes or diagrams, to clearly show how sound travels through the string, ultimately solving the problem of communicating over a distance."
+    "The student may be able to draw two people holding cups with strings attached, but the connection and setup may be unclear or incorrect.",
+    "The student is likely to illustrate the general idea of two individuals involved, though details of interaction using a string telephone are missing or incorrect."
   ],
   "CANNOT": [
-    "The student might occasionally mislabel a part or assume that the sound travels faster than it realistically does *(student might not consider speed of sound)*.",
-    "The student may sometimes overlook environmental factors affecting sound travel, such as tension in the string not being ideal *(student assumes perfect conditions)*."
+    "The student may not show how sound travels through the string (misunderstands the concept of sound traveling).",
+    "The student might not demonstrate the importance of the string being pulled tight (ignores or doesn't recognize tension's role).",
+    "Labels for the string telephone parts, such as cups and string, may be missing or inaccurate (might mislabel string as 'wire' or not label at all).",
+    "The drawing might lack clear evidence or depiction of communication over a distance (students close together or not facing each other).",
+    "Potential challenges or solutions for making the device work better, like string tension, are likely not addressed or misunderstood (might add unrelated elements, like extra cups or longer strings without purpose)."
   ]
 }

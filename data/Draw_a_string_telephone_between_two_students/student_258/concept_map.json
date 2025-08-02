@@ -8,61 +8,49 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure students several feet apart",
+      "label": "Two children standing apart",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Red plastic cup held to mouth",
+      "label": "Each holding a paper cup connected by a string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Blue plastic cup held to ear",
+      "label": "Simple, grassy field with a blue sky",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Taut thin black string connecting cups",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Depicting a device designed to communicate using sound",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Arrows indicating sound travel along string",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Student illustrates people communicating over a distance",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Demonstrates device for communication using sound",
+      "label": "Basic understanding of a string telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Illustrates basic operation of string telephone",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "Shows how sound travels from one student to another",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n10",
-      "label": "Incomplete depiction of why communication device is helpful over distances",
+      "label": "Understanding does not include sound vibrations or purpose explanation",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n11",
-      "label": "Add explanation or labels for long-distance effectiveness",
+      "id": "n9",
+      "label": "Provide further explanation on how sound travels through the string",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -81,15 +69,15 @@
       "n4"
     ],
     [
-      "n1",
-      "n5"
-    ],
-    [
-      "n1",
+      "n2",
       "n6"
     ],
     [
-      "n2",
+      "n3",
+      "n5"
+    ],
+    [
+      "n3",
       "n7"
     ],
     [
@@ -97,28 +85,8 @@
       "n8"
     ],
     [
-      "n4",
-      "n8"
-    ],
-    [
-      "n5",
-      "n7"
-    ],
-    [
-      "n5",
+      "n8",
       "n9"
-    ],
-    [
-      "n6",
-      "n9"
-    ],
-    [
-      "n5",
-      "n10"
-    ],
-    [
-      "n10",
-      "n11"
     ]
   ]
 }

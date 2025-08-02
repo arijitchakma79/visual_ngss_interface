@@ -8,61 +8,67 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure students",
+      "label": "Two students about two feet apart",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Cups held by students",
+      "label": "Each holding a cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Slightly wavy line representing string",
+      "label": "Cups connected by a straight, thin line (string)",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Arrows and musical notes around the string",
+      "label": "Wavy lines near the string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Understands idea of two students using a string telephone",
+      "label": "Accurate representation of communication method",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Identifies materials used in string telephone",
+      "label": "Correct materials used: Cups and string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Misunderstands importance of string tension",
+      "label": "Sound travels through the string",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "Incorrect understanding of sound transmission",
+      "label": "Misunderstanding of sound traveling through air",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n10",
-      "label": "Ensure string is taut for effective sound transmission",
+      "label": "Distance for effective communication should be greater",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n11",
+      "label": "Consider showing sound waves along the string",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     },
     {
-      "id": "n11",
-      "label": "Clarify sound waves travel along the string",
+      "id": "n12",
+      "label": "Increase distance between students to demonstrate concept",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -101,12 +107,16 @@
       "n9"
     ],
     [
-      "n8",
+      "n2",
       "n10"
     ],
     [
       "n9",
       "n11"
+    ],
+    [
+      "n10",
+      "n12"
     ]
   ]
 }

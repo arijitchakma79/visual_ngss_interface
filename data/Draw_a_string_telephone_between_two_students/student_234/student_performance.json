@@ -4,13 +4,14 @@
   "Level": 2,
   "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can show two people in the drawing, possibly positioned at a distance, attempting to communicate.",
-    "The student can include a basic string connected to two cups in their drawing, representing a string telephone.",
-    "The student may attempt to show how sound travels through the string, but the representation might be unclear or abstract."
+    "The student can draw a basic string telephone with two cups and a string connecting them, showing some understanding of the device's setup.",
+    "The student is likely to depict two students holding the devices, indicating the possibility of communication.",
+    "The student can label the parts of the device, labeling the cups and the string, though labels may be incomplete or inaccurate."
   ],
   "CANNOT": [
-    "The student may not clearly demonstrate how the string telephone uses sound to send and receive information (e.g., no indication of sound waves or vibrations).",
-    "The student might not consistently use only basic materials in their drawing or add unnecessary elements (e.g., extra wires or a drawn electricity source).",
-    "The student may struggle to represent effectively how this simple device provides a solution to the communication over distance (e.g., no clear difference in distance shown, or lack of context that two people are communicating from far away)."
+    "The student struggles to illustrate how sound travels, possibly omitting arrows or using them incorrectly (e.g., arrows pointing in random directions).",
+    "The drawing may not clearly show the concept of communication over a distance, possibly placing the students too close together (student may not understand the distance aspect).",
+    "The student may not represent how sound is involved in the communication process, or misunderstand and show wavy lines in the air rather than along the string.",
+    "There might be confusion about the function of the cups, possibly drawing them incorrectly, such as closed or without openings."
   ]
 }

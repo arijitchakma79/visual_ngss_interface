@@ -1,16 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student might be able to draw two figures that loosely represent students without specific context or detail.",
-    "The student might include a line between the figures that could represent the string, although it may not be connected properly or clearly represent a telephone."
+    "The student can draw two people who need to communicate over a distance.",
+    "The student can include a device in the drawing that uses sound to send and receive messages, such as cans or cups connected by a string.",
+    "The student can show how the device they designed uses a string to help sounds travel between the two people, including making the string taut.",
+    "The student can use only the materials shown in the drawing to help solve the communication problem, likely showing the string and cups/cans in use.",
+    "The student can illustrate how the device helps communication over a distance, clearly connecting the two people with the string device."
   ],
   "CANNOT": [
-    "The student is unlikely to clearly illustrate the concept of sound traveling through the string correctly (may not understand how sound travels).",
-    "The student might not effectively show the purpose of the string telephone in facilitating communication (may not grasp that the string is essential for transmitting sound).",
-    "The student is unlikely to demonstrate details showing how the string telephone solves communication problems (may not see or depict communication as a problem).",
-    "The student might not include any additional elements to demonstrate how long-distance communication helps people (lacks understanding of applications or benefits)."
+    "The student may not fully explain in writing how using this device makes life easier, potentially providing a somewhat vague or incomplete explanation.",
+    "The student might not label all parts of the drawing, such as not specifying the material of the string or the exact function of each component, leading to minor gaps in understanding."
   ]
 }

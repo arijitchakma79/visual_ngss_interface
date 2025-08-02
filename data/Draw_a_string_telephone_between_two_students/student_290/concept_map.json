@@ -8,63 +8,75 @@
     },
     {
       "id": "n2",
-      "label": "Two students at opposite ends",
+      "label": "Student 1 holding a cup to their mouth",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Cup and string telephone depicted",
+      "label": "Student 2 holding a cup to their ear",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Wavy lines representing sound waves",
+      "label": "Straight line labeled as string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Students engaged in conversation",
+      "label": "Dashed lines around the string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "'String Telephone Communication' label",
+      "label": "Cups are labeled",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Represents communication over distance",
+      "label": "Understand communication over distance",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "String telephone allows sound communication",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Partial understanding of sound travel",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "Sound waves show sound traveling",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Attempt to depict sound transmission",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n10",
-      "label": "Illustrates problem-solving through communication",
+      "label": "Labeling demonstrates component function",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n11",
-      "label": "Importance of technology in communication",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Clarify how sound travels through the string",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n12",
+      "label": "Visual cues on the technology use",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n13",
+      "label": "Enhance depiction of communication technology",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     }
   ],
   "edges": [
@@ -94,19 +106,35 @@
     ],
     [
       "n3",
-      "n8"
+      "n7"
     ],
     [
       "n4",
-      "n9"
+      "n8"
     ],
     [
       "n5",
-      "n10"
+      "n9"
     ],
     [
       "n6",
+      "n10"
+    ],
+    [
+      "n8",
       "n11"
+    ],
+    [
+      "n9",
+      "n11"
+    ],
+    [
+      "n8",
+      "n12"
+    ],
+    [
+      "n12",
+      "n13"
     ]
   ]
 }

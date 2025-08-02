@@ -1,0 +1,14 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a basic image of a plant with water showing some signs of health, like green leaves or upright posture (student has a basic idea of plant health).",
+    "The student can draw a basic outline of a plant without water appearing wilted, but details might be minimal (student understands wilting but might not depict it clearly)."
+  ],
+  "CANNOT": [
+    "The student is unlikely to effectively compare the two plants to illustrate their need for water (student focuses on individual plants rather than the relationship between them).",
+    "The student may not use patterns effectively to show the effects of water on plant health, possibly showing inconsistent or incorrect patterns (student lacks understanding of how patterns relate to plant health)."
+  ]
+}

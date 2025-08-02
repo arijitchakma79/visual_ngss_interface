@@ -8,55 +8,67 @@
     },
     {
       "id": "n2",
-      "label": "Two cartoon-style children in blue outfits, each holding a paper cup.",
+      "label": "Two stick figure children",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Bright red string connecting the cups.",
+      "label": "Each child holds a cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Purple wavy lines along the string.",
+      "label": "Line connects the two cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "No visible holes for string in cups.",
+      "label": "Childlike drawing with bright colors",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Communication over distance requires talking elements.",
+      "label": "Problem of talking over a distance",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "String adds a physical connection between communicators.",
+      "label": "Demonstrates basic use of the string telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Sound travels along the string.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "Incomplete understanding of the construction.",
+      "label": "Incomplete understanding of sound transmission",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
+      "id": "n9",
+      "label": "Basic materials are correctly used",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
       "id": "n10",
-      "label": "Ensure all parts are fully represented, e.g., add holes in cups for string.",
+      "label": "Understanding of communicating over distance",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "Sound travels through the string not clearly shown",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n12",
+      "label": "Explain how sound moves when string is taut",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -91,12 +103,20 @@
       "n8"
     ],
     [
-      "n5",
+      "n4",
       "n9"
     ],
     [
-      "n9",
+      "n5",
       "n10"
+    ],
+    [
+      "n8",
+      "n11"
+    ],
+    [
+      "n11",
+      "n12"
     ]
   ]
 }

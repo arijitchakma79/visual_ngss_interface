@@ -1,0 +1,19 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw and label different land habitats such as a playground and a forest, providing correct labels for some elements.",
+    "The student can draw and label different water habitats like a pond and a stream, although not all labels may be complete.",
+    "The student can include and correctly label various plants in each habitat, such as trees and grasses, and most labels are present and accurate.",
+    "The student can include and label different animals in each habitat, successfully identifying species like squirrels in the forest and fish in the pond.",
+    "The student can show patterns by comparing the variety of living things seen across different habitats, though some comparisons may not be deeply detailed."
+  ],
+  "CANNOT": [
+    "The student may occasionally miss labeling less obvious plants like bushes or flowering plants (e.g., the student forgets to label them or does not recognize them).",
+    "The student might inconsistently identify less common animals such as clams in a pond habitat (e.g., the student may think they are fish or might not include them at all).",
+    "Some comparisons between habitats may be missing finer points, such as the specific dependence of certain animals on particular plants (e.g., fewer detailed interactions are shown).",
+    "The student might misplace a few animals or confuse their habitats, such as placing a lizard in a pond instead of a dry land habitat (e.g., the student misidentifies habitat needs)."
+  ]
+}

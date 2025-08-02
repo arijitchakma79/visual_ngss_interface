@@ -8,63 +8,57 @@
     },
     {
       "id": "n2",
-      "label": "Two cartoon-like students holding paper cups.",
+      "label": "Two stick figure students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Taut string connecting cups.",
+      "label": "Each student holding a cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Directional arrows along the string.",
+      "label": "Straight line between cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Thought bubbles: 'Communicate over distance!'",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Identifies basic components: cups and line",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Background depiction of cell phone use.",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "String acts as a medium for sound not understood",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n7",
-      "label": "Understands importance of cups in communication.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "No labels explaining sound transmission",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Understands that string transmits sound.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Misses depicting how sound travels",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "Represents sound travel through arrows.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Add labels to show how sound travels through the string.",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     },
     {
       "id": "n10",
-      "label": "Recognizes communication over distance.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n11",
-      "label": "Shows awareness of modern communication tech.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Include elements showing sound waves or vibrations.",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     }
   ],
   "edges": [
@@ -81,32 +75,32 @@
       "n4"
     ],
     [
-      "n1",
+      "n2",
       "n5"
     ],
     [
-      "n1",
-      "n6"
-    ],
-    [
-      "n2",
-      "n7"
-    ],
-    [
       "n3",
-      "n8"
+      "n5"
     ],
     [
       "n4",
-      "n9"
+      "n6"
     ],
     [
-      "n5",
-      "n10"
+      "n4",
+      "n7"
+    ],
+    [
+      "n4",
+      "n8"
     ],
     [
       "n6",
-      "n11"
+      "n9"
+    ],
+    [
+      "n8",
+      "n10"
     ]
   ]
 }

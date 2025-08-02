@@ -8,49 +8,61 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figures",
+      "label": "Two students facing each other, using a string telephone",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Straight line between figures",
+      "label": "Cups and string connecting the students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Figures represent students",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Sound waves illustrated (some wavy, some solid)",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "String involves communication",
+      "label": "Labels present, mix-up with terms like 'talking waves'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Understand using a device for communication",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n6",
-      "label": "Lacks cups or tools",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
       "id": "n7",
-      "label": "No labels explaining sound travel",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Understand inclusion of string and two cups",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Include cups to show sound transmission device.",
+      "label": "Misinterpretation of sound waves as solid lines",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n9",
+      "label": "Mix-up of terminology (e.g., 'talking waves')",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n10",
+      "label": "Sound waves should be consistently wavy lines",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     },
     {
-      "id": "n9",
-      "label": "Add labels to explain sound travel.",
+      "id": "n11",
+      "label": "Use correct terms like 'sound waves'",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -65,11 +77,11 @@
       "n3"
     ],
     [
-      "n2",
+      "n1",
       "n4"
     ],
     [
-      "n3",
+      "n1",
       "n5"
     ],
     [
@@ -81,12 +93,20 @@
       "n7"
     ],
     [
-      "n6",
+      "n4",
       "n8"
     ],
     [
-      "n7",
+      "n5",
       "n9"
+    ],
+    [
+      "n8",
+      "n10"
+    ],
+    [
+      "n9",
+      "n11"
     ]
   ]
 }

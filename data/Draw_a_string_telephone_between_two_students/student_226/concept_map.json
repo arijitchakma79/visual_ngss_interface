@@ -8,55 +8,43 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure students facing each other",
+      "label": "Two stick figures with cans",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Students holding a cup connected by a string",
+      "label": "Straight line for string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Small wavy lines indicating sound traveling",
+      "label": "Sound wave lines around one cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Plain white background",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Cans and string show a basic string telephone",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Understand people can communicate using a string telephone",
+      "label": "String illustrates sound communication",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "String is not taut, incomplete sound transmission",
+      "label": "Uncertain sound wave direction",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Uses basic elements like cups and string",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "Does not incorporate advanced technology communication",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n10",
-      "label": "Ensure string is drawn taut to show effective sound transmission",
+      "label": "Correct direction of sound waves needs clarification",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -75,36 +63,20 @@
       "n4"
     ],
     [
-      "n1",
+      "n2",
       "n5"
     ],
     [
-      "n2",
-      "n6"
-    ],
-    [
       "n3",
       "n6"
-    ],
-    [
-      "n3",
-      "n7"
-    ],
-    [
-      "n3",
-      "n8"
     ],
     [
       "n4",
-      "n6"
-    ],
-    [
-      "n5",
-      "n9"
+      "n7"
     ],
     [
       "n7",
-      "n10"
+      "n8"
     ]
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a fish in the water with some basic plants around it. (Shows awareness that fish live in water and are part of larger ecosystem)",
+    "The student can include simple labels like 'fish,' 'water,' and 'plants.' (Basic elements correctly identified and labeled)"
+  ],
+  "CANNOT": [
+    "The student may not correctly label or represent more complex relationships and needs, such as describing how the fish relies on plants for shelter or sunlight for warmth. (Limited understanding of resource dependencies)",
+    "The student might not show the fish's deeper connection to its habitat as a system. (Misses the systemic interaction between fish and habitat)",
+    "The student may inconsistently show the pattern of resource needs for fish or fail to illustrate how the habitat meets these needs. (Inability to represent continuous or complex relationships)"
+  ]
+}

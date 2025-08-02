@@ -1,0 +1,15 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a plant with green leaves when it has water, but the leaves may not all be fully detailed or uniformly healthy (some leaves might appear a bit dry or uneven).",
+    "The student can draw a plant that looks wilted when it does not have water, displaying some drooping leaves or a brown hue (but may miss some critical details like overly dry or bare stems)."
+  ],
+  "CANNOT": [
+    "The student is likely unable to consistently show a clear distinction between growth conditions in light versus dark (plants may appear similar regardless of lighting conditions).",
+    "The student might misunderstand or leave out that plants need both water and sunlight to grow (could draw them only in relation to water) and may depict all plants in the same environment without indicating the difference between sunny and dark conditions.",
+    "The student struggles to show a plant that thrives well in sunlight versus one that struggles in the dark (may not use different symbols or colors to indicate growth variation)."
+  ]
+}

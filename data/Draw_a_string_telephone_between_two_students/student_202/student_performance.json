@@ -1,16 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can draw two figures that are meant to represent people (basic shapes for heads and bodies, but lacking details).",
-    "The student might draw a line between the figures that could represent the string, but it may not connect to both figures consistently."
+    "The student can draw two people who need to communicate over a distance, showing a basic understanding that the setup involves two individuals.",
+    "The student can illustrate a device somewhat resembling a string telephone, indicating an awareness of its components (e.g., two cups and a string), even if details are vague or inconsistent.",
+    "The student can draw simple lines to connect the cups, suggesting an understanding that the string somehow links the two people, though specifics may be unclear."
   ],
   "CANNOT": [
-    "The student is unlikely to show an understanding of how the string telephone works to send messages (may not include cups or similar devices).",
-    "The student might not include features that represent sound traveling through the telephone (e.g., no indication of sound waves or vibrations).",
-    "The student may not demonstrate the concept of communication over a distance (string might be shown too short or incorrectly placed).",
-    "The student likely doesn't illustrate the idea of how this technology makes life easier or solves a problem (no context or explanation shown)."
+    "The student may not label all parts of the string telephone clearly or consistently, such as indicating which parts are the cups or distinguishing the function of the string (student may not understand importance of labels).",
+    "The student might not accurately show that sound travels through the string (student may believe sound travels through air between the cups instead).",
+    "The student is likely unable to effectively demonstrate in their drawing how this device helps communication over long distances (student might think it only helps if both parties are very close)."
   ]
 }

@@ -1,16 +1,18 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "At Level 3, the student demonstrates a proficient understanding, showing most elements of the task clearly and correctly.",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can show two students using a string telephone to communicate, with each holding one cup to their ear or mouth.",
-    "The student can illustrate that the string is tightened between the two cups to ensure sound travels effectively.",
-    "The student can demonstrate the use of materials like cups and string in the drawing, as provided in the task.",
-    "The student can depict the string telephone as a device that sends or receives sound over a distance."
+    "The student can accurately draw two students communicating over a long distance using a string telephone, with clear depiction of the students and the string connecting them.",
+    "The student can effectively illustrate how sound travels along the string, possibly using arrows or vibrations to indicate the transfer of sound.",
+    "The student can clearly depict the problem-solving process of designing a string telephone, perhaps showing trial and error or adjustments being made.",
+    "The student can accurately show the materials used to construct the device, such as cups and string, with appropriate detail to differentiate each component.",
+    "The student can compellingly demonstrate how the string telephone functions to solve the communication problem using sound, potentially including labels for 'sound' or 'vibrations'.",
+    "The student can illustrate how technological devices like a string telephone help people connect over distances, possibly including examples or scenarios of its use."
   ],
   "CANNOT": [
-    "The student may have minor gaps in showing how exactly the sound travels through the string from one student to the other (e.g., no direction or arrows indicating sound travel).",
-    "The student might inconsistently depict or label how this technology helps people communicate when far apart (e.g., lacks explicit labels or text explanation)."
+    "The student may occasionally omit minor labels or arrows, not affecting overall understanding (e.g., forgetting to label one end of the string as 'sound travels here').",
+    "The student might not depict every step of the design process if the focus is more on the functioning device, though their representation of the device itself is accurate."
   ]
 }

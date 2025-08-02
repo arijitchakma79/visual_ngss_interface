@@ -1,0 +1,18 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can draw a plant with green leaves to show it has enough water, demonstrating the healthy condition of the plant.",
+    "The student can accurately draw a plant with wilting or brown leaves to show it does not have enough water, indicating poor health due to lack of water.",
+    "The student can effectively illustrate a sun shining to show that plants need light to grow and thrive.",
+    "The student can represent the soil and roots in the drawing to demonstrate where plants might get water from the ground.",
+    "The student can depict both a sunlit plant and one kept in the dark to compare their growth and health, showing the plant in the sun is healthier.",
+    "The student can draw different types of plants to observe patterns of growth with and without water, showing a clear understanding of variations."
+  ],
+  "CANNOT": [
+    "The student may occasionally miss small details like minor elements of the soil affecting water absorption (e.g., texture, depth).",
+    "The student may not consistently label all parts of the drawing, like every individual root or sun ray, due to oversight rather than misunderstanding."
+  ]
+}

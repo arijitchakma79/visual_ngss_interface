@@ -8,61 +8,67 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figures",
+      "label": "Two children with red cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Unconnected horizontal line",
+      "label": "Long black string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Small circles near hands",
+      "label": "Arrows showing sound travel",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Short wavy lines near circles",
+      "label": "Labels 'cup' and 'string'",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Basic ability to draw human figures",
+      "label": "Children are communicating from a distance",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Misunderstanding of function of string",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Sound travels along the string",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Attempt to show connection not understood",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "String is a key feature",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Misinterpretation of sound representation through vibrations",
+      "label": "Includes necessary materials",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Arrows suggest sound travel but not fully complete",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n10",
-      "label": "Connect string solidly between cups/figures",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "id": "n11",
+      "label": "Inconsistent labeling",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
-      "id": "n11",
-      "label": "Represent vibrations with clearer symbols or arrows",
+      "id": "n12",
+      "label": "Add complete labels for clarity",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -93,20 +99,24 @@
       "n7"
     ],
     [
-      "n4",
+      "n3",
       "n8"
     ],
     [
-      "n5",
+      "n2",
       "n9"
     ],
     [
-      "n7",
+      "n4",
       "n10"
     ],
     [
-      "n9",
+      "n5",
       "n11"
+    ],
+    [
+      "n11",
+      "n12"
     ]
   ]
 }

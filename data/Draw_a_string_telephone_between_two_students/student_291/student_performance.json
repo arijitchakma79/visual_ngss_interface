@@ -1,17 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student can accurately illustrate a string telephone connecting two students, clearly depicting the string as the medium for sound transmission.",
-    "The student can show the two students standing far apart with the string telephone visibly allowing sound to travel between them.",
-    "The student can include detailed labels or symbols, such as sound waves, to indicate that the string is used to communicate sound, not light.",
-    "The student can accurately depict and label the materials used, such as cups at either end of the string, emphasizing the use of these materials in building the device.",
-    "The student can effectively represent the function of the communication device, showing how it facilitates the conveying of messages over a distance."
+    "The student can accurately draw a string telephone connecting two students, demonstrating a basic understanding of how it functions.",
+    "The student can illustrate the path of sound waves traveling through the string, often with arrows or lines (though arrows might be inconsistently applied or not fully explained).",
+    "The student can identify and depict the specified materials (e.g., cups and string) used to create the string telephone.",
+    "The student can show how the string serves as a medium for sending and receiving information across a distance, reflecting understanding that the string is crucial for the sound to travel."
   ],
   "CANNOT": [
-    "The student is unlikely to misunderstand basic concepts such as sound waves traveling through the string, but they might occasionally omit minor details in the labeling of their diagram (e.g., forgetting to label one of the cups).",
-    "Minor infrequent gaps might include slightly unclear depictions of the start and end points of the sound communication, though this is rare and usually corrected."
+    "The student may not fully depict or misrepresent how sound waves travel through the air and string (e.g., waves drawn inaccurately or waves shown stopping at the cups).",
+    "The student might not explicitly label all parts of the system, such as failing to label one or both 'cups' or neglecting to identify specific components necessary for the device's function.",
+    "The student might show incomplete or inaccurate details about solving communication over long distances (e.g., unclear why the string telephone is effective over long distances without explaining tension or material)."
   ]
 }

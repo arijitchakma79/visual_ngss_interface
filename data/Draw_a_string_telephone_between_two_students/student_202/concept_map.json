@@ -8,49 +8,43 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure people",
+      "label": "Two stick figure students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Lone straight line",
+      "label": "Oval-shaped objects (cups)",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Basic colors and shapes",
+      "label": "Thin line connecting cups (string)",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "People without string telephone features",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n6",
-      "label": "Line does not show sound transmission",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n7",
-      "label": "Use of colors shows basic understanding of drawing",
+      "label": "Two students need to communicate",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n8",
-      "label": "Add cups at each end of the line for a functional string telephone",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "id": "n6",
+      "label": "Cups used to transmit sound",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
-      "id": "n9",
-      "label": "Draw waves or indicate sound traveling along the string",
+      "id": "n7",
+      "label": "String connects cups for sound travel",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n8",
+      "label": "Struggles to show how sound travels over distance",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -81,12 +75,8 @@
       "n7"
     ],
     [
-      "n5",
+      "n7",
       "n8"
-    ],
-    [
-      "n6",
-      "n9"
     ]
   ]
 }

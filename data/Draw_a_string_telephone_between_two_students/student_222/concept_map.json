@@ -8,43 +8,61 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure students",
+      "label": "Two students facing each other",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Black line connecting students' hands",
+      "label": "String connects cups held by students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Basic understanding of a string telephone",
+      "label": "Cups labeled 'talk here' and 'sound goes through string'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Students depicted cartoonishly",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Uses string to represent sound travel",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n5",
-      "label": "Omission of sound waves",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n6",
-      "label": "Lack of labels or captions explaining function",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
       "id": "n7",
-      "label": "Add visuals or text showing sound transmission",
+      "label": "Illustrates basic concept of sound transmission",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n8",
+      "label": "Assumes cups are gray like metal",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n9",
+      "label": "Omission of sound transmission details",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n10",
+      "label": "Correct materials needed: paper cups or plastic",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     },
     {
-      "id": "n8",
-      "label": "Include labels to explain communication function",
+      "id": "n11",
+      "label": "Include arrows showing sound direction",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -59,24 +77,36 @@
       "n3"
     ],
     [
-      "n2",
+      "n1",
       "n4"
     ],
     [
-      "n3",
+      "n1",
       "n5"
     ],
     [
-      "n3",
+      "n2",
       "n6"
     ],
     [
-      "n5",
+      "n3",
       "n7"
     ],
     [
-      "n6",
+      "n4",
       "n8"
+    ],
+    [
+      "n4",
+      "n9"
+    ],
+    [
+      "n8",
+      "n10"
+    ],
+    [
+      "n9",
+      "n11"
     ]
   ]
 }

@@ -2,49 +2,49 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students",
+      "label": "Draw a string telephone between two students.",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two stick figures",
+      "label": "Two stick figure students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Cups held by figures",
+      "label": "Thin, straight, dark line connecting figures",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Wavy line between cups",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Understanding of connection between students",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n5",
-      "label": "Students are trying to communicate",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n6",
-      "label": "Cups are transmitters and receivers",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n7",
-      "label": "String should be tight for sound to travel",
+      "label": "No materials representing a string telephone",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
+      "id": "n6",
+      "label": "No labels or scientific terms",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n7",
+      "label": "Add realistic materials like cups and strings",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
       "id": "n8",
-      "label": "Sound path through tight string",
+      "label": "Label parts using terms like 'sound', 'vibration'",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -59,11 +59,11 @@
       "n3"
     ],
     [
-      "n1",
+      "n2",
       "n4"
     ],
     [
-      "n2",
+      "n3",
       "n5"
     ],
     [
@@ -71,11 +71,11 @@
       "n6"
     ],
     [
-      "n4",
+      "n5",
       "n7"
     ],
     [
-      "n7",
+      "n6",
       "n8"
     ]
   ]

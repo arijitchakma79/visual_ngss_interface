@@ -8,49 +8,43 @@
     },
     {
       "id": "n2",
-      "label": "Stick figures holding blue cup-like objects",
+      "label": "Two stick figure children facing each other",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Wavy red line representing the string",
+      "label": "Stick figures holding cups to mouths/ears",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "No labels or sound waves depicted",
+      "label": "A wavy line representing the string between cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Understanding: Cups as part of a communication device",
+      "label": "Background is plain white",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Understands basic structure: two children and connecting string.",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n6",
-      "label": "Incomplete: String must be tight for effective use",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
       "id": "n7",
-      "label": "Incomplete: No depiction of sound travel or labels",
+      "label": "Does not understand that the string must be taut to function.",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Feedback: Ensure the string is depicted as taut",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
-      "id": "n9",
-      "label": "Feedback: Add labels and arrows to show sound travel",
+      "label": "Provide explanation about the importance of a taut string in sound transmission.",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -69,8 +63,12 @@
       "n4"
     ],
     [
-      "n2",
+      "n1",
       "n5"
+    ],
+    [
+      "n2",
+      "n6"
     ],
     [
       "n3",
@@ -81,12 +79,8 @@
       "n7"
     ],
     [
-      "n6",
-      "n8"
-    ],
-    [
       "n7",
-      "n9"
+      "n8"
     ]
   ]
 }

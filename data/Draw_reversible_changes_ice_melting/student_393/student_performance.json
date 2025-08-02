@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw a simple representation of ice, possibly as a block or cube, representing it before any change.",
+    "The student may attempt to draw water, but it might be unclear or indistinguishable from the drawing of ice."
+  ],
+  "CANNOT": [
+    "The student is unlikely to accurately draw the process of ice turning into water (e.g., may not depict the change at all or show unrelated changes like ice breaking).",
+    "The student cannot accurately depict water turning back into ice (e.g., may not attempt this, or may show ice melting again instead of freezing).",
+    "The student cannot illustrate or label examples of reversible and irreversible changes correctly (e.g., may label a melted ice cream as reversible).",
+    "The student cannot use the drawing to explain how heating or cooling causes changes (e.g., lacks understanding that heating melts ice and cooling freezes water)."
+  ]
+}

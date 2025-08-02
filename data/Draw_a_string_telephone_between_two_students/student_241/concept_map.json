@@ -8,55 +8,43 @@
     },
     {
       "id": "n2",
-      "label": "Drawing includes two students with smiling faces",
+      "label": "Two stick figure students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Drawing includes a string telephone",
+      "label": "Single straight line connecting figures",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Labels: cups and string",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Represents two students",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n5",
-      "label": "Students want to communicate over long distance",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Represents incorrect or incomplete understanding of string as telephone component",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n6",
-      "label": "Understands basic structure of string telephone",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Consider drawing the string clearly to connect cans",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     },
     {
       "id": "n7",
-      "label": "Understanding of sound transmission is incomplete",
+      "label": "No visible parts for sending or receiving sound",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Student knows to label important parts",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "Include arrows or sound waves to show sound direction",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
-      "id": "n10",
-      "label": "Add conversation bubbles to depict communication",
+      "label": "Draw cans at each end to show sound travel",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -71,15 +59,15 @@
       "n3"
     ],
     [
-      "n1",
+      "n2",
       "n4"
     ],
     [
-      "n2",
+      "n3",
       "n5"
     ],
     [
-      "n3",
+      "n5",
       "n6"
     ],
     [
@@ -87,16 +75,8 @@
       "n7"
     ],
     [
-      "n4",
-      "n8"
-    ],
-    [
       "n7",
-      "n9"
-    ],
-    [
-      "n5",
-      "n10"
+      "n8"
     ]
   ]
 }

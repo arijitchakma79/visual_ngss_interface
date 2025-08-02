@@ -8,55 +8,73 @@
     },
     {
       "id": "n2",
-      "label": "Colorful drawing of two students, cups, and string.",
+      "label": "Two students standing several feet apart outdoors",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Labeled 'cup' and 'string'.",
+      "label": "Each student holds a cup to their mouth or ear",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "String is slightly slack.",
+      "label": "Cups connected by a taut string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Basic setup of string telephone shown.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Arrows indicating sound travel direction",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Understanding of materials: cups and string.",
+      "label": "Labels on cups and arrows",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Casual clothing, grassy ground, blue sky",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n8",
+      "label": "Student understands the setup of a string telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n7",
-      "label": "Does not show sound waves movement.",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n8",
-      "label": "String should be taut for proper function.",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
       "id": "n9",
-      "label": "Illustrate sound waves traveling through the string.",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Student knows how sound travels through string",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Show string tautness for effective communication.",
+      "label": "Student can connect two people using string telephone",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "Student demonstrates communication over distance",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n12",
+      "label": "Potential for incomplete labeling",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n13",
+      "label": "Include complete labels for clarity",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -75,28 +93,44 @@
       "n4"
     ],
     [
-      "n2",
+      "n1",
       "n5"
     ],
     [
-      "n3",
+      "n1",
       "n6"
     ],
     [
-      "n4",
+      "n1",
+      "n7"
+    ],
+    [
+      "n2",
+      "n8"
+    ],
+    [
+      "n3",
       "n8"
     ],
     [
       "n4",
-      "n7"
+      "n10"
     ],
     [
-      "n7",
+      "n5",
       "n9"
     ],
     [
-      "n8",
-      "n10"
+      "n6",
+      "n12"
+    ],
+    [
+      "n7",
+      "n8"
+    ],
+    [
+      "n12",
+      "n13"
     ]
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can accurately draw and label a fish within a water environment, such as a pond or ocean.",
+    "The student can illustrate some surrounding elements like plants and rocks that usually appear in the fish's natural habitat.",
+    "The student can correctly label basic needs such as water and explain its importance for the fish's survival, like for swimming and breathing.",
+    "The student can depict and label simple relationships between the fish and its environment, showing understanding of how these resources support the fish."
+  ],
+  "CANNOT": [
+    "The student may inconsistently label less obvious resources that plants and animals need, such as air or sunlight, or might not label them at all.",
+    "The student might not fully capture the idea of the ecosystem working as an interdependent system (e.g., missing how plants and fish interact within the habitat).",
+    "The student might mistakenly include or label a resource incorrectly, such as labeling land-based elements that don't belong underwater (e.g., soil instead of sand)."
+  ]
+}

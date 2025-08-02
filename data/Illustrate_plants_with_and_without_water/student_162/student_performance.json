@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a plant with enough water and make an attempt to show it as healthy and growing (e.g., drawing more green leaves or flowers but may lack detail).",
+    "The student can draw a plant without water and attempt to show it as wilting (e.g., droopy leaves, but may not clearly represent this in comparison to a healthy plant).",
+    "The student can show some connection that plants need water to live and grow, though the representation may lack clarity or detail."
+  ],
+  "CANNOT": [
+    "The student is likely unable to clearly differentiate between the states of healthy and wilting plants (e.g., both plants look similar in size or shape).",
+    "The student cannot consistently include observations of plant health in different settings, possibly showing inconsistencies like both plants having the same coloration (misunderstanding the visual impact of water lack).",
+    "The student is less likely to identify and represent distinct patterns through their drawings that signify how lack of water affects plant health (may not show sequential stages of wilting or reduced growth)."
+  ]
+}

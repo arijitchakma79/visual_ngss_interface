@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can illustrate the original state of the material, like ice before melting, with reasonable accuracy.",
+    "The student can draw the material after it has been heated, such as ice turning into water, with a clear distinction between the solid and liquid states.",
+    "The student can represent the material after the heating process is reversed, such as water freezing back into ice, showing understanding of the reversible change.",
+    "The student can depict how a reversible change (like ice melting and refreezing) supports the idea that some changes can be undone by heating or cooling, indicating understanding of the concept of reversibility in an accurate way."
+  ],
+  "CANNOT": [
+    "The student may struggle to illustrate at least one example of an irreversible change caused by heating or cooling, like a cooked egg or a baked cookie, and may only partially succeed or not illustrate it accurately.",
+    "The student may show incomplete or missing evidence to support the claim that not all changes after heating or cooling can be reversed, or may not clearly label why a particular change is irreversible (e.g., they attempt this but do not fully convey the concept)."
+  ]
+}

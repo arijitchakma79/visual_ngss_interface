@@ -1,17 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student may be able to draw two stick figures to represent students.",
-    "The student might draw a string or line connecting the two figures, but without clarity or correct context."
+    "The student can draw two students clearly using the string telephone for communication.",
+    "The student can illustrate the device, including both the string and the two cups, in a recognizable manner.",
+    "The student can demonstrate in the drawing how the device uses sound to send messages by showing one student speaking into a cup and the other listening.",
+    "The student can show that the device is working by depicting sound lines or waves traveling along the string between students.",
+    "The student can highlight the importance of using sound for communication by possibly labeling the drawing with terms like 'sound waves' or 'talking'."
   ],
   "CANNOT": [
-    "The student is unlikely to show how the string can carry sound to allow communication over a distance (student might not understand sound transmission).",
-    "The student might not depict any tools or materials used to create the string telephone (student doesn’t know what is needed).",
-    "The student may not visually explain how the device solves the problem of communicating over long distances (no concept of problem-solving shown).",
-    "The student likely won't include labels or notes explaining how sound travels through the string (student is unaware of the scientific principle involved).",
-    "The student is unlikely to represent how communication over distances is aided by the device in their drawing (misunderstands or doesn't know this aspect)."
+    "The student may inconsistently show the sound waves, sometimes omitting them or depicting them as solid lines (indicating a misunderstanding of sound as an intangible wave).",
+    "The student might not accurately label all components, such as missing labels on the cups or string, or may use incorrect terms, like 'talking waves' instead of 'sound waves'."
   ]
 }

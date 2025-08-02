@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can illustrate a plant with some signs of health, like a few green leaves, although details may be missing.",
+    "The student can show the difference in basic appearance between a healthy and an unhealthy plant, perhaps via droopy versus upright stems.",
+    "The student can include some elements indicating poor health, such as less vibrant leaves or droopiness."
+  ],
+  "CANNOT": [
+    "The student is unlikely to accurately depict all signs of healthy growth, like flowers or uniformly green leaves (student may miss detailing or color doesn't reflect health).",
+    "The student may not clearly show brown spots or other distinct signs of poor health on the plant without water (student doesn't recognize specific signs of dehydration).",
+    "The drawing may not fully convey that water is essential for plant life and growth on its own (student might not connect lack of water directly to plant health)."
+  ]
+}

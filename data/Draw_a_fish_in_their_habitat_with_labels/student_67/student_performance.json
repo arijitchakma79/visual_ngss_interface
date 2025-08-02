@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "Draw a fish and a variety of aquatic plants and animals appropriately within the water habitat.",
+    "Label the habitat as 'water' and include labels for the fish and at least some other plants or animals present.",
+    "Illustrate and label necessary resources such as water and air (i.e., bubbles) that the fish needs.",
+    "Show some understanding of the relationships between the fish and its habitat by including environmental features, like rocks or plants, the fish can use."
+  ],
+  "CANNOT": [
+    "Consistently and accurately label all the resources and requirements for each organism (e.g., might forget to label sunlight).*",
+    "Demonstrate a complete understanding of the interdependence within the ecosystem (e.g., does not show or label how plants provide oxygen for fish).",
+    "Always accurately represent the relationship between all habitat features and the fish's survival (e.g., might not show how plants offer shelter)."
+  ]
+}

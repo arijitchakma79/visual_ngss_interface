@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can use simple shapes to represent plants, such as basic stick figures for stems.",
+    "The student can attempt to color one plant green, suggesting an intuitive sense that healthy plants are green, though it may not be consistently applied."
+  ],
+  "CANNOT": [
+    "The student is unlikely to accurately show the difference between a healthy plant and a wilted one with clear visual cues like a drooping shape. *(student doesn’t understand difference between healthy and wilted)*",
+    "The student does not demonstrate an understanding that plants need water to live and grow through their drawing. *(student shows no water elements or incorrect representation)*",
+    "The student is unable to depict a clear comparison between plants with and without water, likely showing both plants in a similar state. *(student doesn’t understand comparison or forgets to differentiate)*",
+    "The student struggles to identify or represent patterns in their drawings that relate to water's impact on plant health. *(student doesn’t notice or misinterprets this relationship)*"
+  ]
+}

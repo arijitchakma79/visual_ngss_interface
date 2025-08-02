@@ -1,0 +1,19 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can illustrate a basic plant shape and some elements that indicate whether it is growing or not (e.g., leaves drooping or standing upright).",
+    "The student can partially show a plant that has enough water by drawing it with some leaves upright or green.",
+    "The student may identify and label a few basic parts of a plant like the stem or leaves, though inconsistently.",
+    "The student can draw a simple bright environment to indicate the presence of light, though details may be minimal."
+  ],
+  "CANNOT": [
+    "The student is unlikely to consistently represent the absence of water correctly (e.g., may draw the plant upright even without water).",
+    "The student may not accurately show the struggle of a plant in a dark environment (e.g., plant still appears healthy even under a rock).",
+    "The student often omits or incorrectly labels parts of the plant, missing aspects like roots or flower parts (e.g., root labeled as leaf).",
+    "The student has difficulty illustrating the relationship between water and plant growth clearly (e.g., lack of differentiation between watered and unwatered plants).",
+    "The student may not yet incorporate the concept that plants need both water and light, missing drawing environments that provide these needs."
+  ]
+}

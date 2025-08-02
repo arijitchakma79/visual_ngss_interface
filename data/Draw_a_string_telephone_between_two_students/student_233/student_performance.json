@@ -1,16 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing: Emerging understanding, basic elements shown.",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can draw two people, each holding an object that may resemble a cup or a device, indicating an attempt to depict a string telephone.",
-    "The student can include a line connecting the objects held by each person, suggesting a string, with occasional issues in clarity.",
-    "The student may show the string somewhat taut, but not consistently, reflecting an emerging understanding of the need for tension."
+    "Can attempt to draw two students with some representation of a string-like element between them. (might be an unclear or roughly drawn line)"
   ],
   "CANNOT": [
-    "The student is likely unable to clearly depict sound traveling through the string, potentially omitting this element or representing it inaccurately.",
-    "The student often does not include labels or explanations about how the sound works in the string telephone (student doesn’t know this or forgets to include it).",
-    "The student may not accurately represent the materials used for making the telephone, or may confuse them with other objects (e.g., mismatches in depicting cups as open-ended)."
+    "Cannot clearly convey the concept of using sound to relay information through the string. (may not understand sound transmission)",
+    "Cannot accurately depict the purpose of a string telephone over long distances. (may think it's just a toy)",
+    "Cannot demonstrate or illustrate functional elements of a string telephone, such as making sure the string is taut between cups. (may miss or misunderstand this requirement)",
+    "Cannot show, through the drawing, that the device can send or receive information over a given distance. (lacks understanding of communication over distance)",
+    "Might incorrectly depict the materials, adding elements not related to a string telephone or missing key components like cups. (may include extraneous materials or omit crucial ones)"
   ]
 }

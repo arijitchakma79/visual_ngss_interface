@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "Illustrate the material both before and after heating or cooling, clearly showing ice before heating and water after heating.",
+    "Illustrate the material after the process is reversed, demonstrating water returning to ice after cooling.",
+    "Show the reversibility of the change with appropriate visual indicators, such as arrows indicating transformation from ice to water and back to ice.",
+    "Include annotations indicating the cause of the changes and their reversibility, such as noting that heating causes ice to melt and cooling causes water to freeze.",
+    "Describe through the drawing how events like melting and freezing are part of observable patterns that demonstrate cause and effect."
+  ],
+  "CANNOT": [
+    "Might occasionally omit minor labels or annotations despite overall understanding, such as missing a label for 'water' or 'ice' in one section of the drawing (student forgets to label everywhere, though understanding is clear).",
+    "May not perfectly depict scale or proportion, such as slightly different sizes for the ice cube and water pool in the before and after pictures, but correctly understands the concept (minor execution error)."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may be able to draw a basic shape that loosely resembles ice but without clear details distinguishing it as a solid (e.g., simple block shape)."
+  ],
+  "CANNOT": [
+    "The student does not illustrate the change of the material after it is heated (e.g., student shows ice but not the melted water or does not show a distinct transition).",
+    "The student is unlikely to illustrate the change of the material after it is cooled again (e.g., fails to show water refreezing into ice).",
+    "The student does not label the illustration or uses incorrect labels for heating and cooling processes (e.g., labels 'ice' as 'water' with no differentiation).",
+    "The student does not add notes indicating which changes are reversible and why (e.g., no text or incorrect explanation like 'once ice melts, it cannot be ice again').",
+    "The student does not show an understanding that some changes cannot be reversed (e.g., might incorrectly suggest any change can be reversed by cooling or heating)."
+  ]
+}

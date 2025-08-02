@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can illustrate a plant with water that appears somewhat healthy and growing, although might miss some details like vibrant colors or clear growth stages.",
+    "The student can illustrate a plant without water that looks unhealthy or stagnant, possibly through droopy leaves or a lack of bright colors.",
+    "The student attempts to show sunlight in the drawing, likely understands that light is important but may not label it clearly or consistently."
+  ],
+  "CANNOT": [
+    "The student might not clearly differentiate between well-watered and waterless plant conditions beyond basic differences, potentially showing both plants as somewhat similar *(student struggles to highlight distinct changes)*.",
+    "The student often forgets or incorrectly labels essential components such as sunlight or neglects to show how sunlight contributes to plant health *(student may think only water is needed)*.",
+    "While showing a healthy plant, the student may incorrectly portray certain elements, such as using unrealistic colors for leaves or misrepresenting soil appearance *(student has emerging understanding of plant health indicators)*."
+  ]
+}

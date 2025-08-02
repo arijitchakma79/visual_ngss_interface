@@ -1,17 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can draw two figures that might represent students but may lack clear communication (figures might just be stick figures without interaction).",
-    "The student can attempt to draw a string but it may be inaccurately connecting the cups, or might not connect to both cups correctly."
+    "The student is likely able to draw a basic representation of two students with a string connecting them, indicating the idea of a string telephone.",
+    "The student might include simple shapes to represent cups at the ends of the string, showing an emerging understanding of the device components.",
+    "The student may attempt to illustrate sound traveling along the string using simple lines or arrows but might not label them."
   ],
   "CANNOT": [
-    "The student likely does not illustrate the string as a means to transmit sound (string may be floating or drawn without purpose).",
-    "The student cannot effectively depict how sound travels through the string, possibly omitting arrows or labels (student may not understand sound transmission).",
-    "The student may not demonstrate that the device uses sound to send information across a distance (drawn students might be too close or inside the cups).",
-    "The student is likely unable to include features showing the solution works over distance (students could be close together or details are missing).",
-    "The student may not use specified materials correctly, such as using random shapes instead of recognizable paper cups or string (misunderstands material usage)."
+    "The student may not accurately depict the importance of the string being taut for sound transmission *(string might appear loose or sagging)*.",
+    "The student is unlikely to label or detail features that indicate how the string telephone solves the problem of distance communication *(might not include notes or explanations)*.",
+    "The student might not clearly show how the device uses sound to communicate, possibly omitting or incorrectly showing sound waves *(misunderstanding of sound wave concept)*."
   ]
 }

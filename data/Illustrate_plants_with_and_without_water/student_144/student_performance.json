@@ -1,0 +1,18 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can accurately illustrate a healthy, green plant with water, showcasing well-developed leaves and stems.",
+    "The student can depict a wilting plant without water, showing drooping leaves and bent stems.",
+    "The student can illustrate a plant in the sunlight, appearing robust and thriving.",
+    "The student can show a plant in the dark that appears not to be growing well, possibly with yellowish leaves.",
+    "The student can include multiple examples to identify patterns, showing a series of plant drawings demonstrating stages of growth with varying light and water conditions.",
+    "The student can accurately interpret their own observations, illustrating classroom activities or personal experiences, such as a project tracking plant growth based on different watering schedules."
+  ],
+  "CANNOT": [
+    "The student may occasionally omit minor details such as the sun or a water source in one of their drawings, though this does not affect the overall understanding (e.g., *sometimes forgets to add all elements consistently*).",
+    "The student might inconsistently label some elements, like forgetting to label 'water' in one instance, but these instances are rare (e.g., *infrequent omission of labels*)."
+  ]
+}

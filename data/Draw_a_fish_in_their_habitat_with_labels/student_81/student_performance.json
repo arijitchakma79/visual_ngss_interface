@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draws a simple shape that may represent a fish (basic form, little detail).",
+    "May include a rough depiction of water or waves to show the fish's environment (no clear habitat like a lake, river, pond, or ocean)."
+  ],
+  "CANNOT": [
+    "Accurately labels the fish or its habitat (likely missing labels or incorrect names, e.g., *fish* labeled as *shark*).",
+    "Include and label key survival needs, such as water, food, or plants (omits these elements or labels them incorrectly, e.g., food labeled as *car*).",
+    "Illustrate and label other living things that share the habitat, like plants or animals (may add unrelated objects, e.g., *a tree or car*).",
+    "Show and label connections between the fish and resources in its habitat (lacks understanding of relationships, e.g., might draw but not label how the fish uses water).",
+    "Demonstrate that the fish is part of a system in its environment (no indication that the habitat supports the fish or any interactions with the environment)."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "Illustrate the material's characteristics before heating, showing solid ice with clear labels.",
+    "Illustrate the material's characteristics after heating, depicting liquid water after the ice has melted, with correct labeling.",
+    "Illustrate the reversal of the change by showing liquid water turning back into solid ice through a cooling process.",
+    "Depict the idea that some changes can be reversed by showing a heating and cooling cycle, with arrows indicating these processes.",
+    "Use their drawing to support a claim about the reversibility of the change by identifying cooling as a process that can be repeated to return water to ice."
+  ],
+  "CANNOT": [
+    "Provide a clear explanation in their drawing about the molecular changes occurring during the phase change (may not understand molecular-level changes).",
+    "Fully detail the conditions required for the reversal (e.g., specific temperatures for freezing and melting).",
+    "Consistently label every part of the process accurately (may miss labels like 'heat' or 'cool')."
+  ]
+}

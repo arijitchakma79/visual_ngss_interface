@@ -2,73 +2,49 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students.",
+      "label": "Draw a string telephone between two students",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two students",
+      "label": "Two stick figures",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Cups and string",
+      "label": "Single straight line (string)",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Sound waves along string",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Indication of people trying to communicate",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n5",
-      "label": "Labels: 'cups' and 'string'",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
-    },
-    {
-      "id": "n6",
-      "label": "Communicating over a distance",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n7",
-      "label": "Using cups to receive/transmit sound",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n8",
-      "label": "Sound needs medium to travel",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "Not consistently touching cups",
+      "label": "Lack of understanding of necessary parts (cups)",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n10",
-      "label": "Sound waves should start/stop at cups",
+      "id": "n6",
+      "label": "Lack of detailed context or understanding",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n7",
+      "label": "Include cups to complete the string telephone setup",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     },
     {
-      "id": "n11",
-      "label": "Partial understanding of sound transmission",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n12",
-      "label": "Explain importance of string tension",
+      "id": "n8",
+      "label": "Explain how sound travels along the string",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -83,40 +59,24 @@
       "n3"
     ],
     [
-      "n1",
+      "n2",
       "n4"
     ],
     [
-      "n1",
+      "n3",
       "n5"
     ],
     [
-      "n2",
+      "n3",
       "n6"
     ],
     [
-      "n3",
+      "n5",
       "n7"
     ],
     [
-      "n4",
+      "n6",
       "n8"
-    ],
-    [
-      "n4",
-      "n9"
-    ],
-    [
-      "n9",
-      "n10"
-    ],
-    [
-      "n5",
-      "n11"
-    ],
-    [
-      "n11",
-      "n12"
     ]
   ]
 }

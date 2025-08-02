@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can accurately draw ice in its solid form before heating, clearly showing its initial characteristics (e.g., cube shape).",
+    "The student can illustrate the ice after it has been heated, clearly depicting it in a liquid form (e.g., a puddle of water).",
+    "The student can depict the material returning to its solid state after being cooled again, representing ice with appropriate characteristics.",
+    "The student can represent the process of heating and then cooling with clear labels indicating 'melting' and 'freezing', showcasing a full understanding of reversible changes.",
+    "The student can effectively illustrate the cause and effect relationship by using arrows and labels to show the transformations from solid to liquid and back to solid, demonstrating understanding of how heating and cooling cause these changes."
+  ],
+  "CANNOT": [
+    "The student might occasionally forget minor details, such as omitting a label for 'heating' or 'cooling' processes, even though the concept is understood.",
+    "The student may sometimes show slight inconsistencies in the size of the ice before and after the processes (e.g., the ice re-freezes into a different shape or size), although this does not impact the overall accuracy of the transformation depicted."
+  ]
+}

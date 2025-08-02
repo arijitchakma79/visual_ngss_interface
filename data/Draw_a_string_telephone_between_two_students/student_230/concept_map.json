@@ -8,49 +8,43 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figures labeled 'student'",
+      "label": "Two students holding cups connected by a string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "A straight line labeled 'string'",
+      "label": "Arrows along the string to show sound travel",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Cups held near mouths",
+      "label": "Emphasis on cups and string with plain background",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Understand that string connects two students for communication",
+      "label": "String telephone uses a string and two cups to communicate sound",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Did not include sound waves or explanation",
+      "label": "Inadequate representation of sound travel",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n7",
-      "label": "Label the cups and string as parts of the device",
+      "label": "Correctly uses provided resources like string and cups, avoids extras",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Add sound waves traveling along the string",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
-      "id": "n9",
-      "label": "Explain how the design allows communication",
+      "label": "Clarify how sound vibration moves along the string",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -74,23 +68,15 @@
     ],
     [
       "n3",
-      "n5"
+      "n6"
     ],
     [
       "n4",
       "n7"
     ],
     [
-      "n3",
-      "n6"
-    ],
-    [
       "n6",
       "n8"
-    ],
-    [
-      "n6",
-      "n9"
     ]
   ]
 }

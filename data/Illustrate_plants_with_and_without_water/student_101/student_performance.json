@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may be able to draw a basic shape representing a plant, such as a vertical line with something resembling leaves (limited understanding of plant structure).",
+    "The student might include some color to differentiate parts of the drawing, though inconsistently (student uses color for personal preference rather than to indicate plant health)."
+  ],
+  "CANNOT": [
+    "The student is unlikely to show an accurate representation of a healthy, well-watered plant versus a wilting one (student may not understand what wilting looks like).",
+    "The student probably cannot illustrate patterns or differences between plants with and without water (student does not grasp the concept of water affecting plant health).",
+    "The student may misunderstand the necessity of water for plant growth and living (student might think plants look the same regardless of water).",
+    "The student might ignore common signs of unhealthy plants, such as yellowing leaves or drooping stems (student lacks awareness of these indicators)."
+  ]
+}

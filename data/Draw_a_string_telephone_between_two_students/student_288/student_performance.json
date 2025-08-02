@@ -4,14 +4,15 @@
   "Level": 4,
   "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can accurately draw two students communicating over a distance using a string telephone.",
-    "The student can clearly depict the string telephone device with a string connecting two cups, held by each student.",
-    "The student can illustrate sound traveling through the string using detailed sound waves or arrows, indicating communication.",
-    "The student can effectively show how the device is built using materials such as cups and string, demonstrating understanding of the construction.",
-    "The student can clearly illustrate the purpose of the string telephone by showing how it allows communication over a distance.",
-    "The student can successfully demonstrate an understanding of how technology enables communication over long distances through their drawing."
+    "The student can accurately draw two students using a string telephone to show communication over a distance, clearly illustrating both the students and the string.",
+    "The student can effectively illustrate the use of sound to send messages through the string telephone by including arrows or symbols that demonstrate the flow of sound or information.",
+    "The student can depict how the design, such as cups attached to the string, helps solve the problem of communicating over a distance.",
+    "The student can represent the string being stretched tight, indicating its importance for effective communication.",
+    "The student can use labels or brief explanations to describe how the string telephone works, such as notes indicating sound travels through the string.",
+    "The student can show how using the string telephone is similar to other technologies used for communication, like drawings or notes comparing it to modern phones."
   ],
   "CANNOT": [
-    "The student may occasionally omit minor details such as labels or slightly misalign arrows or sound waves, but these do not detract significantly from the overall understanding."
+    "The student may occasionally leave out minor details, such as forgetting to label one component of the telephone system but generally understands its significance.",
+    "The student might not distinguish clearly between different types of communication technologies (e.g., shows all as identical without indicating differences) but captures the basic idea of communication over distance."
   ]
 }

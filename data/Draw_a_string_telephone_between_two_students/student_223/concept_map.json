@@ -8,73 +8,79 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figures facing each other",
+      "label": "Two students standing apart",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Single, thin line representing string",
+      "label": "Cups held to ears",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Random shapes or lines near string",
+      "label": "String connecting cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Device connects two students",
+      "label": "Arrows indicating sound travel",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Student smiling",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Two students understand the problem of communicating over distance",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n6",
-      "label": "Lack of cups on string",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n7",
-      "label": "Illustrates sound with lines/shapes",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
       "id": "n8",
-      "label": "Distance not depicted correctly",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Use of cups for sound transmission",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Confusion in labeling materials",
+      "label": "String is mistakenly labeled as 'wire'",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n10",
-      "label": "Include cups at ends of line to form telephone",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Shows understanding of sound traveling through a medium",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n11",
-      "label": "Clarify use of sound waves, not random shapes",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Simplified explanation of speaking over a distance",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n12",
-      "label": "Depict a clear distance between figures",
+      "label": "Emphasizes positive communication experience",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n13",
+      "label": "Consider correct labeling of the string as 'string' not 'wire'.",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     },
     {
-      "id": "n13",
-      "label": "Label string and cups as key materials",
+      "id": "n14",
+      "label": "Provide a more detailed explanation of sound properties.",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -93,15 +99,15 @@
       "n4"
     ],
     [
-      "n2",
+      "n1",
       "n5"
     ],
     [
-      "n3",
+      "n1",
       "n6"
     ],
     [
-      "n4",
+      "n2",
       "n7"
     ],
     [
@@ -109,24 +115,28 @@
       "n8"
     ],
     [
-      "n3",
+      "n4",
       "n9"
     ],
     [
-      "n6",
+      "n5",
       "n10"
+    ],
+    [
+      "n6",
+      "n12"
     ],
     [
       "n7",
       "n11"
     ],
     [
-      "n8",
-      "n12"
-    ],
-    [
       "n9",
       "n13"
+    ],
+    [
+      "n11",
+      "n14"
     ]
   ]
 }

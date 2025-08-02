@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "Draws a clear and detailed depiction of ice before heating, emphasizing its solid state characteristics.",
+    "Illustrates the transformation of ice melting into water, accurately showing the liquid state after heating.",
+    "Demonstrates the reversible change by depicting water freezing back into ice, highlighting the solid state again.",
+    "Uses clear labels and notes to indicate that each change is reversible, ensuring each phase is well-annotated.",
+    "Visually represents that the changes due to heating or cooling can be reversed with clarity and accuracy, such as using consistent arrows or symbols."
+  ],
+  "CANNOT": [
+    "May occasionally omit a label, but this is rare and likely due to oversight rather than misunderstanding of the concept."
+  ]
+}

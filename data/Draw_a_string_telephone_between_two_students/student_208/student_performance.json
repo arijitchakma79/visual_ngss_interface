@@ -1,16 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can attempt to draw two students holding something (might not resemble a string telephone).",
-    "The student might use lines to connect the students, representing some form of communication, though it may not clearly indicate a string."
+    "The student can illustrate a scenario where two people need to communicate over a long distance, such as a playground or park.",
+    "The student can accurately draw a string telephone, showing two cups connected by a string.",
+    "The student can clearly depict the string connecting the two cups, emphasizing the physical connection as essential for communication.",
+    "The student can demonstrate the function of the string telephone by including directional lines or arrows that indicate sound waves traveling from one cup to the other.",
+    "The student can correctly use the designated materials (cups and string) in their drawing.",
+    "The student can include a concise explanation of how the string telephone enables communication over a distance, mentioning vibrations traveling through the string."
   ],
   "CANNOT": [
-    "The student cannot consistently depict the use of cups and string correctly as a string telephone (e.g., might draw random objects, not recognized as a string telephone).",
-    "The student cannot accurately demonstrate how sound travels through the string (may not understand how sound works or omit this in the drawing).",
-    "The student is unlikely to show how information is sent and received between the students via the string telephone (may not depict any communication elements).",
-    "The student is unable to represent technologies helping communication over distances (might think the string is just a decoration rather than a tool)."
+    "The student may not include additional decorative elements or unrelated materials in the drawing, as the focus is on the function rather than aesthetics."
   ]
 }

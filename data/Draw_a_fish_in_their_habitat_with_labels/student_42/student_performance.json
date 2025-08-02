@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "Draw a fish recognizable in shape, although details may be simplistic.",
+    "Show the fish in a basic water environment, like a pond, with some attempt to draw water plants.",
+    "Label the fish itself and a few surrounding items, such as 'water' and 'plants', albeit with some spelling errors or simple labels."
+  ],
+  "CANNOT": [
+    "Accurately depict the complex relationships and interactions between the fish and its habitat components (e.g., how plants provide oxygen) *(student doesn't grasp ecosystem relationships)*.",
+    "Include and label all necessary resources like specific food sources (e.g., algae) or detail where the fish finds these resources *(student omits or mislabels resources)*.",
+    "Effectively demonstrate how the fish and its habitat work as a system beyond the basic labels, such as showing a food chain or nutrient cycle *(misunderstands the concept of systems-thinking)*."
+  ]
+}

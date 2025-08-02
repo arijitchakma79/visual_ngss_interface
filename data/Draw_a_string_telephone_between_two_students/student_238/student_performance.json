@@ -2,15 +2,15 @@
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
   "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "Level Description": "Developing understanding with basic elements shown. The student shows emerging grasp but lacks complete or precise demonstration.",
   "CAN": [
-    "The student can draw the basic outline of two students and a string connecting them, showing some understanding of a string telephone.",
-    "The student can attempt to illustrate some materials, such as cups at the ends of the string.",
-    "The student can include partial labels in the drawing, trying to indicate parts of the telephone."
+    "The student can show two students holding cups with a string connecting them, demonstrating a basic setup of a string telephone.",
+    "The student can illustrate the physical presence of a string between the two students, indicating a connection.",
+    "The student might use arrows or lines to show direction of communication, though not consistently or accurately."
   ],
   "CANNOT": [
-    "The student is likely unable to accurately show how sound travels from one cup to another through the string (e.g., no sound waves shown, or drawn in the wrong direction).",
-    "The student may not correctly illustrate how the string needs to be taut for the device to work (string may be drawn as droopy or not straight).",
-    "The student might forget or incorrectly apply labeling or symbols to clarify the function of the drawing (e.g., unclear labels or missing symbols)."
+    "The student cannot effectively demonstrate how the string transmits sound waves between the students (e.g., student might think the string only connects visually, not functionally).",
+    "The student may show the string as slack or disconnected, misunderstanding the need for tension (e.g., student does not realize that a taut string is necessary).",
+    "The student is unlikely to depict the importance of the device in historical or practical contexts (e.g., student may only focus on the visual aspect without understanding purpose)."
   ]
 }

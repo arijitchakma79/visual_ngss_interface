@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student might draw a generic plant shape that lacks details but indicates the physical presence of a plant.",
+    "The student might color a plant with random green areas, not necessarily representing leaves (partial attempt to show a healthy plant)."
+  ],
+  "CANNOT": [
+    "The student is unlikely to show a clear distinction between a watered and a non-watered plant (misunderstands the difference).",
+    "The student does not depict wilted or brown leaves on a plant without water (lacks understanding of how plants look without water).",
+    "The student is unable to illustrate the effect of light on plant growth (does not realize light is a factor).",
+    "The student fails to include a comparison between the needs of plants like water and light (may not recognize these as growth factors)."
+  ]
+}

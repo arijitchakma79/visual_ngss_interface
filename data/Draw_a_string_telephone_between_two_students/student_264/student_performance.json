@@ -1,17 +1,18 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can draw two students using a string telephone to communicate over a distance, with a clear depiction of the interaction.",
-    "The student can include a basic representation of how sound travels through the string, such as an arrow indicating direction.",
-    "The student can label most of the parts of the string telephone, such as the cups and string, though some labels may be missing or incorrect.",
-    "The student can attempt to show how the device uses sound to solve the problem of communication over a distance, perhaps with partial success (e.g., including symbols for sound).",
-    "The student can demonstrate that only simple materials are used to build the string telephone, correctly drawing materials like paper cups and string."
+    "The student can clearly depict two students, each holding one end of a string telephone, showing communication over a distance.",
+    "The student can accurately draw the string telephone with cups or similar items connected by a string, demonstrating an understanding of how sound travels.",
+    "The student can include details showing the process of sending and receiving sound, such as small sound waves near each student's mouth and ears.",
+    "The student can use labels or annotations to describe how the device functions using sound, including terms like 'vibrations' and 'sound waves'.",
+    "The student can illustrate that the device is constructed using only the provided materials (e.g., paper cups and string), showing resourcefulness.",
+    "The student may attempt to show advanced concepts, such as adding arrows to indicate the direction of sound travel, with mixed success."
   ],
   "CANNOT": [
-    "The student may not fully illustrate the importance of communication over long distances, possibly omitting any depiction of distance (e.g., draw students too close).",
-    "The student might not completely or correctly depict the path of sound in the string, such as confusing directions or not showing it in both directions (e.g., missing arrows or mislabeling sound paths)."
+    "The student may occasionally forget to label one or two components (e.g., the string or the cup), although this doesn't reflect a misunderstanding.",
+    "The student might simplify certain elements, such as not showing intricate details of how sound waves look, but this simplification does not indicate a lack of understanding."
   ]
 }

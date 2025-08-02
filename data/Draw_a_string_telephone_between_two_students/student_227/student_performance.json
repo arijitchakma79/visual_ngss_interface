@@ -1,18 +1,20 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "Depict a basic scenario where two people want to communicate over a longer distance.",
-    "Illustrate a device using cups and string that suggests it's meant for sound transmission.",
-    "Show two cups with a string connecting them to suggest a communication device."
+    "The student can draw two students who are trying to communicate over a distance.",
+    "The student can include a string telephone in their drawing, showing how it connects the two students.",
+    "The student can use labels to indicate that the string telephone uses sound to carry the message over the distance.",
+    "The student can depict the materials provided for building the string telephone, such as cups and string.",
+    "The student can show how the device allows communication between the students using sound through the string.",
+    "The student can illustrate how the string must be taut for sound to travel effectively.",
+    "The student can include some notes explaining that the string telephone helps in communication over distances, though these might lack detailed elaboration."
   ],
   "CANNOT": [
-    "Precisely depict how the sound travels through the string (e.g., no indication of sound vibrations).",
-    "Correctly show the exact function of the string telephone, such as needing the string to be taut for effective communication (string might be shown as slack).",
-    "Consistently represent the materials accurately (e.g., cups might look more like random objects or might not be labeled).",
-    "Demonstrate a clear understanding that communication is made easier with this device over a distance (might lack arrows or explanations in the drawing).",
-    "Capture the necessity of direct pathways for sound traveling between cups (cups might not line up or face each other accurately)."
+    "The student may inconsistently label all parts fully or accurately (e.g., may forget to label one cup or the string).",
+    "The student might show minor gaps in explaining how sound travels through the string, possibly missing the detail that sound vibrations are carried through the taut string.",
+    "The student might not clearly indicate that the string must remain taut for effective communication, though they generally understand this concept."
   ]
 }

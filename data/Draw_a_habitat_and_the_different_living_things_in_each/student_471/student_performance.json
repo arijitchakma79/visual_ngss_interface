@@ -1,0 +1,19 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "Draw different types of land habitats like a playground or garden and include most key features such as trees and grass.",
+    "Illustrate water habitats like a pond or stream, including visible water and some aquatic elements.",
+    "Show various living things such as trees, grasses, and bushes correctly in the land habitats, with some accuracy in representation.",
+    "Include common animals that are found in specific habitats, like squirrels in a playground or fish in a pond.",
+    "Display some patterns in the organization of plants and animals, showing a basic understanding of how they correspond to different environments."
+  ],
+  "CANNOT": [
+    "Consistently detail complex habitats such as a forest or lake with complete accuracy (may miss some intricate elements like specific plants or less common animals).",
+    "Clearly distinguish between all living things found in land habitats versus water habitats (might confuse where some creatures belong, such as placing a clam in a garden).",
+    "Show detailed interactions or specific ecological roles between plants and animals (might miss how living things rely on each other within the habitat).",
+    "Illustrate all living things correctly labeled or positioned (could have minor mislabeling or slight inaccuracies in placement)."
+  ]
+}

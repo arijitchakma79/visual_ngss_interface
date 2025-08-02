@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can include different plants and animals in the habitat, such as drawing seaweed and other fish.",
+    "The student can draw and label the basic needs of the fish, such as water and oxygen.",
+    "The student can illustrate a basic interaction between the fish and its environment, like the fish swimming among plants.",
+    "The student can show how the habitat provides resources, drawing and labeling water and suggesting food sources.",
+    "The student can depict the fish as part of a system, possibly adding another organism like a smaller fish or seaweed."
+  ],
+  "CANNOT": [
+    "The student might not fully detail more complex relationships, such as predator-prey dynamics (student can show other organisms but may not depict specific interactions).",
+    "The student may occasionally forget or mislabel minor elements, such as misplacing a label like 'oxygen' on a cloud rather than bubbles in the water (student labels some needs inconsistently)."
+  ]
+}

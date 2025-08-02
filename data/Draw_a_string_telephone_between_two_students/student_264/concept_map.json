@@ -2,49 +2,67 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students.",
+      "label": "Draw a string telephone between two students",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two children stand apart holding paper cups connected by a string.",
+      "label": "Two students standing apart, holding a string telephone",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Arrows indicate sound direction, only on one side.",
+      "label": "Paper cups and string forming the telephone",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Wavy lines symbolize sound from one cup.",
+      "label": "Depiction of sound waves and direction arrows",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Shows understanding of string telephone setup.",
+      "label": "Labels identifying parts of the device",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Understanding of sound communication over distances",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n6",
-      "label": "Understands sound direction partially; incomplete representation.",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
       "id": "n7",
-      "label": "Depicts communication using sound waves.",
+      "label": "Device built from paper cups and string to communicate",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Label all parts and ensure arrows show correct sound travel.",
+      "label": "Shows sound waves and their travel direction",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n9",
+      "label": "Annotations use terms like 'vibrations', 'sound waves'",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Potential misunderstanding: Incomplete labeling of components",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n11",
+      "label": "Ensure all parts are consistently labeled for clarity",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -63,20 +81,32 @@
       "n4"
     ],
     [
-      "n2",
+      "n1",
       "n5"
     ],
     [
-      "n3",
+      "n2",
       "n6"
     ],
     [
-      "n4",
+      "n3",
       "n7"
     ],
     [
-      "n6",
+      "n4",
       "n8"
+    ],
+    [
+      "n5",
+      "n9"
+    ],
+    [
+      "n5",
+      "n10"
+    ],
+    [
+      "n10",
+      "n11"
     ]
   ]
 }

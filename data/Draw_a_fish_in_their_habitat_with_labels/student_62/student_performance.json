@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "Identify and label a fish in the drawing, recognizing it as an animal.",
+    "Show a basic representation of a habitat, such as a body of water, but may not specify the type (e.g., a generic water area without specifying lake, river, pond, or ocean).",
+    "Include basic labels for water and possibly some plants, showing an understanding that water is essential for a fish's survival."
+  ],
+  "CANNOT": [
+    "Differentiate and label specific plants and animals correctly within the habitat (e.g., may label a generic 'plant' but not specific types).",
+    "Clearly illustrate or explain the relationship between the fish and its habitat (may show a fish in the water but not explain how water is necessary for swimming).",
+    "Demonstrate the connection between the fish, its habitat, and other living or non-living things (e.g., may not include other fish, animals, or non-living things such as rocks or air, showing limited understanding of the ecosystem)."
+  ]
+}

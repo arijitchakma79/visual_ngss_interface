@@ -4,13 +4,15 @@
   "Level": 3,
   "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student can draw a recognizable string telephone setup that includes two students at opposite ends.",
-    "The student can illustrate the string being held tightly between the two students, indicating they understand the need for tension for effective sound transmission.",
-    "The student can include the basic materials like cups or cans and string in the drawing, accurately representing a simple string telephone.",
-    "The student can show some understanding of the concept of sound transmission, such as lines or arrows indicating the movement of sound waves from one can to the other."
+    "The student can draw a situation where two people need to communicate over a long distance using a string telephone.",
+    "The student can illustrate a basic string telephone design connecting two students with cups and a string.",
+    "The student can demonstrate the use of provided materials in their design by clearly showing cups and strings.",
+    "The student can label most parts of the drawing to indicate which parts send and receive sound.",
+    "The student can highlight the string telephone's role in helping people communicate over distances with some detail.",
+    "The student can use arrows or symbols to show sound movement through the string in a mostly correct manner."
   ],
   "CANNOT": [
-    "The student might not include specific details on how sound travels through the string (might show wavy lines that do not clearly represent sound waves).",
-    "The student could miss showing subtle details like the exact distance between the students, or the diagram might not be to scale (possibly showing the students too close or too far apart without this being clear)."
+    "The student might inconsistently label the drawing, missing one or two elements (e.g., labels might not clearly differentiate between sender and receiver).",
+    "The student may not fully illustrate the mechanics of how sound travels through the string (e.g., omitting an arrow or using a less clear symbol to represent sound movement)."
   ]
 }

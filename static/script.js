@@ -13,28 +13,28 @@ const topicConfigs = {
         grade: 1,
         studentRange: [201, 300]
     },
-    'Draw_animals_in_their_habitats_with_labels_eg_fish_in_water': {
+    'Draw_a_fish_in_their_habitat_with_labels': {
         name: 'Animal Habitats',
         description: 'Students illustrate animals in their natural habitats with proper labeling',
         ngssCode: 'K-LS1-1',
         grade: 'K',
         studentRange: [1, 100]
     },
-    'Draw_reversible_and_irreversible_changes_ice_melting_vs_egg_cooking': {
+    'Draw_reversible_changes_ice_melting': {
         name: 'Reversible and Irreversible Changes',
         description: 'Students demonstrate understanding of physical and chemical changes',
         ngssCode: '2-PS1-4',
         grade: 2,
         studentRange: [301, 400]
     },
-    'Draw_two_habitats_and_the_different_living_things_in_each': {
+    'Draw_a_habitat_and_the_different_living_things_in_each': {
         name: 'Comparing Two Habitats',
         description: 'Students compare different habitats and their living organisms',
         ngssCode: '2-LS4-1',
         grade: 2,
         studentRange: [401, 500]
     },
-    'Illustrate_plants_with_and_without_water_and_light': {
+    'Illustrate_plants_with_and_without_water': {
         name: 'Plant Growth Requirements',
         description: 'Students show how plants respond to environmental conditions',
         ngssCode: 'K-LS1-1',
@@ -68,6 +68,7 @@ function generateEvidenceBreakdownTab(studentEvidence, performance) {
     return `
         <div class="evidence-breakdown">
             <h3>NGSS Code: ${ngssCode}</h3>
+            <h2> This is for reference only.</h2>
 
             <section>
                 <h4>🔬 SEP: ${evidence.SEP.Title}</h4>

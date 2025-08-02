@@ -2,93 +2,75 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students",
+      "label": "Draw a string telephone between two students.",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two children with cups and string",
+      "label": "Two students facing each other.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Arrows show sound travel (unclear direction)",
+      "label": "Each student holds a paper cup connected by a string.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Children about a foot apart",
+      "label": "String is mostly taut.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Simple outdoor scene",
+      "label": "Arrows on the string indicate direction of sound travel.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Bright pastel clothes with bold outlines",
+      "label": "Dialogue bubbles from one student.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Attempt to show communication",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Minimal background like grass or a tree.",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n8",
-      "label": "String necessary for sound travel",
+      "label": "The student understands the basic arrangement for communication.",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Miscommunication on sound direction",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "The student understands how the string telephone device works.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Distance longer than speaking without device",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "The student understands how sound travels through the string.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n11",
-      "label": "Materials identified (cups, string)",
+      "label": "The student demonstrates intention to show communication.",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n12",
-      "label": "Not fully clear how sound moves via arrows",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n13",
-      "label": "Ensure arrows clearly indicate sound path",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
-      "id": "n14",
-      "label": "Clarify how sound works over distance",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
-      "id": "n15",
-      "label": "Enhance arrow use to show sound",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "The student adds environmental context appropriately.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     }
   ],
   "edges": [
@@ -113,7 +95,7 @@
       "n6"
     ],
     [
-      "n2",
+      "n1",
       "n7"
     ],
     [
@@ -125,28 +107,20 @@
       "n9"
     ],
     [
-      "n3",
-      "n12"
+      "n4",
+      "n9"
     ],
     [
-      "n4",
+      "n5",
       "n10"
     ],
     [
-      "n2",
+      "n6",
       "n11"
     ],
     [
-      "n9",
-      "n13"
-    ],
-    [
-      "n10",
-      "n14"
-    ],
-    [
-      "n12",
-      "n15"
+      "n7",
+      "n12"
     ]
   ]
 }

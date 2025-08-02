@@ -4,13 +4,14 @@
   "Level": 3,
   "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student can illustrate a string telephone being used by two students to communicate over a distance.",
-    "The student can represent the scientific idea of sound traveling along the string, showing the basic concept of communication via the device.",
-    "The student can show tools and materials like cups and string used to design the string telephone.",
-    "The student can partially demonstrate the importance of this technology for communication, possibly by indicating the separation of the students."
+    "The student can draw a string telephone connecting two students to demonstrate communication over a distance, likely including the two students with a string running between them.",
+    "The student can show the use of sound in the design by clearly connecting the cups to the string, implying sound travels through it.",
+    "The student can use basic lines or arrows to represent how sound travels between the two endpoints, though these may not be perfectly consistent.",
+    "The student can illustrate the purpose of the telephone by showing the two students speaking and listening, indicating an attempt to solve the problem of communicating over a distance.",
+    "The student can label key features such as the cups and string, showing an understanding that these parts function together to transmit sound, albeit potentially with some labels missing or not fully descriptive."
   ],
   "CANNOT": [
-    "The student may not clearly indicate the direction of sound travel along the string (e.g., no arrows or inconsistent representation).",
-    "The student may omit or incorrectly label some elements in the drawing (e.g., forgetting to label components like cups or string)."
+    "The student may not consistently apply arrows or lines to indicate the direction of sound travel, occasionally omitting them or placing them ambiguously (student is not fully consistent in representing sound direction).",
+    "The student might not fully or accurately show the materials used in the string telephone beyond basic cups and string (student does not consider material properties influencing sound travel)."
   ]
 }

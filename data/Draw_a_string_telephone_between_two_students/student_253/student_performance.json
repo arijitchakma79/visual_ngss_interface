@@ -1,16 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can draw a string telephone that includes two students holding cups connected by a string.",
-    "The student can illustrate the device using a simple depiction of materials like paper cups and string.",
-    "The student can show sound traveling along the string by drawing sound waves or arrows next to the string.",
-    "The student can label parts of the drawing, such as 'cup,' 'string,' and 'sound waves,' indicating the basic components involved in communication."
+    "- The student might draw two figures meant to represent people.",
+    "- The drawing might include some lines that could depict a string or rope between the two figures, though the purpose is unclear."
   ],
   "CANNOT": [
-    "The student may not fully demonstrate how tension in the string affects sound transmission (may draw string slack, but sound still appears to travel correctly).",
-    "The student might not clearly depict how sound waves start or end, or might not label sound waves consistently (may miss labeling one end or not connecting sound waves to speaking student)."
+    "- The student is unlikely to accurately illustrate a string telephone with cups and a string (may draw unrelated items or shapes).",
+    "- They probably will not demonstrate how sound travels through the string (missing or incorrect concept of sound transmission).",
+    "- They may not correctly label the parts of the string telephone (lack of awareness of terms like 'cup' or 'string').",
+    "- The drawing likely doesn't show the concept of communication over a distance (figures may lack context or purpose).",
+    "- There's a misunderstanding of how the device functions as a communication tool, possibly shown by unrelated objects or scribbles."
   ]
 }

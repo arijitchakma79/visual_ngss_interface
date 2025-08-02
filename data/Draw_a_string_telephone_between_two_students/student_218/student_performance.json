@@ -1,17 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "Attempt to draw a basic string telephone using items like a string and cups, but these may be vaguely represented. (e.g., drawing a line between two circles without indicating they are cups and string)",
-    "Include two human figures intended to represent students, although they may be stick figures or rudimentary shapes."
+    "The student can illustrate a basic setup of a string telephone with two students and a loosely defined line between them, representing the string.",
+    "The student can represent materials like paper cups and string in a simple form, although details may be sparse.",
+    "The student can show that two students are involved, suggesting the idea of communication, even if the connection method is not fully clear."
   ],
   "CANNOT": [
-    "Accurately show how the string telephone allows sound to travel. (student likely does not convey the concept of sound traveling or might draw unrelated paths)",
-    "Clearly depict how sound travels along the string. (student might misplace arrows or neglect sound waves completely)",
-    "Correctly illustrate the necessary materials, like paper cups. (student may not label or distinguish between materials correctly)",
-    "Demonstrate the communication process effectively. (student might not show a clear interaction or connection between the two figures communicating)",
-    "Highlight features of the device that ensure it can send sound over a distance, such as tightness of string. (student possibly unaware of these aspects or conceptual features)"
+    "The student is likely unable to accurately demonstrate how sound travels along the string, perhaps missing directional indicators or sound waves *(does not understand how sound travels)*.",
+    "The student may not show the string being taut, which is essential for the functionality of the device *(lacks understanding of why tautness is important)*.",
+    "The student might not clearly depict the role of the cups in amplifying sound, possibly drawing them as mere attachments rather than functional parts of the device *(misunderstands the purpose of cups)*.",
+    "The student may fail to indicate that the device enables communication over a distance through sound, potentially missing or incorrectly labeling this aspect *(lacks understanding of distance communication)*."
   ]
 }

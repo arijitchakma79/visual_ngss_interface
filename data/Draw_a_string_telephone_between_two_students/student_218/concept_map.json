@@ -8,43 +8,61 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure humans",
+      "label": "Two students using a string telephone.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Straight line symbolizing a string",
+      "label": "String is not taut.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Two small circles suggesting cups",
+      "label": "Colorful cartoon style.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "String connects people for communication",
+      "label": "Students shown communicating.",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Cups used for sending and receiving sound",
+      "label": "Communication over distance is shown.",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Sound travels along string: missing detail",
+      "label": "Understanding of string function and tension is missing.",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Explain sound travel in the string and device function",
+      "label": "Sound travel details not shown.",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n9",
+      "label": "Match with student's understanding level.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Explain sound travel clearly and the importance of taut string.",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n11",
+      "label": "Introduce concept of sound waves and their role.",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -67,11 +85,7 @@
       "n5"
     ],
     [
-      "n3",
-      "n5"
-    ],
-    [
-      "n4",
+      "n2",
       "n6"
     ],
     [
@@ -79,8 +93,24 @@
       "n7"
     ],
     [
+      "n3",
+      "n9"
+    ],
+    [
+      "n4",
+      "n9"
+    ],
+    [
+      "n3",
+      "n10"
+    ],
+    [
       "n7",
-      "n8"
+      "n10"
+    ],
+    [
+      "n8",
+      "n11"
     ]
   ]
 }

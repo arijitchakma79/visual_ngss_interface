@@ -8,55 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Two children holding cups",
+      "label": "Two stick figure children",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Taut string between cups",
+      "label": "Circles representing cans",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Arrows showing sound travel",
+      "label": "No string connecting cans",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Cups are labeled",
+      "label": "No sound indicators",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Understands two people are needed for communication",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n6",
-      "label": "String not labeled",
+      "id": "n7",
+      "label": "Struggles to show cans connected by string",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n7",
-      "label": "Attempts to show sound travel",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
       "id": "n8",
-      "label": "Inconsistent arrow placement",
+      "label": "Incomplete illustration of sound travel",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "Label the string to complete the device parts",
+      "label": "Add a string between cans to show connection",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     },
     {
       "id": "n10",
-      "label": "Use consistent arrows to show sound direction",
+      "label": "Use lines/arrows to depict sound waves",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -75,23 +75,27 @@
       "n4"
     ],
     [
-      "n2",
+      "n1",
       "n5"
     ],
     [
-      "n3",
+      "n2",
       "n6"
+    ],
+    [
+      "n3",
+      "n7"
     ],
     [
       "n4",
       "n7"
     ],
     [
-      "n4",
+      "n5",
       "n8"
     ],
     [
-      "n6",
+      "n7",
       "n9"
     ],
     [

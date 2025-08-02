@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student is likely able to draw a basic fish shape and label it as an animal that lives in water.",
+    "The student can draw and label the water, indicating that it is where the fish lives.",
+    "The student can attempt to draw and label other simple features like a rock or a single plant in the fish's habitat."
+  ],
+  "CANNOT": [
+    "The student is unlikely to accurately draw or label complex habitat features, like multiple plants or variations in water (e.g., waves or currents) which depict a detailed habitat *(student shows a minimal habitat)*.",
+    "The student may not clearly demonstrate the specific resources in the environment that the fish needs to survive, such as clean water or shelter *(student may not connect the resources to the fish's needs)*.",
+    "The student might struggle to illustrate the relationship between the fish and its environment as part of a larger system that supports life *(student might not see the system connection)*.",
+    "The student may inconsistently label items, or leave some important features unlabeled *(occasional missed labels)*."
+  ]
+}

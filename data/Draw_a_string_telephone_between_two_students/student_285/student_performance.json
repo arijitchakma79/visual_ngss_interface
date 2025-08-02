@@ -1,17 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can accurately draw two students who need to communicate over a long distance, possibly including details like facial expressions to indicate communication.",
-    "The student can illustrate the string telephone device connecting the two students, clearly showing how it helps them communicate.",
-    "The student can effectively show in the drawing that sound travels through the string to facilitate communication.",
-    "The student can depict how the device is made using specific materials such as cups and a string, and label these parts accurately.",
-    "The student can demonstrate through the drawing that the device is effective at sending or receiving information over the distance between the two students, potentially through visual cues like sound waves.",
-    "The student can include in the drawing a brief explanation or label showing how using the string telephone helps people communicate over distances, providing a clear understanding of the concept."
+    "Draw two figures that might be interpreted as people (basic human figure with circles or lines).",
+    "Attempt to draw a line that could represent a string between the figures (basic attempt with no clear understanding of function)."
   ],
   "CANNOT": [
-    "The student may miss minor labeling details or descriptions, such as not labeling the string as being taut, but generally includes most necessary information."
+    "Accurately depict how the string connects to the cups or the people (student may not draw cups at all or connect the string to them).",
+    "Show how sound travels through the string (no arrows or symbols to indicate sound movement).",
+    "Explain or depict that the device uses sound to send and receive information (no labels or incorrect labels used).",
+    "Show only the materials provided, like cups and string, used in the string telephone (student might include unrelated items like cans or boxes).",
+    "Include any details that demonstrate how this device helps people communicate over long distances (no thorough understanding or depiction)."
   ]
 }

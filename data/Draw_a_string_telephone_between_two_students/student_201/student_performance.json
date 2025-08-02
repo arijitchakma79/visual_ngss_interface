@@ -4,14 +4,14 @@
   "Level": 1,
   "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student might attempt to draw two figures to represent students but with minimal detail or inaccurate proportions.",
-    "The student may draw a single straight line between two points, potentially showing an attempt to represent a string."
+    "Draw two figures that represent students, though they might not be attempting communication (students may just be standing without interaction).",
+    "Include some elements of the device, such as two shapes that might resemble cups but lacks connection (cups might be floating or not pointed correctly)."
   ],
   "CANNOT": [
-    "The student is unlikely to correctly illustrate or label the string telephone device (may omit cups or use incorrect objects).",
-    "The student probably does not show how sound is used to send messages (no indication of sound waves or communication cues).",
-    "There is likely no representation of concept or understanding of communication over distance (might not connect the line to both students correctly or at all).",
-    "The student may fail to label or demonstrate the purpose of the device, as they might not understand its use for communication (absence of speech or listening elements).",
-    "The drawing might lack any indication or understanding of the interaction between the two students through the device."
+    "Illustrate the string connecting the cups in a manner that shows tension (string may be slack or incorrectly positioned).",
+    "Depict the concept of sound transmission through the string (no apparent understanding of how sound is carried by the string).",
+    "Show comprehension of how the string telephone works for communication (may be missing, or string is too short, or devices not aligned).",
+    "Include relevant features or materials that make the device work, such as proper tension in the string (potentially missing due to the misunderstood role of string tension).",
+    "Relate the drawing to real-world technology used for long-distance communication (may include elements like a cell phone or unrelated technology)."
   ]
 }

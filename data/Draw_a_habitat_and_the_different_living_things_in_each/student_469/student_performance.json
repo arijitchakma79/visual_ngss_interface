@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw a single habitat, like a garden or playground, with basic features such as the ground and a few objects present (e.g., a tree or a bush).",
+    "The student can include simplistic representations of one or two living things, like a vague shape of an animal or a plant, without details."
+  ],
+  "CANNOT": [
+    "The student is unable to accurately depict multiple habitats or show differences between them (student may only draw one type of setting).",
+    "The student cannot illustrate a variety of living things specific to those habitats (animals or plants might be drawn generically without detail).",
+    "The student does not show or misrepresents the relationships between living things and their environment (e.g., placing a fish on a tree or animals that don't belong in the depicted habitat).",
+    "The student does not identify patterns of biodiversity or compare types of living things between habitats (no diversity shown, misunderstanding what different habitats are)."
+  ]
+}

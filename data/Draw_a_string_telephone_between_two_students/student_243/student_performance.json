@@ -1,17 +1,18 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student can illustrate a basic image of a string telephone, showing two cups connected by a string.",
-    "The student can depict two people on either end of the string telephone to suggest communication.",
-    "The student might label the cups and string correctly, showing an understanding of the materials involved."
+    "The student can draw two students using a string telephone to communicate over a distance.",
+    "The student can illustrate how sound travels through the string to send and receive messages.",
+    "The student can show how each student holds one end of the string, ensuring the string is tight.",
+    "The student can label the parts of the string telephone, such as the cups and string, in the drawing.",
+    "The student can use labels or captions to explain how the device uses sound to communicate."
   ],
   "CANNOT": [
-    "The student is likely unable to accurately demonstrate in their drawing how the device functions to transmit sound. (e.g., no sound waves or explanation of sound travel through the string)",
-    "The student may not clearly show how the device helps in communication over a distance or highlight its technological importance in daily life. (e.g., no depiction of distance or context of conversation)",
-    "The student may misunderstand the role of tension in the string, leaving it slack in the drawing which implies it can't function properly.",
-    "The drawing may lack an explicit explanation of how the device works to send and receive information."
+    "The student might inconsistently show or vaguely illustrate how sound specifically moves through the string (e.g., missing directional arrows indicating sound travel).",
+    "The student may provide an incomplete explanation of why this device solves the problem of long-distance communication (e.g., lacking details on the role of the tight string).",
+    "The student might omit or inadequately draw other relevant materials used to make the string telephone besides cups and string (e.g., lack of attention to what other materials might impact sound transmission)."
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can draw a plant that is healthy and growing because it has enough water.",
+    "The student can draw a plant that is wilting or not growing because it does not have enough water.",
+    "The student can include a clear and accurate comparison in the drawing to show the difference between a plant with water and a plant without water.",
+    "The student can illustrate clearly and effectively that plants need water to live and grow, potentially using labels or simple explanations in the drawing."
+  ],
+  "CANNOT": [
+    "The student is likely able to show most concepts accurately, but may have very minor gaps, such as forgetting to include labels on one of the comparisons (e.g., not labeling 'no water' but context makes it clear).",
+    "The student might inconsistently apply higher-level artistic skills, such as shading to demonstrate plant health differences, but this does not detract from understanding."
+  ]
+}

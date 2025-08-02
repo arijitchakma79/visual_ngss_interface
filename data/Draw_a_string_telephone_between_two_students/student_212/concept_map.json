@@ -8,57 +8,51 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure students facing each other",
+      "label": "Two stick figure students, holding a cup each.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Line representing a string between students",
+      "label": "String between the cups with arrows showing sound movement.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Basic cup shape at each end of the string",
+      "label": "Labeling of cups and string.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "No labeling or annotation present",
+      "label": "Note explaining sound travel and communication.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Understanding of string telephone usage",
+      "label": "Includes stick figures using a string telephone.",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Loosely drawn and wavy string does not indicate tightness",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Correctly illustrates the movement of sound with arrows.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Basic understanding of form but not function",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Components identified and labeled correctly.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Label the string and indicate that it needs to be tight for sound to travel",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
-      "id": "n10",
-      "label": "Add arrows and annotations to show how sound travels through the string",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Explanation of sound travel and communication is clear.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     }
   ],
   "edges": [
@@ -91,12 +85,8 @@
       "n8"
     ],
     [
-      "n7",
+      "n5",
       "n9"
-    ],
-    [
-      "n8",
-      "n10"
     ]
   ]
 }

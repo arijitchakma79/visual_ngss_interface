@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Attempt to draw a plant but may not clearly distinguish whether it is healthy or unhealthy.",
+    "Include some basic plant elements like a stem or leaves, but not depict any changes due to water variability (e.g., plants look identical in both scenarios)."
+  ],
+  "CANNOT": [
+    "Accurately illustrate a plant that is unhealthy due to lack of water (student might miss signs like wilting or browning).",
+    "Show clear differences between plants with water and plants without water (student likely portrays them similarly).",
+    "Correctly depict how a plant's appearance changes with water availability (student might think all plants always look the same regardless of water).",
+    "Highlight patterns in plant growth with and without water (no concept of growth patterns influenced by water)."
+  ]
+}

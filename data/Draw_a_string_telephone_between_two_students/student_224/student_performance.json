@@ -1,17 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student might draw two students with unconnected cups or unrecognizable objects that may represent an attempt to show communication.",
-    "The student may show the string but without proper attachment or alignment between the cups and students."
+    "The student can accurately draw a string telephone setup with two students at either end, clearly depicting the connection and positioning required for it to work.",
+    "The student can show how the design uses cups (or cans) and a string, demonstrating how sound can travel through the string between the two students.",
+    "The student can illustrate the concept that the string must be taut to transmit sound effectively by showing a straight line between the cups.",
+    "The student can include additional annotations or labels indicating the flow of sound waves from one cup to the other through the string.",
+    "The student can highlight the importance of string tension, including details, such as no sagging in the middle, to indicate effective sound transmission."
   ],
   "CANNOT": [
-    "The student is unlikely to be able to label parts of the device correctly (e.g., may not label string or cups correctly).",
-    "The student cannot accurately demonstrate or show an understanding of how sound travels through the string from one cup to another (e.g., may show sound waves incorrectly or not at all).",
-    "The student probably cannot depict a working distance between students where communication is possible (e.g., students may be drawn too far apart without a string or too close with no clear distance).",
-    "The student cannot explain how the device solves long-distance communication issues through their drawing (e.g., may not show any indication of solving a distance problem).",
-    "An attempt to annotate or describe the benefits of communicating over distances is likely absent or incorrect (e.g., annotations may be unrelated or missing)."
+    "The student may not fully explain how external factors (like background noise or obstacles) might affect the communication efficiency of the string telephone, or may include such details only tangentially (minor gap).",
+    "The student might slightly misrepresent the size or proportion of elements, such as the relative size of the cups versus the students, without affecting understanding (minor gap)."
   ]
 }

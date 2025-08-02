@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a plant that is healthy, with clear signs of vitality such as green leaves and firm stems, indicating it has enough water to live and grow.",
+    "The student can draw a plant that is wilting, with drooping leaves and stems to show what happens when a plant does not get water.",
+    "The student can effectively present a side-by-side comparison of the same type of plant, one healthy with water and one wilting without, to demonstrate the effects of water supply on plant health.",
+    "The student might incorporate additional details like the sun to suggest that plants need more than just water, such as light, to survive."
+  ],
+  "CANNOT": [
+    "The student may inconsistently include soil in the drawing or may not clearly convey its importance *(student focuses primarily on water)*.",
+    "The student might omit or inadequately depict non-water elements like sunlight or air, providing the impression that water is the only necessity *(student simplifies the needs of plants)*."
+  ]
+}

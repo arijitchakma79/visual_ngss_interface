@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw ice as a solid block before heating.",
+    "The student can illustrate the change in the material by showing the ice melting into water.",
+    "The student can depict the reversed change by drawing the water freezing back into ice.",
+    "The student can generally use their drawing to make a claim about the reversibility of changes, although the explanation might lack detail."
+  ],
+  "CANNOT": [
+    "The student might inconsistently label their drawing, sometimes forgetting to indicate the cause-and-effect relationship (e.g., missing labels for 'heating' or 'cooling').",
+    "While the student generally understands the concept of reversibility, they may occasionally leave out or misplace key details, such as showing partial melting or incomplete freezing."
+  ]
+}

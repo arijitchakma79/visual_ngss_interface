@@ -8,67 +8,49 @@
     },
     {
       "id": "n2",
-      "label": "Two cartoon-style students",
+      "label": "Two stick figures",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Colorful paper cups with labels",
+      "label": "Thin, wavy lines connecting figures",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Thin, slightly slack string with label",
+      "label": "Grassy landscape with unrelated shapes",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Wavy lines around the string labeled 'sound waves'",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Understanding: People needing to communicate over distance",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Students communicate over a distance using string telephone",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Misunderstanding: String telephone must include cups",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n7",
-      "label": "Cups and string are used as materials for communication",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Misunderstanding: Sound transmission not shown",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "String carries sound waves",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "Slight slack in string may hinder sound transmission",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n10",
-      "label": "Inconsistent labeling of sound wave origins",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n11",
-      "label": "Ensure string is taut to effectively transmit sound",
+      "label": "Suggestion: Include cups to depict a complete string telephone",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     },
     {
-      "id": "n12",
-      "label": "Label sound waves originating from one cup to the other",
+      "id": "n9",
+      "label": "Suggestion: Show sound as waves traveling through the string",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -87,11 +69,11 @@
       "n4"
     ],
     [
-      "n1",
+      "n2",
       "n5"
     ],
     [
-      "n2",
+      "n3",
       "n6"
     ],
     [
@@ -99,28 +81,12 @@
       "n7"
     ],
     [
-      "n4",
+      "n6",
       "n8"
     ],
     [
-      "n5",
-      "n8"
-    ],
-    [
-      "n4",
+      "n7",
       "n9"
-    ],
-    [
-      "n5",
-      "n10"
-    ],
-    [
-      "n9",
-      "n11"
-    ],
-    [
-      "n10",
-      "n12"
     ]
   ]
 }

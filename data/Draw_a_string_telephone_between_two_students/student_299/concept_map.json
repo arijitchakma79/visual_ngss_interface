@@ -8,61 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Two cartoon-style students standing apart outdoors",
+      "label": "Two students using a string telephone",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Red paper cups held by students connected by a white string",
+      "label": "Blue cups to their ears",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Wavy blue lines from cups",
+      "label": "Red string is taut",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Gray wavy lines on string",
+      "label": "Arrows along the string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Annotations explaining sound travel through string and tension",
+      "label": "Displays happy communication",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Students use string telephone to communicate",
+      "label": "Student understands simple device for communication",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "String shows sound travel between cups",
+      "label": "Student understands sound transmission through a taut string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Sound waves depicted from the cups",
+      "label": "Student shows sound travel concept",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "String vibration shows sound travel by vibration",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n11",
-      "label": "Annotations explain sound travel",
+      "label": "Student shows device promotes connection",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     }
@@ -93,20 +87,16 @@
       "n7"
     ],
     [
-      "n3",
+      "n4",
       "n8"
     ],
     [
-      "n4",
+      "n5",
       "n9"
     ],
     [
-      "n5",
-      "n10"
-    ],
-    [
       "n6",
-      "n11"
+      "n10"
     ]
   ]
 }

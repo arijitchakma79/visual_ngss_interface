@@ -1,17 +1,19 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can illustrate a basic string telephone with two cups connected by a string between two depicted students.",
-    "The student can show dashed or curvy lines representing sound waves traveling through the string.",
-    "The student can include some details about the distance between the two students and the length of the string.",
-    "The student can label key parts of the device, such as 'cups' and 'string', and describe their importance in the communication process."
+    "Draw two figures that might vaguely represent people (may be stick figures or abstract shapes).",
+    "Include a single line that could resemble a string between the figures (with random positioning)."
   ],
   "CANNOT": [
-    "The student may inconsistently apply symbols to show sound waves, occasionally omitting them or placing them incorrectly (e.g., waves may not touch both cups consistently).",
-    "The student might inadequately explain the importance of the string's tension for sound transmission (student may not realize the need for a tight string).",
-    "The student may provide a less detailed explanation on how this device resolves the communication problem entirely, potentially omitting the benefit of not needing technology or electricity."
+    "Illustrate a meaningful communication scenario (figures might be placed closely without context).",
+    "Depict the string as a means to send and receive sound (no indication of its purpose).",
+    "Show the string connected to any cups or clearly identifiable devices (objects may be missing or incoriect).",
+    "Represent necessary parts such as cups and strings accurately (only random shapes shown).",
+    "Explain how sound travels through the device (lacks labels or notes).",
+    "Recognize the importance of distance in the function of the string telephone (may draw elements very close or jumbled).",
+    "Highlight how this device helps people connect over long distances (concept may be missing)."
   ]
 }

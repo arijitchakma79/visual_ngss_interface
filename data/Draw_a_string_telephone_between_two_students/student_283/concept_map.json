@@ -8,73 +8,67 @@
     },
     {
       "id": "n2",
-      "label": "Colorful drawing with two cartoon students",
+      "label": "Two students on either side",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Two cups connected by a string",
+      "label": "Paper cup in each student's hand",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Labels for 'String' and 'Cup'",
+      "label": "Taut string connecting cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Arrows and wavy lines indicating sound waves",
+      "label": "Label 'sound travels' on string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Tight string between cups",
+      "label": "Label 'vibration' near cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Students understand visual communication in the drawing",
+      "label": "Showing two students trying to communicate over a distance",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Understanding of sound transmission through the string",
+      "label": "Device using string and cups to communicate sound",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Correct labeling of key components",
+      "label": "Understanding sound travels through the string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Understanding how sound waves travel",
+      "label": "Connection between cups explains sound travel",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n11",
-      "label": "String must be tight for effective sound transmission",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n12",
-      "label": "Potential labeling oversight",
+      "label": "Incomplete labeling of the device",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n13",
-      "label": "Ensure all labels are clear and correct",
+      "id": "n12",
+      "label": "Add missing labels to fully explain vibrations",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -121,12 +115,8 @@
       "n11"
     ],
     [
-      "n4",
+      "n11",
       "n12"
-    ],
-    [
-      "n12",
-      "n13"
     ]
   ]
 }

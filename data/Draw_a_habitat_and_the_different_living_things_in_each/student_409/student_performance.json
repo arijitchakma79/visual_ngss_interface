@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may be able to draw very basic elements of a single land habitat, like a single tree or a simple grass patch, without distinct labeling.",
+    "The student might draw a couple of animals like a stick figure or a basic shape of a squirrel, but without proper size or contextual placement within the habitat."
+  ],
+  "CANNOT": [
+    "The student is unlikely to draw a variety of plants and animals in a chosen land habitat correctly (e.g., may mix features of different plants or animals).",
+    "The student may not distinguish between land and water habitats clearly (e.g., may draw fish in the air instead of water).",
+    "The student is not expected to label plants and animals accurately (e.g., may label a tree as an animal or not label at all).",
+    "The student is unlikely to illustrate or distinguish patterns of diversity across different habitats (e.g., same animals shown in both habitats without differentiation)."
+  ]
+}

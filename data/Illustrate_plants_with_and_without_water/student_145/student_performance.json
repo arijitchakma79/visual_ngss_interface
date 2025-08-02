@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may attempt to draw a plant, but the drawing may be a simple shape that vaguely resembles a plant.",
+    "The student might include a sun or some surrounding elements, but these will not be connected to the plant's health or water needs."
+  ],
+  "CANNOT": [
+    "The student is unlikely to show the differences between a healthy plant and a wilting plant (may believe there is no difference).",
+    "The drawing is unlikely to represent the importance of water for plant health (student may not make a connection between water and plant health).",
+    "The student may not show any signs of wilting or dryness in the plant (might not know what wilting looks like or means).",
+    "The student might not include any indication of water presence or absence, or misrepresent the effects due to lack of understanding."
+  ]
+}

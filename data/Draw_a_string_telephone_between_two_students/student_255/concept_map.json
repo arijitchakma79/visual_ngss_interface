@@ -2,85 +2,61 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students.",
+      "label": "Draw a string telephone between two students",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two students facing each other.",
+      "label": "Two students on the left and right",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Each student holds a cup.",
+      "label": "Cups connected by a taut blue string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "String connecting the cups.",
+      "label": "Red cups labeled 'sender' and 'receiver'",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "String is taut.",
+      "label": "Green arrows indicating sound movement",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Wavy lines or arrows suggest sound.",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
-    },
-    {
-      "id": "n7",
-      "label": "Outdoor background with grass and trees.",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
-    },
-    {
-      "id": "n8",
-      "label": "Ability to communicate using string telephone.",
+      "label": "Shows understanding of the communication problem",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
+      "id": "n7",
+      "label": "Design illustrates basic operation of string telephone",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n8",
+      "label": "Incomplete labeling of sender and receiver",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
       "id": "n9",
-      "label": "Correct depiction of communication using sound.",
+      "label": "Correctly uses symbols to indicate sound movement",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Correct use of materials for string telephone.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n11",
-      "label": "Understanding of sound travel through taut string.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n12",
-      "label": "Misinterpretation of sound travel with visual arrows.",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n13",
-      "label": "Visual cues for environmental setting.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n14",
-      "label": "Consider explaining how sound waves travel physically.",
+      "label": "Add consistent labeling to all parts",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -103,40 +79,24 @@
       "n5"
     ],
     [
-      "n1",
+      "n2",
       "n6"
     ],
     [
-      "n1",
+      "n3",
       "n7"
     ],
     [
-      "n2",
+      "n4",
       "n8"
     ],
     [
-      "n3",
+      "n5",
       "n9"
     ],
     [
-      "n4",
+      "n8",
       "n10"
-    ],
-    [
-      "n5",
-      "n11"
-    ],
-    [
-      "n6",
-      "n12"
-    ],
-    [
-      "n7",
-      "n13"
-    ],
-    [
-      "n12",
-      "n14"
     ]
   ]
 }

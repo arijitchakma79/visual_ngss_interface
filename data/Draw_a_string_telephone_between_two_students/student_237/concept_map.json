@@ -8,55 +8,67 @@
     },
     {
       "id": "n2",
-      "label": "Two cartoon-style students holding cups",
+      "label": "Two stick figure students (one with short hair, one with long hair)",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Slightly slack string labeled 'String'",
+      "label": "Wavy line in bright colors connecting hands",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Cups labeled 'Cup'",
+      "label": "Large, crudely drawn cup floating",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Wavy lines near mouth of left student",
+      "label": "Word 'telephone' written in colorful crayon",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Attempt to show string telephone for communication",
+      "label": "Two students are involved in the communication",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Misunderstanding of necessity for taut string",
+      "label": "Line suggests connection but lacks purpose",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Labels attempt to identify communication elements",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Cup is disconnected from the line or purpose",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "Sound waves indicated by wavy lines",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Random placement of word does not aid understanding",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n10",
-      "label": "Ensure string is taut for sound travel",
+      "label": "Consider drawing a straight line between cups to show sound travel",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n11",
+      "label": "Connect cups with a string to complete device",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n12",
+      "label": "Label the cups with their function in communication",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -87,10 +99,6 @@
       "n7"
     ],
     [
-      "n3",
-      "n8"
-    ],
-    [
       "n4",
       "n8"
     ],
@@ -101,6 +109,14 @@
     [
       "n7",
       "n10"
+    ],
+    [
+      "n8",
+      "n11"
+    ],
+    [
+      "n9",
+      "n12"
     ]
   ]
 }

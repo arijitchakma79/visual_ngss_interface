@@ -1,0 +1,15 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may draw a plant, but the details might be very basic and lack differentiation between a plant with water and one without.",
+    "They might include a water source in the drawing, but it might not clearly connect to the plant's appearance. (e.g., a puddle or raindrop nearby without clear indication of its effect on the plant)"
+  ],
+  "CANNOT": [
+    "The student is likely unable to accurately depict the difference between a healthy plant with water and an unhealthy plant without water. (student may not understand what makes a plant appear healthy or wilted)",
+    "The student might not represent that plants need light in addition to water to live and grow. (may not be aware of the role of sunlight)",
+    "The drawing may not show patterns in nature regarding plants' appearance in different water conditions. (lacks awareness of the visual patterns associated with plant hydration)"
+  ]
+}

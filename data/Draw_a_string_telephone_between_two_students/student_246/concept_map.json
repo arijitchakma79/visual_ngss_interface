@@ -8,55 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Two children facing each other",
+      "label": "Two stick-figure students communicating",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Paper cup",
+      "label": "Cup with string between students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "String connecting cups",
+      "label": "Lines/arrows on the string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Basic labels added",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Students actively communicating",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Understands people communicating",
+      "label": "Basic concept of sound traveling along string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Understands use of simple materials",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Sound transmission is too simple",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Attempts to label parts",
+      "label": "Use of ordinary materials",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "Incomplete understanding of sound travel",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Explore more about how sound travels",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     },
     {
       "id": "n10",
-      "label": "Explain how sound travels through string",
+      "label": "Include labels to show materials used",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -75,31 +75,27 @@
       "n4"
     ],
     [
-      "n1",
+      "n2",
       "n5"
     ],
     [
-      "n2",
+      "n3",
       "n6"
     ],
     [
       "n3",
-      "n7"
-    ],
-    [
-      "n4",
       "n8"
     ],
     [
-      "n5",
+      "n4",
+      "n7"
+    ],
+    [
+      "n7",
       "n9"
     ],
     [
       "n8",
-      "n10"
-    ],
-    [
-      "n9",
       "n10"
     ]
   ]

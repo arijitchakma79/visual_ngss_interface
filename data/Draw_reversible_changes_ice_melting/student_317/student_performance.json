@@ -1,0 +1,15 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may draw a simple picture of either an ice cube or water, but not both. They might show ice in a blocky shape or water as a simple wavy line."
+  ],
+  "CANNOT": [
+    "The student is unlikely to show the melting process as a change from ice to water or vice versa (the concept of change may not be clear).",
+    "The student will likely not include labels describing characteristics of the ice and water (may not understand characteristics).",
+    "The student will not show a sequence or steps that highlight heating or cooling (possibly doesn't understand cause and effect).",
+    "The student may not attempt a written explanation connecting their drawing to the concept of reversible changes (likely doesn't understand reversibility)."
+  ]
+}

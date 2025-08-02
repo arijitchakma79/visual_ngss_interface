@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw and label ice before heating, showing characteristics like solid state and cold temperature.",
+    "The student can illustrate and label ice after heating, demonstrating the change to water, identifying characteristics like liquid state.",
+    "The student can depict water after cooling, showing it freezing back into ice, with labels indicating the state change.",
+    "The student can label reversible changes, such as water freezing into ice and melting back into water."
+  ],
+  "CANNOT": [
+    "The student may inconsistently label or partially forget to label characteristics such as temperature changes associated with each state.",
+    "The student might not fully comprehend or misrepresent some non-reversible changes, such as comparing with a raw egg and cooked egg transition, occasionally showing confusion by including reversible terminology.",
+    "The student might not clearly illustrate the cause and effect in some drawings, such as missing or misplacing arrows to indicate the process of heating and cooling."
+  ]
+}

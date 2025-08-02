@@ -8,55 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Two stick-figure kids with cups",
+      "label": "Two stick figures facing each other",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Wavy, loose line connects cups",
+      "label": "Each figure holds a rough circle",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Arrows showing sound near mouths",
+      "label": "Single line connecting circles",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Representation of communication over a distance",
+      "label": "Figures holding cups",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Correct depiction of cups in string telephone",
+      "label": "Representation of string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Misunderstanding of string tension",
+      "label": "Lack of sound travel indication",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Misunderstanding of sound transmission",
+      "label": "Lack of labels/annotations",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "Tension needed for string to function",
+      "label": "Add arrows/lines to show sound traveling",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     },
     {
       "id": "n10",
-      "label": "Sound travels through string, not air",
+      "label": "Add labels to clarify features",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -79,16 +79,24 @@
       "n5"
     ],
     [
-      "n2",
-      "n6"
-    ],
-    [
       "n3",
-      "n7"
+      "n5"
     ],
     [
       "n4",
+      "n6"
+    ],
+    [
+      "n2",
+      "n7"
+    ],
+    [
+      "n3",
       "n8"
+    ],
+    [
+      "n4",
+      "n7"
     ],
     [
       "n7",

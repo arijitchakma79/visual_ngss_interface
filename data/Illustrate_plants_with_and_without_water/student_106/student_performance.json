@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a plant that appears generally healthy and growing if they include raindrops or a sun to indicate water and light are present.",
+    "The student may depict a wilting or drooping plant to suggest it lacks water, often using brown or a drooped stem.",
+    "The student might try to show differences in plant health by drawing one with vibrant green leaves and another with brown, wilted leaves."
+  ],
+  "CANNOT": [
+    "The student may fail to clearly differentiate the appearance of plants with water versus without. For example, they might not show clear signs of water or light. *(student may not know what 'healthy' looks like)*",
+    "The student might include elements that are irrelevant or misunderstood, such as drawing clouds without rain, or the sun at night. *(student does not grasp which elements affect plant health)*",
+    "The student could show inconsistent patterns between water presence and plant health, sometimes drawing a healthy plant without any water symbols. *(student inconsistently applies understanding of water’s role)*"
+  ]
+}

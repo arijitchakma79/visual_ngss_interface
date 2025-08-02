@@ -1,15 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can draw two students with cups and a string connecting them, showing basic setup of a string telephone.",
-    "The student might include sound waves or lines coming from the mouths or the cups to indicate sound, though these may be inconsistently or inaccurately depicted."
+    "The student may attempt to draw two students with cups, but the cups might not be connected correctly, if at all.",
+    "The student might place a string between the cups, but it may appear loose or not clearly attached."
   ],
   "CANNOT": [
-    "The student is unlikely to clearly show how sound travels through the string (e.g., missing indication of vibration or misunderstanding how sound moves).",
-    "The student may not accurately demonstrate that the string telephone solves the problem of communicating over a distance, possibly thinking it simply amplifies sound without understanding the mechanics.",
-    "The student might not include or correctly label all necessary materials; for instance, they might draw cups and string but not show how they work together (e.g., the string might appear slack, misunderstanding that it needs to be tight)."
+    "The student is likely unable to demonstrate how the string needs to be stretched tight for the communication device to work effectively (student doesn’t recognize the importance of a taut string).",
+    "The student might not accurately show how sound travels through the string when one student speaks into a cup, or they may not include any directional indication of sound travel (student misunderstands the transmission of sound).",
+    "The student might not depict the second student listening through the cup to receive sound, or could misplace or omit the ear and cup position (student is unclear on listening process).",
+    "The drawing may lack clear representation of the individual parts of the string telephone, such as vague or incomplete depictions of cups or strings (student has an incomplete conception of the design)."
   ]
 }

@@ -1,16 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student may draw two figures that vaguely represent students, possibly unconnected or placed without consideration of distance.",
-    "The student might draw a vague line connecting the figures, which could represent string or could be misunderstood as something else."
+    "The student can draw two students trying to communicate over a long distance, showing them at a distance with a string connecting them.",
+    "The student can include a string telephone that helps the students communicate using sound, with two cups or tins connected by a string.",
+    "The student can show or label how the device works using sound for communication by drawing arrows indicating sound travel between the cups.",
+    "The student can illustrate that the designed device is able to send and receive information by showing the students interacting with the cups."
   ],
   "CANNOT": [
-    "The student is unlikely to accurately depict a string telephone with cups or correct materials (e.g., missing cups or using incorrect materials like wireless signals).",
-    "The student is unlikely to illustrate sound transmission steps, possibly showing no clear indication of how communication happens or using arbitrary symbols like light bulbs people might mistake for sound (student doesn’t know how sound travels between cups).",
-    "The student might neglect to label parts correctly or at all, making it hard to understand what their drawing is intended to show.",
-    "Any distance or functionality indication, such as how sounds travels between users, might be missing or confused (e.g., showing sound bouncing off incorrectly labeled objects like trees placed randomly)."
+    "The student may inconsistently label the materials, sometimes missing labeling the string or describing it as 'wire' *(student might be unclear on materials)*.",
+    "The student might not fully describe the importance of communicating over long distances using the device, missing key points about why this communication is essential *(student writes 'to talk' without elaboration)*."
   ]
 }

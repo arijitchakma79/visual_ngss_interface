@@ -1,18 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can draw two students using a string telephone device to communicate over a distance.",
-    "The student can show that the device uses string to connect two points, indicating the communication pathway.",
-    "The student can illustrate how sound travels along the string by possibly drawing arrows or wave lines on the string.",
-    "The student can depict some materials used to build the string telephone, such as cups or cans.",
-    "The student can demonstrate basic understanding that the device is a solution for communication over long distances."
+    "The student can draw two figures representing two students, but without clear purpose or interaction.",
+    "The student might attempt to draw a string-like line connecting the students but without understanding its role."
   ],
   "CANNOT": [
-    "The student may not consistently illustrate how sound travels accurately along the string (e.g., incorrectly drawing the direction of sound waves).",
-    "The student might not fully convey the importance of communicating over a distance in real-world situational drawings (e.g., missing context or setting).",
-    "Occasionally, materials used may be partially incorrect or unlabelled, leading to confusion about the construction of the device (e.g., using vague shapes without labeling them as cups or cans)."
+    "The student is unable to represent a way for people to communicate over long distances using the string telephone (e.g., string drawn but doesn't connect to students' ears or mouths).",
+    "The student cannot illustrate how the device uses sound to send information from one student to another (e.g., no directionality of sound waves shown or misunderstood sound travel in air).",
+    "The student cannot correctly use the provided materials to demonstrate the construction of the string telephone (e.g., no cups shown at ends of the string or cups not used in drawing).",
+    "The student fails to show that the device includes features necessary for sending and receiving messages over a distance (e.g., cups might be drawn but not connected to string).",
+    "The student cannot depict how such communication devices are important for helping people connect over distances (e.g., no representation of communication intention or devices seen as toys)."
   ]
 }

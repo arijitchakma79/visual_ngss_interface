@@ -1,19 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student might be able to draw two people but without clear features indicating communication or a telephone, possibly just randomly placed figures without connection.",
-    "The drawing may include some lines or shapes that could suggest a device, but not necessarily indicating a purpose or function, such as random lines that do not connect in a meaningful way."
+    "The student can draw two people communicating from a distance using a string telephone.",
+    "The student can illustrate that the device uses sound to send messages between the two people.",
+    "The student can show the length of the string as a key feature of the device for effective communication, though the concept of tension might be slightly inconsistent.",
+    "The student can draw only the materials necessary for building the string telephone, such as two cups and a string.",
+    "The student can depict in a basic way how sound travels along the string from one cup to the other through some form of labeling or arrows."
   ],
   "CANNOT": [
-    "The student is unlikely to show two people communicating over a long distance, as they may omit the string or place the people too close, not understanding the need for distance.",
-    "The student likely will not demonstrate the device using sound to send or receive information; they might draw wires or strings without realizing their function.",
-    "The student might fail to show that the device connects two people properly, possibly drawing disjointed parts or not including a string altogether.",
-    "The student might not demonstrate the device working over a distance, perhaps drawing it all in one spot or making no connection between people.",
-    "Details indicating the use of sound, such as vibrations, will likely be missing or incorrectly represented, with the student perhaps misunderstanding vibrations (thinking they are visual effects).",
-    "The student may use incorrect materials or invent new components not provided in the task, showing things like unnecessary bells and whistles that don’t make sense.",
-    "Features such as the length or size of the string may be inaccurately depicted, possibly showing an incredibly short or non-existent string, misunderstanding these design aspects."
+    "The student might inconsistently apply labels to explain how the string telephone works, sometimes forgetting to label parts like the cups or string.",
+    "The student may occasionally omit or incorrectly place arrows showing the direction in which sound travels along the string, reflecting minor gaps in complete understanding."
   ]
 }

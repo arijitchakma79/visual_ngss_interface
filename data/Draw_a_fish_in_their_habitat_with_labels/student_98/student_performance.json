@@ -1,0 +1,15 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a basic representation of a fish within a water environment like a lake or a river. (shows water with fish in it)",
+    "The student can include simple elements of the habitat like water and possibly one plant or seaweed. (basic labeling present)"
+  ],
+  "CANNOT": [
+    "The student is likely unable to consistently or accurately label all necessary survival components such as specific water/clouds, food, and other fish. (labels may be missing or incorrect)",
+    "The student may not clearly show relationships between the fish and its habitat, like why the fish needs water to survive. (lack of connection shown between fish and habitat elements)",
+    "The student may incorrectly label the habitat components, or miss connecting them as part of a larger system the fish depends on. (misunderstands how each part of the habitat supports the fish)"
+  ]
+}

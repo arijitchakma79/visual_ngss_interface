@@ -1,17 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can illustrate two students who look like they are trying to talk to each other with expressions or gestures.",
-    "The student can draw a string telephone device using cups and string that visually communicates sound.",
-    "The student can show sound traveling through the string by using appropriate symbols like arrows to indicate the sound path.",
-    "The student can label the parts of the string telephone, such as the cups and string, mostly correctly."
+    "Draw two people with a general representation of a string between them (basic understanding of connection).",
+    "Show cups or cans as part of the string telephone setup (recognizes essential components).",
+    "Indicate that the string is involved in communication (partial understanding of its role)."
   ],
   "CANNOT": [
-    "The student might inconsistently show fine details of how sound waves actually travel through the string (e.g., arrows may not clearly represent vibration or direction).",
-    "The student might have parts of the drawing unlabeled or slightly mislabeled (e.g., labels on the wrong parts).",
-    "The student may not fully depict how the device solves the communication problem beyond showing arrows (e.g., *may not explain why sound is clearer through the string*)."
+    "Consistently show the string as tight (may draw it slack or wavy, indicating misunderstanding of tension's role).",
+    "Accurately demonstrate how sound travels through the string (may not depict sound waves or misrepresent their path).",
+    "Illustrate the absence of electrical or modern technology as a communication factor (might not include or incorrectly add electrical items).",
+    "Explain how the device solves the problem of communication over distance (might not show or explain this aspect, as it's more abstract)."
   ]
 }

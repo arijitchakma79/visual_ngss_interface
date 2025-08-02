@@ -4,14 +4,14 @@
   "Level": 1,
   "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student might draw two people on opposite sides of the paper, possibly without any connection between them.",
-    "The drawing could include two cups, possibly resembling telephones to the student, but without understanding how they work together."
+    "The student may draw two people with a line or string-like element between them, indicating some connection.",
+    "The student might include simple shapes for each person that suggest they are holding something, like a cup or can, in their hand."
   ],
   "CANNOT": [
-    "The student is unlikely to show a string connecting the cups, or if shown, the string may not be taut and might just be a random line (student doesn't understand the need for tension in the string).",
-    "The drawing will likely not demonstrate the concept of sound traveling through the string (student doesn’t understand sound transmission).",
-    "Sound transmission might be represented incorrectly, such as showing sound arrows between the mouths of the two people instead of through the string (wrong direction).",
-    "The student might not illustrate or acknowledge the use of specific materials, like cups and string, even if they appear in the drawing.",
-    "There may be no indication that the string telephone solves the problem of talking over distances, as the student might misunderstand the problem it addresses."
+    "The student is unlikely to illustrate how sound travels along the string between the two people (student might not understand sound travel).",
+    "The student may not include or correctly draw specific features, such as distinct cups or cans connected by a string (student may draw random objects or elements not related to a string telephone).",
+    "The relationship between the device and communication over a distance might be unclear or missing entirely (student might not associate device with communication).",
+    "The drawing might lack annotations or labels explaining how the string telephone works or why it would be helpful (student is unfamiliar with labeling for explanation).",
+    "The student may not demonstrate how the device solves the problem of communication over distance, failing to show sound as a medium (possible misconception about the purpose of the string)."
   ]
 }

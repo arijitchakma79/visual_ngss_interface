@@ -8,57 +8,51 @@
     },
     {
       "id": "n2",
-      "label": "Two students depicted",
+      "label": "Two stick figure students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Use of plastic cups",
+      "label": "Red plastic cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "String connecting cups",
+      "label": "Black string with slack",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Smiling students engaged in communication",
+      "label": "Sunny day environment",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Importance of string tension for sound",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Shows two students using a string telephone",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Understanding communication over distance",
+      "label": "Includes basic components of a string telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Using string as sound carrier",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Understanding that the string telephone helps communicate",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "Understanding homemade materials usage",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n10",
-      "label": "Recognizing importance of string tension",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "String needs to be taut for sound to travel effectively",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     }
   ],
   "edges": [
@@ -79,24 +73,20 @@
       "n5"
     ],
     [
-      "n1",
+      "n2",
       "n6"
     ],
     [
-      "n2",
-      "n7"
-    ],
-    [
       "n3",
-      "n9"
+      "n7"
     ],
     [
       "n4",
       "n8"
     ],
     [
-      "n6",
-      "n10"
+      "n8",
+      "n9"
     ]
   ]
 }

@@ -1,18 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can draw a string telephone accurately showing two cups connected by a string.",
-    "The student can clearly illustrate how the device uses sound to send or receive information, possibly by including vibration lines or arrows showing sound waves traveling through the string.",
-    "The student can meticulously show only the materials provided for creating such a device, such as paper cups and string.",
-    "The student can illustrate key features like sound traveling via the string, using appropriate arrows or labels.",
-    "The student can demonstrate in their drawing that the device effectively solves the problem of communication over a distance, possibly with additional notes or visual cues.",
-    "The student can depict why this communication device is helpful to people, such as by showing the distance between the students and indicating that they are far apart but still communicating."
+    "The student may draw two students with some materials, such as cups or a string, but without correct assembly or clear function.",
+    "The student might show two cups connected by a line, indicating a string, but with no attention to how it works for communication."
   ],
   "CANNOT": [
-    "The student may occasionally omit minor details, such as forgetting to label one of the cups, though this doesn't hinder understanding.",
-    "The student might neglect to depict environmental effects that could affect sound transmission (e.g., slack in the string), but it is unlikely that this misunderstanding occurs at this level."
+    "The student is unlikely to illustrate the correct concept of sound traveling through the string. (student doesn’t understand sound transmission)",
+    "The student does not include specific features accurately showing the device can send and receive sounds over a distance. (missing understanding of how communication happens)",
+    "The student may misunderstand the purpose or function and could draw unrelated objects. (student misunderstands purpose)",
+    "The student might not show that only cups and string are used, potentially drawing additional materials. (confusion about material constraints)",
+    "The student is unlikely to illustrate or describe how this device solves the problem of communicating over a distance. (lacks understanding of the problem and solution)"
   ]
 }

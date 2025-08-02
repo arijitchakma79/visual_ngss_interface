@@ -1,16 +1,18 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can draw a simple device connecting two students, indicating a basic understanding of how a string telephone functions.",
-    "The student can show two students engaging with the string telephone to send and receive information, likely using facial expressions or gestures to indicate communication.",
-    "The student can demonstrate a basic use of sound waves by drawing lines or arrows to suggest sound traveling between the cups.",
-    "The student can label or illustrate materials like cups and string, indicating some knowledge of what makes up the string telephone."
+    "The student can draw a problem where people need to communicate over a long distance, such as two children across a playground.",
+    "The student can illustrate a simple device, like cups and a string, that uses sound to solve the communication problem.",
+    "The student can use provided materials to accurately depict the design of a string telephone, showing details like tightly stretched string between the cups.",
+    "The student can show in their illustration how information travels through the device using sound, such as adding arrows to indicate the direction of sound waves.",
+    "The student can label the features of the device that allow it to send or receive information, such as labeling 'cups', 'string', 'sound waves'.",
+    "The student can demonstrate an understanding of how communicating over distances helps people by including examples in the drawing, such as people sharing messages or calling for help."
   ],
   "CANNOT": [
-    "The student may struggle to accurately illustrate how sound waves carry information beyond basic lines or arrows, occasionally placing these disproportionately *(student thinks longer waves are louder)*.",
-    "The student might miss demonstrating the full importance of technology in communication, perhaps not clearly linking the device's use to solving real-world communication needs *(student might not contextualize outside school scenarios)*."
+    "The student might occasionally miss labeling a less critical feature or include a minor additional feature without clear correlation to its function (e.g., trying to label sound speed but doing it inconsistently).",
+    "The student might show an incomplete explanation of how different tensions on the string can affect sound transmission (e.g., does not clarify what happens if the string is not taut)."
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw a basic shape that might represent ice without clear details (e.g., a simple block, but it lacks characteristic features such as sharp edges or transparency)."
+  ],
+  "CANNOT": [
+    "The student cannot clearly illustrate the transition from ice to water or water to ice with appropriate changes in characteristics (e.g., drawings of ice and water look the same).",
+    "The student is unable to accurately represent the process of the water freezing back into ice (e.g., ice reappears by magic rather than through cooling).",
+    "The student cannot effectively show that changes are reversible through the drawings (e.g., arrows or annotations showing directionality are missing or incorrect).",
+    "The student likely misunderstands the concept of irreversible changes and might draw examples incorrectly or not at all (e.g., a cooked egg turning back into a raw egg)."
+  ]
+}

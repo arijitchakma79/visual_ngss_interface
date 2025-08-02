@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can accurately draw a fish as part of their habitat, capturing realistic features such as fins and scales.",
+    "The student can label the water as the place where the fish lives and can even indicate aspects like depth or specific water bodies (e.g., lake, ocean).",
+    "The student can draw and label different resources the fish needs, like water, plants, and sometimes more detailed features such as aquatic insects or algae.",
+    "The student can effectively illustrate and label other living things in the fish's habitat, like plants or other aquatic animals, possibly with some ecological interactions.",
+    "The student can show how the fish uses these resources, such as depicting swimming patterns around plants.",
+    "The student can demonstrate how the fish, its habitat, and the resources form a system, showing interdependence, like how plants provide oxygen."
+  ],
+  "CANNOT": [
+    "The student might occasionally miss labeling less obvious but important details like the role of sunlight if included.",
+    "The student may sometimes not label every element, especially if the drawing becomes very detailed or crowded (e.g., smaller organisms or specific fish markings)."
+  ]
+}

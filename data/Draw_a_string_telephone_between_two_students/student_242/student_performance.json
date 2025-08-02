@@ -4,14 +4,14 @@
   "Level": 2,
   "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can draw two students using cups connected by a string to suggest a basic understanding of a string telephone.",
-    "The student can depict sound lines coming from one cup, indicating an attempt to show communication.",
-    "The student can label the cups and string, though labels might be sparse or lack detail."
+    "The student can draw two students using cups and a string to illustrate a basic setup of a string telephone, but the setup may lack details like tension in the string.",
+    "The student can label the string and cups, but labels might be incomplete or not clearly connected to how the device works.",
+    "The student can indicate that sound travels through the string, but without showing direction or clarity on how it influences communication."
   ],
   "CANNOT": [
-    "The student is likely unable to accurately represent the string being taut, which is necessary for sound transmission (student thinks a loose string works the same).",
-    "The student might not depict or misunderstand the need for the cups to function as a device that transmits sound (cups drawn randomly or not connected to students' mouths or ears).",
-    "The student may not clearly convey how the device resolves the problem of communication over distances (string might be too short or cups too close, not illustrating distance).",
-    "The drawing may not focus on demonstrating the use of sound exclusively (student might add unrelated elements like light or electricity)."
+    "The student is likely unable to accurately depict how sound travels through the string with correct directionality or representation (e.g., absence of arrows or waves to show sound direction).",
+    "The student misunderstands the use of tension in the string to effectively transmit sound, possibly drawing a slack or broken string (student doesn’t realize tension is needed).",
+    "The student might not clearly demonstrate the purpose of the device as solving the problem of long-distance communication without technology (student assumes it's just a toy, not for practical use).",
+    "The student may not illustrate how the device connects people or affects human communication beyond its basic function (focuses on device, not human connection)."
   ]
 }

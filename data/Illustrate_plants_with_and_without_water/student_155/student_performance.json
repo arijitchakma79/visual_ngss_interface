@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a plant with water and show it looking healthy and growing.",
+    "The student can draw a plant without water and show it looking unhealthy or wilting.",
+    "The student can draw patterns in plants that illustrate what happens to them when they receive light and water versus when they do not, but might occasionally lack some details.",
+    "The student can use their drawings to generally demonstrate that plants need water and light to live and grow, though some details might be implicit."
+  ],
+  "CANNOT": [
+    "The student might occasionally omit elements like the sun or raindrops, leading to a less complete demonstration of why the plant is healthy or unhealthy (e.g., only showing water but not light).",
+    "The student could mix up representations, such as drawing irregular patterns for wilting leaves but not clearly connecting it to the lack of water (e.g., *(student does not always show why leaves wilt)*)."
+  ]
+}

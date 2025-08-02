@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw ice in its solid form, showing some basic characteristics like angular shapes or a block form.",
+    "The student can illustrate ice turning into water but may only partially show this sequence without clear stages, perhaps with a single arrow indicating change from solid to liquid.",
+    "The student might indicate a temperature change by drawing a sun or heat lines next to the ice to show it melting."
+  ],
+  "CANNOT": [
+    "The student is likely unable to accurately depict the entire cycle of changes, such as showing water turning back into ice (may forget to complete this cycle).",
+    "The student might mix up reversible and irreversible changes, perhaps drawing a different example like juice being spilled as irreversible.",
+    "While they may draw an arrow indicating change, they might omit labels or explanations, such as not labeling the water or the ice correctly *(student forgetfully omits these details)*.",
+    "The student's cause and effect drawings may be incorrect or incomplete, like missing arrows for cooling or labeling them incorrectly *(e.g., cooling labeled as heating)*."
+  ]
+}

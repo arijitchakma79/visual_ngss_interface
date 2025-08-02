@@ -1,16 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can draw two students needing to communicate over a long distance, with a clear path or separation indicating distance.",
-    "The student can design and illustrate a string telephone as a device using cups and string, showing understanding of its basic function.",
-    "The student can include and label major components such as the cups and string in their drawing, indicating their function in facilitating communication.",
-    "The student can depict how the string telephone meets the need for long-distance communication through sound, showing comprehension of the overall purpose."
+    "The student can draw two students with a general attempt to connect them with a line, indicating a potential string.",
+    "The student can depict students holding something (which might not clearly be interpreted as cups or the parts of a string telephone)."
   ],
   "CANNOT": [
-    "The student might not fully illustrate the importance of the string being tight for effective function, potentially omitting to draw the string taut in the image (might show the string sagging).",
-    "The student may partially or incorrectly label the mechanism by which sound travels (e.g., missing arrows to show direction of sound travel or vague depictions of sound waves)."
+    "The student cannot clearly show how the string telephone functions (e.g., the line might be inconsistent or not attached to cups).",
+    "The drawing is unlikely to depict sound traveling along the string (student doesn't know this).",
+    "The student cannot effectively show how this device helps communicate over a distance (student may lack understanding of distance impacts).",
+    "The student might not demonstrate or label the proper use of materials (e.g., cups or tightness of string is not shown)."
   ]
 }

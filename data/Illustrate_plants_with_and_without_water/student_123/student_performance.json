@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a healthy plant with enough water, showing vibrant leaves and growth (adequate understanding of plant health with water)",
+    "The student can draw a wilted plant without water, showing drooping leaves and signs of poor health (clear depiction of effects of water shortage)",
+    "The student is able to make side-by-side comparisons of plants with and without water, showing the differences effectively (completes comparative illustration)",
+    "The student can illustrate the need for sunlight for the plants, with some elements correctly placed (understands the basic concept but may not fully label or focus on the sunlight aspect)"
+  ],
+  "CANNOT": [
+    "The student might not show subtle differences in leaf color or additional features between the healthy and unhealthy plants (may omit finer details)",
+    "The student might inconsistently label parts of the plant or the environment, such as not clearly indicating the source of water or sunlight (minor oversight in labeling)"
+  ]
+}

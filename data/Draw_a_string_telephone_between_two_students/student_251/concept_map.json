@@ -2,67 +2,55 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students.",
+      "label": "Draw a string telephone between two students",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two students with cups connected by a string",
+      "label": "Two cartoon-style students facing each other",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Student speaking into Cup A",
+      "label": "Paper cups connected by a string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Sound traveling shown with arrows",
+      "label": "Wavy lines representing sound waves",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Parts labeled: Cup A, Cup B, String",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Simple materials: paper cups and string",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "String telephone allows communication over a distance",
+      "label": "Basic concept of sound traveling over a distance",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "String transmits sound between students",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Misunderstanding of depth in distance communication",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Arrows show sound travel",
+      "label": "Understanding that string helps sound travel",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Labeled parts show functionality",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n10",
-      "label": "Sound wave and vibration mechanics not depicted",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n11",
-      "label": "Include simple illustrations of sound waves and vibrations in string to show mechanics",
+      "label": "Include more info about solving distance problem",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -81,36 +69,28 @@
       "n4"
     ],
     [
-      "n1",
+      "n2",
       "n5"
     ],
     [
-      "n2",
+      "n3",
       "n6"
     ],
     [
-      "n2",
-      "n7"
+      "n3",
+      "n8"
+    ],
+    [
+      "n4",
+      "n6"
     ],
     [
       "n3",
       "n7"
     ],
     [
-      "n4",
-      "n8"
-    ],
-    [
-      "n5",
-      "n9"
-    ],
-    [
       "n7",
-      "n10"
-    ],
-    [
-      "n10",
-      "n11"
+      "n9"
     ]
   ]
 }

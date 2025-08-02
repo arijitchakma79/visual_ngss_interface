@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can create a drawing that shows how ice changes into water when heated.",
+    "The student can illustrate that water can change back into ice when cooled.",
+    "The student can label the materials before and after heating or cooling (e.g., label 'ice' before heating and 'water' after).",
+    "The student can depict the reversible nature of ice melting and refreezing into ice, showing both stages.",
+    "The student can use arrows or other symbols to indicate the process of change and reversal."
+  ],
+  "CANNOT": [
+    "The student may inconsistently label either 'ice' or 'water,' possibly omitting a label on one side (labeling gaps).",
+    "The student might draw an arrow between stages but not clearly specify the heating or cooling process next to the arrows (missing process details)."
+  ]
+}

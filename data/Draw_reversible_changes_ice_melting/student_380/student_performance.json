@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can accurately draw the material before it is heated, showing the solid state of ice.",
+    "The student can accurately draw the material after it is heated, clearly showing ice melting into water.",
+    "The student can accurately draw the material after it has cooled, illustrating water freezing back into ice (showing understanding of the reversible process).",
+    "The student can produce a comparison drawing that illustrates irreversible changes (such as a cooked egg) alongside reversible changes.",
+    "The student can label their drawings with simple, accurate descriptions explaining whether the change is reversible or not due to heating or cooling."
+  ],
+  "CANNOT": [
+    "The student may exhibit minor gaps such as inconsistent labeling of temperatures (e.g., may forget to note 'below 0°C' for freezing).",
+    "The student might occasionally omit details like the time taken for each process but still understands the concept."
+  ]
+}

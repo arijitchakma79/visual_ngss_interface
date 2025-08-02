@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw a basic outline of a plant, but with limited detail or accuracy (the plant might include just a stem and one or two leaves).",
+    "Show sporadic and unclear differences between two plants, possibly using inconsistent sizes or an ambiguous attempt to indicate one is 'different' from the other without clarity."
+  ],
+  "CANNOT": [
+    "Clearly depict which plant is healthy with water and which is unhealthy without water (student might draw both plants looking similar regardless of their water status).",
+    "Illustrate a clear difference in appearance between plants with plenty of water and those without (student doesn't know this, might represent both as identical or with random elements).",
+    "Show how a plant changes over time without water (student may not indicate time or change at all).",
+    "Represent the importance of water for plant life through contrasts in their drawings (student might not understand water's role, leading to no clear contrasts)."
+  ]
+}

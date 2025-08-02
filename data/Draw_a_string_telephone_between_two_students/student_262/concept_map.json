@@ -8,55 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Two students with simple features wearing casual clothing.",
+      "label": "Two kids with cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Each holding a cup labeled as part of the telephone.",
+      "label": "String loosely hanging",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Tight string between cups.",
+      "label": "Wavy lines above string for sound",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Sound waves represented by arrows.",
+      "label": "Bright colors used",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Correct representation of physical setup.",
+      "label": "Depicts communication attempt",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Accurate depiction of communication materials.",
+      "label": "Shows basic string telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Sound travels through tight string.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "Inconsistent portrayal of sound waves.",
+      "label": "Misunderstands sound transmission",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
+      "id": "n9",
+      "label": "Engaging drawing style",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
       "id": "n10",
-      "label": "Sound waves should be consistently shown to indicate direction and movement.",
+      "label": "Sound requires taut string",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -95,7 +95,7 @@
       "n9"
     ],
     [
-      "n9",
+      "n8",
       "n10"
     ]
   ]

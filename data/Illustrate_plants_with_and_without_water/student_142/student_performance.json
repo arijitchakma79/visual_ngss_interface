@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a plant with some healthy leaves, suggesting it has access to water, but may miss detailing other parts clearly.",
+    "The student can depict a plant with wilted or dry leaves, indicating a lack of water, but with some inconsistencies in the drawing (e.g., drying only some leaves or showing healthy parts incorrectly).",
+    "The student can attempt to show differences between a well-watered plant and a dry plant, but with limited details and possible omissions.",
+    "The student might use some basic classroom observations to hint at the differences in plant health with and without water."
+  ],
+  "CANNOT": [
+    "The student is likely unable to consistently and accurately show the overall differences in appearance between well-watered and non-watered plants (e.g., mixing up which plant should look healthy or wilited).",
+    "The student may struggle to provide a clear justification or evidence in the drawing that plants need water to grow (e.g., forgetting to show symptoms linked to water neglect or only depicting vague differences).",
+    "The student might inaccurately represent the effects of water by showing parts of the plant healthy and other parts wilting without consistent reasoning or logic (confusion about what water impacts)."
+  ]
+}

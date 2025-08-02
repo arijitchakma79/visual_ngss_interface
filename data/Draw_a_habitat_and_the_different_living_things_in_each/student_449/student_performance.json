@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may attempt to draw a habitat but might not clearly represent what makes it a specific habitat (e.g., draws a generic outdoor scene).",
+    "The student might include a few recognizable living things, like a tree or a flower, but not with specific relation to the habitat (e.g., places a tree in a pond without context)."
+  ],
+  "CANNOT": [
+    "The student is likely unable to draw different habitats distinctly (e.g., garden and pond look very similar, lacking defining features).",
+    "The drawing may not show various types of living things appropriately placed or identified (e.g., draws fish in the sky).",
+    "The student likely struggles to compare and include different plants and animals across habitats correctly (e.g., confusion about what animals belong where).",
+    "Organizing similar living things in specific areas is probably inconsistent or missing (e.g., mixes all animals and plants randomly across the drawing).",
+    "The drawing may lack evidence of thoughtful observation from media or firsthand, leading to random or inaccurate details about biodiversity (e.g., places a tiger in a playground)."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "Draw a plant that is somewhat recognizable as healthy and has basic features like green leaves and a sturdy stem to suggest it is growing when there is imagined water present.",
+    "Depict a plant that looks somewhat wilted or droopy to indicate poor health when it does not receive enough water.",
+    "Include basic elements like a sun to suggest that plants need light, although this may not be clearly linked to the plant's health."
+  ],
+  "CANNOT": [
+    "Consistently depict clear differences between plants with enough water and those without, particularly if asked to show more detailed, realistic symptoms of under-watering (e.g., color changes in leaves beyond wilting, which might be omitted or incorrectly added).",
+    "Show with confidence that both water and light are necessary for plant life, possibly showing both but without a clear relationship (e.g., drawing the sun but not indicating it helps the plant grow).",
+    "Identify patterns connecting specific plant features with the presence or absence of water (e.g., student might incorrectly label a healthy-looking plant as thirsty due to misunderstanding the visual cues)."
+  ]
+}

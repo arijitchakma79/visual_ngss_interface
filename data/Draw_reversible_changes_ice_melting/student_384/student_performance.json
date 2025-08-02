@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can accurately depict the ice cube before the change caused by heating (ice cube drawn and labeled).",
+    "The student can correctly show the material after the change by heating, as water (water drawn and labeled).",
+    "The student can clearly illustrate the reverse change from water back to ice by cooling.",
+    "The student can label each step clearly to indicate which changes are reversible (labeled arrows or text showing changes).",
+    "The student can use their drawing to effectively explain how heating causes ice to melt into water and how cooling reverses it, bringing water back to ice."
+  ],
+  "CANNOT": [
+    "Minor inconsistencies or incomplete labeling may occur (e.g., occasionally forgetting a label or an arrow but not affecting overall understanding).",
+    "There may be minor aesthetic inaccuracies (e.g., water not drawn perfectly clear, but understanding is unaffected)."
+  ]
+}

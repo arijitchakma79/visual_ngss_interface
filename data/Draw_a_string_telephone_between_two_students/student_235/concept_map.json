@@ -8,55 +8,67 @@
     },
     {
       "id": "n2",
-      "label": "Two children standing and holding cups to ears",
+      "label": "Two students holding cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Connecting string between cups",
+      "label": "String connecting cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Smiling children with mouths open, suggesting speaking",
+      "label": "Arrows along the string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Arrows suggesting communication",
+      "label": "Simple setting with no devices or light sources",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Basic setup of a string telephone",
+      "label": "Students engaged and curious",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "String telephone is used for talking over distance",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n7",
-      "label": "Communicating over distance is unclear",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
       "id": "n8",
-      "label": "Unclear representation of sound travel",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Sound travels along the string",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Label components like string and cups to show materials",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Understanding that sound, not light, is used",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Clarify arrows to represent sound traveling",
+      "label": "No indication of sound/light confusion",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "Device needed for long-distance communication",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n12",
+      "label": "Explain why the device is needed for communication",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -79,32 +91,36 @@
       "n5"
     ],
     [
-      "n2",
+      "n1",
       "n6"
+    ],
+    [
+      "n2",
+      "n7"
     ],
     [
       "n3",
-      "n6"
-    ],
-    [
-      "n2",
-      "n7"
-    ],
-    [
-      "n4",
-      "n7"
-    ],
-    [
-      "n5",
       "n8"
     ],
     [
-      "n7",
+      "n4",
+      "n8"
+    ],
+    [
+      "n5",
       "n9"
     ],
     [
-      "n8",
+      "n5",
       "n10"
+    ],
+    [
+      "n6",
+      "n11"
+    ],
+    [
+      "n11",
+      "n12"
     ]
   ]
 }

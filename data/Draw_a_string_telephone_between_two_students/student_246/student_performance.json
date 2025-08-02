@@ -4,13 +4,13 @@
   "Level": 2,
   "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can draw two people attempting to communicate, likely positioned a short distance apart.",
-    "The student can illustrate a device using simple materials like string and paper cups, showing an attempt to connect the two people.",
-    "The student can label basic parts, such as 'cup' and 'string', albeit with possibly missing or imprecise labels."
+    "The student can draw two students holding cups with a string connecting them to represent a string telephone.",
+    "The student can attempt to show sound traveling along the string, possibly with lines or arrows.",
+    "The student can depict the two students as engaged in communication, suggesting the basic idea of a working string telephone (e.g., one student speaking, the other listening)."
   ],
   "CANNOT": [
-    "The student is likely unable to properly explain how sound travels through the string (may lack understanding of vibrations).",
-    "The student may not successfully label all parts crucial for sound transmission (e.g., omits tension in the string).",
-    "The student may show misunderstanding by illustrating a long string hanging loosely (indicating they might not realize the string needs to be taut for sound to travel)."
+    "The student may not accurately illustrate how sound travels along the string, possibly forgetting to connect the lines completely (student might not understand sound transmission).",
+    "The student might not show that the device is made using standard materials (e.g., could draw solid rods instead of a string).",
+    "The student might not include or misrepresent a simple explanation or indication of communication over a distance (e.g., thinking the string is used only for connection, not sound transmission)."
   ]
 }

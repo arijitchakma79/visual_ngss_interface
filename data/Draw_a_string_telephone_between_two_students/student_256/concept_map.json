@@ -2,69 +2,69 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students",
+      "label": "Draw a string telephone between two students.",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two students each holding a cup",
+      "label": "Student on the left speaking into a red cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Tightly stretched string between cups",
+      "label": "Student on the right listening with a blue cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Wave-like lines along string",
+      "label": "Taut, straight line represents the string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Labels: 'cup' and 'string'",
+      "label": "Arrows on the string indicate sound waves",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Communication through string telephone",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Caption explains sound travels through string for communication",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "String conveys sound waves",
+      "label": "Understanding that sound travels through the string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Sound wave direction inaccurate",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Understanding communication between students over distance",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Inconsistent labeling",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Complete understanding of sound wave indication with arrows",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Show how sound waves should move directionally",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Complete understanding of explanatory caption",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n11",
-      "label": "Use consistent labels for clarity",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Understanding use of bright colors and labels for clarity",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     }
   ],
   "edges": [
@@ -85,27 +85,39 @@
       "n5"
     ],
     [
-      "n2",
+      "n1",
       "n6"
     ],
     [
-      "n3",
+      "n2",
       "n7"
     ],
     [
-      "n4",
+      "n3",
       "n8"
+    ],
+    [
+      "n4",
+      "n9"
     ],
     [
       "n5",
       "n9"
     ],
     [
-      "n8",
+      "n6",
       "n10"
     ],
     [
-      "n9",
+      "n4",
+      "n11"
+    ],
+    [
+      "n2",
+      "n11"
+    ],
+    [
+      "n3",
       "n11"
     ]
   ]

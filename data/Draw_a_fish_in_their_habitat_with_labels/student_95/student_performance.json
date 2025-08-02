@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a fish in its natural water habitat, showing an understanding of water as the primary environment.",
+    "The student can label the fish and the water, demonstrating a basic understanding of the habitat.",
+    "The student can include and partially label other aquatic plants or animals, such as seaweed or other small fish, indicating companionship or competition.",
+    "The student can label essential resources like water and food (e.g., algae or small insects), showing awareness of basic survival needs.",
+    "The student can demonstrate how the fish uses its habitat to meet some needs, like swimming in water or searching for food, though this might be inconsistently represented with arrows or lines."
+  ],
+  "CANNOT": [
+    "The student is likely unable to correctly label or show all specific interactions between the fish and its habitat resources, such as complex food chains or specific species interactions (e.g., predator-prey dynamics).",
+    "The student might occasionally miss labeling connections between resources and survival needs, such as forgetting to show how plants provide oxygen *(incomplete understanding of ecosystem interactions)*."
+  ]
+}

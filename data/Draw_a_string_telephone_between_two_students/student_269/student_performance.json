@@ -1,17 +1,18 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can draw two students each holding one end of the string telephone, showing how they are connected over a distance.",
-    "The student can illustrate how the sound travels through the string by using arrows or another visual indicator, though arrows might not be completely precise.",
-    "The student can depict the required materials used to create the string telephone, such as cups and string.",
-    "The student can label the cups and string to explain that sound travels through the string to communicate messages."
+    "The student is likely able to draw two figures that are meant to represent students, but they may not be easily recognizable.",
+    "The student may attempt to draw a line meant to represent the string, although it may not connect clearly between the figures or be taut."
   ],
   "CANNOT": [
-    "The student might not clearly label the scientific concept of sound traveling through the string, potentially missing an explanation of vibration (student labels only partial parts or uses vague terms).",
-    "The student may inconsistently include a note or drawing highlighting the importance of communication over long distances or may provide a simplistic note lacking depth.",
-    "The student may incorrectly assume that the sound travels directly through the air between cups without needing the string (misunderstanding how the string facilitates sound transmission)."
+    "The student is unlikely to show the string being stretched between two cups, as they may not understand the concept of a string telephone.",
+    "The student is unlikely to illustrate one student talking while the other is listening, as they may not grasp communication through the device.",
+    "The student will have difficulty representing sound waves or vibrations with relevant features (e.g., missing or unrelated symbols).",
+    "Labels indicating the importance of a taut string or the function of the cups are unlikely to be present (student may not know these details).",
+    "The student likely cannot explain how the cups function like speakers (student might not understand sound transmission).",
+    "Any caption or label explaining the communication technology is likely missing, as the student may not comprehend the task fully."
   ]
 }

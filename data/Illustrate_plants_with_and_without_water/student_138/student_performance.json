@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a plant with water that looks somewhat healthier than a plant without water.",
+    "The student can represent in their drawing that a plant without water looks wilted, although details may be simplistic or inconsistent.",
+    "The student may inconsistently include sunlight in their drawing to suggest it as a factor for plant health, but this may not always be clear."
+  ],
+  "CANNOT": [
+    "The student may struggle to correctly show the thriving aspects of a plant with both sunlight and water and may omit one of these elements entirely.",
+    "The student may not clearly indicate the difference in appearance between the healthy plant and wilting plant, focusing on water only without noting sunlight.",
+    "The student might depict both plants similarly, showing misunderstanding of the significant appearance difference due to water availability (student may think all plants look the same regardless)."
+  ]
+}

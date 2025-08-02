@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can illustrate a healthy plant that has received enough water, depicting features like bright green leaves.",
+    "The student can illustrate a plant that shows signs of not having enough water by including elements like wilting or browning leaves.",
+    "The student can show a comparison between a healthy plant and a plant lacking water with both plants drawn side by side.",
+    "The student can use their drawing to describe, with some detail, how a lack of water affects plants, such as noting drooped stems or dull color."
+  ],
+  "CANNOT": [
+    "The student may not consistently use patterns in their drawing to demonstrate that plants need water to live and grow (e.g., the student might not clearly depict growth stages).",
+    "The student might incorrectly label parts of the plant due to oversight (e.g., forgetting to label roots) or depict water as less essential when comparing other growth factors."
+  ]
+}

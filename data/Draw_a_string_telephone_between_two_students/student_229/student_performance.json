@@ -1,17 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can draw two students standing apart, suggesting an attempt to communicate over a distance.",
-    "The student can attempt to include basic representations of a string telephone using two cups and a string.",
-    "The student may show a string connecting the cups held by each student, indicating some understanding of the mechanism."
+    "The student may attempt to draw two figures that resemble students, but the figures could be simple or stick figures.",
+    "The student may draw two shapes that look like cups, although they might not be clearly labeled or connected correctly."
   ],
   "CANNOT": [
-    "The student might not accurately show that the string must be tense for sound to travel effectively (string may appear slack or disconnected).",
-    "The student may not clearly depict how sound travels through the string (e.g., no lines/arrows indicating sound waves).",
-    "The student might misunderstand the concept of sound transmission, possibly indicating that sound travels through air only (drawing might lack labels or incorrect use of arrows).",
-    "The student may not label or describe how the device utilizes sound to communicate (e.g., no mention of sound or communication)."
+    "The student is unlikely to correctly depict the string connecting the cups in a taut line. The string might be drawn loosely or not connected to both cups (e.g., the string hanging limply or not drawn at all).",
+    "The student may not show two distinct students using the device for communication (e.g., one student may not be holding their cup to their ear).",
+    "The concept of sound traveling through the string may not be illustrated or represented (e.g., no indications such as arrows or lines suggesting movement of sound).",
+    "The drawing might lack space between the students to depict the device working over a distance, with students depicted too close together or facing the wrong direction.",
+    "The student may not recognize or demonstrate how the string telephone actually works, such as completely omitting the string in their drawing or having the cups not aligned."
   ]
 }

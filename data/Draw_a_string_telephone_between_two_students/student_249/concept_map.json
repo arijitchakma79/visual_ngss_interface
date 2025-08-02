@@ -8,55 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure people",
+      "label": "Two cartoonish students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Each holding a large paper cup",
+      "label": "Cups held by students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "String connecting the cups",
+      "label": "Loose, wavy string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Facing each other for communication",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Attempts to depict communication",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Basic understanding of distant communication through technology",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n7",
-      "label": "Design supports sending and receiving sound",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n8",
-      "label": "Uses simple materials to demonstrate communication",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "Position suggests talking",
+      "label": "Misunderstanding of string tension for sound travel",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
+      "id": "n7",
+      "label": "Cups for sound use",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n8",
+      "label": "Inadequate illustration of sound transmission",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n9",
+      "label": "The string needs to be tight for sound to travel effectively.",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
       "id": "n10",
-      "label": "Further explanation on sound travel needed",
+      "label": "Focus on importance of tension in transmitting sound",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -75,12 +75,8 @@
       "n4"
     ],
     [
-      "n1",
-      "n5"
-    ],
-    [
       "n2",
-      "n6"
+      "n5"
     ],
     [
       "n3",
@@ -88,14 +84,18 @@
     ],
     [
       "n4",
+      "n6"
+    ],
+    [
+      "n4",
       "n8"
     ],
     [
-      "n5",
+      "n6",
       "n9"
     ],
     [
-      "n9",
+      "n8",
       "n10"
     ]
   ]

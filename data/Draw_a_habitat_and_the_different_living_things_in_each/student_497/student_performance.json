@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw an outline of one land habitat, like a playground or garden, but with limited or incorrect features. (e.g., may draw a sandbox and call it a garden)",
+    "Include a few living things without labels or incorrect labels. (e.g., draw trees but not label them)"
+  ],
+  "CANNOT": [
+    "Draw and label a water habitat accurately. (student doesn’t include it or draws a land feature like a parking lot instead)",
+    "Clearly identify different living things found in each habitat. (confusion between plant and animal types or no clear distinctions)",
+    "Show patterns by comparing types of living things in different habitats. (fails to recognize or depict differences between habitats)",
+    "Represent organization within the habitat, possibly placing living things in unrealistic or incorrect locations (e.g., fish outside the pond)",
+    "Use observations from media or firsthand investigations to inform drawings, which may result in details being incorrect or unrealistic (e.g., palm trees in a forest habitat)"
+  ]
+}

@@ -8,63 +8,75 @@
     },
     {
       "id": "n2",
-      "label": "Two children standing on grass at a distance",
+      "label": "Two children facing each other",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Child with blue plastic cup to mouth; other with red plastic cup to ear",
+      "label": "Child with blue shirt",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Long, slightly slack string connects the cups",
+      "label": "Child with red shirt",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Children are smiling, showing they are trying to communicate",
+      "label": "Cup attached to string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Represents children needing to communicate over distance",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "String shown taut between cups",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Depicts a device that uses sound for communication (string telephone)",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Grassy field",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n8",
-      "label": "Device functions over a distance between two people",
+      "label": "Notes on communication over distance",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n9",
+      "label": "Use of string telephone for communication",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n9",
-      "label": "String appears slack; may not correctly represent sound transmission",
+      "id": "n10",
+      "label": "Understanding the importance of taut string for sound travel",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n10",
-      "label": "Slack string doesn't convey idea of tautness needed for sound travel",
+      "id": "n11",
+      "label": "Understanding that technology helps communication",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n12",
+      "label": "Explain how sound uses a taut string to travel between cups",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     },
     {
-      "id": "n11",
-      "label": "Illustration suggests using such a device makes communication easier",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "id": "n13",
+      "label": "Add notes on how technology helps communication over distances",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     }
   ],
   "edges": [
@@ -85,28 +97,40 @@
       "n5"
     ],
     [
-      "n2",
+      "n1",
       "n6"
     ],
     [
-      "n3",
+      "n1",
       "n7"
     ],
     [
-      "n4",
+      "n1",
       "n8"
     ],
     [
-      "n4",
+      "n2",
       "n9"
     ],
     [
       "n5",
+      "n9"
+    ],
+    [
+      "n6",
+      "n10"
+    ],
+    [
+      "n8",
       "n11"
     ],
     [
-      "n9",
-      "n10"
+      "n10",
+      "n12"
+    ],
+    [
+      "n11",
+      "n13"
     ]
   ]
 }

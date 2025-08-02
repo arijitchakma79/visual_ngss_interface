@@ -4,14 +4,13 @@
   "Level": 4,
   "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can accurately draw two people positioned at a distance where communication would be necessary, indicating the need for a device like a string telephone.",
-    "The student can clearly depict a string telephone device connecting the two people, typically illustrated as two cups connected by a tight string.",
-    "The student can show arrows or small waves to indicate that the device uses sound to send information between the two people.",
-    "The student can illustrate that the string is taut, demonstrating an understanding of how the device works to help the two people talk from far away.",
-    "The student can label or indicate materials like cups and string, showing they understand the construction of the device based on common materials."
+    "The student can draw a clear and accurate string telephone showing how two students use it to communicate over a distance, with two cups connected by a taut string.",
+    "The student can illustrate the string as a critical component for the transmission of sound, ensuring the string is straight and without slack.",
+    "The student can show that the device uses sound to send and receive information, possibly adding sound waves or arrows to indicate sound traveling from one cup to another.",
+    "The student can describe through their drawing how using such a device helps people communicate over distances, possibly including small annotations or speech bubbles to show the transmission of information.",
+    "The student can depict the basic structure of the device accurately using specified materials such as cups and string, without additional unnecessary elements."
   ],
   "CANNOT": [
-    "The student might overlook labeling one of the materials correctly, such as not explicitly labeling the cups *(minor oversight)*.",
-    "The student could mistakenly draw one of the cups open side down, slightly misrepresenting how the string telephone should be used *(minor misunderstanding)*."
+    "The student may occasionally forget to label one of the components, such as omitting a label on one of the cups or the string, but the drawing still clearly represents all parts."
   ]
 }

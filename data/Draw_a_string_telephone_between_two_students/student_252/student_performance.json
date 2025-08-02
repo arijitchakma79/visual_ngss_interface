@@ -1,18 +1,18 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "Illustrate a string telephone with two students, clearly showing the string and connecting cups or cans.",
-    "Demonstrate sound traveling through the string, possibly with arrows or lines indicating direction.",
-    "Depict the communication between two students using the device, understanding the basic concept of sound travel.",
-    "Include some features of the design like tautness of the string, which is generally correct."
+    "The student can illustrate a device that allows people to communicate over a distance using sound.",
+    "The student can show through the drawing how a string telephone works, using cups and string.",
+    "The student can depict the transfer of sound from one cup to another through the string, including elements like vibrations or annotations indicating sound travel.",
+    "The student can include details to show that the device uses sound to send messages, such as waves or lines emanating from the cup.",
+    "The student can display an understanding that the string must be tight for the sound to travel effectively, possibly with annotations or taut string depiction.",
+    "The student can illustrate people using the device to communicate from different locations, demonstrating the concept of distance communication."
   ],
   "CANNOT": [
-    "Might not fully detail or label how sound specifically travels through the string (e.g., lack of technical annotations).",
-    "May overlook the depiction of the communication problem over long distances (e.g., no representation of distance issues).",
-    "Could miss or awkwardly show advanced design features like optimal string tension or vibrations (e.g., illustrating loose string).",
-    "May reflect a basic understanding of using the technology to stay connected but without elaboration on long-distance context."
+    "The student may not perfectly label every part of the diagram (e.g., missing labels or minor typos).",
+    "The student might not consistently show one advanced feature (e.g., varying the thickness of the string to match sound transmission strength)."
   ]
 }

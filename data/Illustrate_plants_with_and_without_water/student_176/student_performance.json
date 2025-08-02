@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can draw a plant with healthy green leaves, effectively showing it has enough water.",
+    "The student can draw a plant with drooping or brown leaves to clearly show it doesn't have enough water.",
+    "The student can accurately include the sun in their drawing to represent the plant's need for light to grow.",
+    "The student can depict different kinds of animals that rely on plants for food, showing a clear understanding of interdependence.",
+    "The student can illustrate that plants need both water and light to live and grow, synthesizing all necessary elements into a cohesive drawing."
+  ],
+  "CANNOT": [
+    "The student may occasionally omit labels for each element in their drawing or assume understanding without explanation *(assumes the observer can identify elements without labels)*.",
+    "The student might not show minor details like soil texture or specific plant species, focusing instead on key concepts *(focuses on main ideas rather than finer details)*."
+  ]
+}

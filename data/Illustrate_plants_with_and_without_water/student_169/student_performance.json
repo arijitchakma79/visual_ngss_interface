@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw a single plant but may not accurately depict healthiness (e.g., simple outline of a plant).",
+    "The student might include basic elements such as the sun in their drawing without understanding its role (e.g., sun placed randomly)."
+  ],
+  "CANNOT": [
+    "The student is unlikely to accurately differentiate between a healthy and a wilted plant (e.g., both plants look similar, unclear which is wilted).",
+    "The student may not show the absence of water effectively in the wilted plant drawing (e.g., no representation of water presence or absence).",
+    "The student is unlikely to create a clear side-by-side comparison (e.g., plants may be scattered or random).",
+    "The student may misunderstand the role of the sun and place it incorrectly (e.g., beneath the plant)."
+  ]
+}

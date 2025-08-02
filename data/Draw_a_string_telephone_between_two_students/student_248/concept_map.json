@@ -8,51 +8,63 @@
     },
     {
       "id": "n2",
-      "label": "Two students facing each other with cups",
+      "label": "Two children standing at a distance",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Loose, slightly curved connecting string",
+      "label": "Using a string telephone",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Lines/waves from mouth to cup",
+      "label": "Cups and string included",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Illustrates the use of string telephone for communication",
+      "label": "Labeled arrows showing sound direction",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Focus on communication tool",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Illustrates need to talk over long distance",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n6",
-      "label": "Incorrect: Loose string doesn’t support sound travel",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n7",
-      "label": "Shows attempt to communicate, but lacks direction",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
       "id": "n8",
-      "label": "String should be tight to transmit sound effectively",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Shows how device uses sound to communicate",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Add direction to sound waves for clarity",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Correctly shows materials used for sound travel",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Illustrates how sound travels",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "Depicts communication over distance importance",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     }
   ],
   "edges": [
@@ -69,28 +81,32 @@
       "n4"
     ],
     [
-      "n2",
+      "n1",
       "n5"
     ],
     [
-      "n3",
+      "n1",
       "n6"
     ],
     [
+      "n2",
+      "n7"
+    ],
+    [
       "n3",
-      "n7"
-    ],
-    [
-      "n4",
-      "n7"
-    ],
-    [
-      "n6",
       "n8"
     ],
     [
-      "n7",
+      "n4",
       "n9"
+    ],
+    [
+      "n5",
+      "n10"
+    ],
+    [
+      "n6",
+      "n11"
     ]
   ]
 }

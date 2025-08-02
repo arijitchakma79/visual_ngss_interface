@@ -8,51 +8,33 @@
     },
     {
       "id": "n2",
-      "label": "Two students are depicted.",
+      "label": "Two children standing a moderate distance apart, holding cups connected by a straight line representing a string.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "String telephone shown with cups and string.",
+      "label": "Motion lines around one child's mouth indicate speaking.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Arrows/dotted lines represent sound waves.",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "The student understands the basic concept of a string telephone allowing communication over distance.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n5",
-      "label": "Students are gesturing to communicate.",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Represents sound transmission through the use of motion lines but lacks understanding of sound wave propagation.",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n6",
-      "label": "Student understands students can communicate over a distance.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n7",
-      "label": "Correct representation of string telephone.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n8",
-      "label": "Understands sound travels through string.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "Accurately depicts communication through gestures.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Include a description of how sound travels along the string or show waves to represent sound transmission.",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     }
   ],
   "edges": [
@@ -65,28 +47,16 @@
       "n3"
     ],
     [
-      "n1",
+      "n2",
       "n4"
     ],
     [
-      "n1",
+      "n3",
       "n5"
     ],
     [
-      "n2",
-      "n6"
-    ],
-    [
-      "n3",
-      "n7"
-    ],
-    [
-      "n4",
-      "n8"
-    ],
-    [
       "n5",
-      "n9"
+      "n6"
     ]
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can accurately draw a variety of habitats, such as a forest, pond, and garden, with clear differentiation between them.",
+    "The student can include a wide range of plants in their drawings, such as trees, grasses, bushes, and flowering plants, with correct labeling.",
+    "The student can depict a diverse set of animals within each habitat, like lizards in a forest or fish in a pond, showing awareness of where animals live.",
+    "The student can successfully show plant and animal diversity in their drawings, representing a realistic ecosystem.",
+    "The student can illustrate comparisons by drawing different habitats side by side, highlighting the unique living things found in each environment.",
+    "The student can use their drawings to effectively demonstrate patterns of plant and animal diversity across different habitats, aiding understanding of ecological differences."
+  ],
+  "CANNOT": [
+    "The student might occasionally omit or mislabel some plants or animals but can generally correct these with minimal prompting (e.g., mislabeling a bush as a tree but recognizing the error).",
+    "The student may occasionally misrepresent the scale or proportion of living things in the habitat, like drawing an oversized ant compared to a tree, but this does not detract from overall comprehension."
+  ]
+}

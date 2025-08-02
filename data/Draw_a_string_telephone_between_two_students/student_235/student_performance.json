@@ -1,16 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student can draw two people, distinctly illustrating that they are engaged in a communication activity over a distance.",
-    "The student can depict a basic string telephone setup with cups and a line connecting them, indicating an attempt to show a communication device."
+    "The student can draw two students who are trying to talk to each other over a long distance.",
+    "The student can represent a string telephone as the device connecting the two students, typically with cups at each end of the string.",
+    "The student can show how sound travels along the string, possibly with lines or arrows indicating sound movement.",
+    "The student can ensure that the drawing shows the string is tight and goes directly from one student's cup to the other student's cup, although may forget to reinforce the importance of the string being pulled taut."
   ],
   "CANNOT": [
-    "The student may not accurately demonstrate how sound travels through the string telephone, possibly showing no sound waves or incorrect representations like arrows pointing in the wrong direction.",
-    "The student is unlikely to include labels explaining the travel of sound through the device effectively, possibly leaving the drawing without labels or with unclear descriptions.",
-    "The student may not correctly illustrate the connection between the string telephone and the concept of communicating over a distance, perhaps failing to emphasize the importance of distance by drawing the people too close or by not highlighting why the device is needed.",
-    "The student might inconsistently label materials, missing one or more components like string or cups, hence lacking completeness in material identification."
+    "The student may struggle to illustrate how the device uses sound, not light, to send and receive information (e.g., they might add incorrect elements like a light bulb).",
+    "The student may not fully show why the device is needed for communication over a distance, such as omitting the distance context or not clearly demonstrating that the string telephone is necessary *(student assumes viewers know its purpose)*."
   ]
 }

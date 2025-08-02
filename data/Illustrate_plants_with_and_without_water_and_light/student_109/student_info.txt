@@ -1,5 +1,0 @@
-Student ID: 109
-Topic: Illustrate plants with and without water and light.
-NGSS Code:  K-LS1-1
-Grade:  K
-Level: 1

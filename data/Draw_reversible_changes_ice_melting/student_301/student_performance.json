@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Might be able to show a simple block shape representing ice, but lacks detail or context.",
+    "Might attempt to draw water in some form, potentially as a puddle or simple shape without showing transition."
+  ],
+  "CANNOT": [
+    "Unable to represent the transition from solid ice to liquid water through heating properly (lacks arrows or labels).",
+    "Cannot show the process of liquid water cooling and refreezing back into solid ice (student doesn’t know this or gets confused by the concept).",
+    "Fails to use cause and effect to illustrate that heating and cooling lead to state changes (e.g., might draw the sun but not connect it to the melting).",
+    "Does not annotate or label which changes are reversible (does not understand the concept of reversibility)."
+  ]
+}

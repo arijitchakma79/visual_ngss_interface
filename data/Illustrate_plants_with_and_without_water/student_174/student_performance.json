@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can illustrate a plant with some elements indicating it is healthy, such as a few green leaves or a mostly upright stem.",
+    "The student can depict a plant that is drooping or has some brown or yellow leaves to suggest it lacks water.",
+    "The student can make a basic comparison between two plants, one watered and one without, though details may be incomplete or minimal."
+  ],
+  "CANNOT": [
+    "The student may not clearly show vibrant colors for a healthy plant, failing to use bright green or may mix colors erroneously *(student struggles with color usage)*.",
+    "The student might depict a wilted plant but incorrectly represent all leaves as green, without showing browning or yellowing *(student doesn't fully grasp changes in leaf color due to lack of water)*.",
+    "The student may inconsistently apply elements like stem strength and leaf color across different parts of the drawing, leading to mixed signals in their representation *(student has partial understanding but lacks precision)*.",
+    "Patterns of change in plant condition with and without water could be unclear or missing, as the student might not connect these visually *(student understands some changes but not all)*."
+  ]
+}

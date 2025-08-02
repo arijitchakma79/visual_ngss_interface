@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may attempt to draw ice, but it might lack detail (e.g., a vague shape with no clear solid characteristics).",
+    "The student might show a very basic depiction of melted ice, resembling a puddle without clear labels or context."
+  ],
+  "CANNOT": [
+    "The student is unlikely to illustrate ice turning into water accurately, missing the concept of melting (e.g., ice and water shown as separate, unrelated elements).",
+    "The student may not depict the process of water turning back into ice, missing the idea of it being a reversible change (e.g., water stays a puddle).",
+    "The student may label stages incorrectly or not at all, showing no understanding of process stages (e.g., stages labeled randomly or with unrelated terms).",
+    "The student might omit cause and effect labels, failing to show heating and cooling processes or showing them chaotically (e.g., arrows in incorrect directions or missing)."
+  ]
+}

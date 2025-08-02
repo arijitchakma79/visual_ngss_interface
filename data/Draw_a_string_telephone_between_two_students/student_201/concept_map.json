@@ -8,49 +8,49 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure students drawn",
+      "label": "Two smiling stick figures",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Single line connecting the two students",
+      "label": "Floating open-topped cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Represents two students who need to communicate",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Slack and slightly curved line",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Represents string connection for communication",
+      "label": "Student demonstrates understanding of two students attempting to communicate.",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Lacks representation of string telephone (no cups, no labeling)",
+      "label": "Student illustrates device use of cups but placement is incorrect.",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n7",
-      "label": "Explain the use of cups to illustrate a proper string telephone",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
-      "id": "n8",
-      "label": "Does not demonstrate how sound works in communication",
+      "label": "Student misunderstands the role of the string in communication (should be taut).",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
+      "id": "n8",
+      "label": "Explain that cups should be connected firmly to the ears and mouth for sound transfer.",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
       "id": "n9",
-      "label": "Introduce sound wave illustration or labeling to show sound transmission",
+      "label": "Teach that string must be tight to transfer sound vibrations effectively.",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -65,27 +65,27 @@
       "n3"
     ],
     [
-      "n2",
+      "n1",
       "n4"
     ],
     [
-      "n3",
+      "n2",
       "n5"
     ],
     [
-      "n2",
+      "n3",
       "n6"
     ],
     [
-      "n6",
+      "n4",
       "n7"
     ],
     [
-      "n3",
+      "n6",
       "n8"
     ],
     [
-      "n8",
+      "n7",
       "n9"
     ]
   ]

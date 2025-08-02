@@ -1,18 +1,18 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can show a problem where people need to communicate over a distance by depicting two students far apart with obstacles.",
-    "The student can accurately draw a string telephone connecting the two students with clear endpoints.",
-    "The student can demonstrate how the string telephone allows communication by showing sound moving through the string.",
-    "The student can effectively illustrate the concept of sending and receiving sound information over a distance.",
-    "The student can depict how the string telephone solves the communication problem by showing interaction between the students using the telephone.",
-    "The student can highlight the importance of technology in communication over long distances by labeling or contextualizing the diagram."
+    "The student can illustrate a basic string telephone connecting two students, showing an understanding that the string is a key component.",
+    "The student can partially depict sound traveling through the string, possibly using lines or arrows indicating direction (though these may be inconsistently applied).",
+    "The student can attempt to label parts of the device such as 'cup' or 'string'.",
+    "The student may show one or two features that hint at the technology aspect of communication over distance, such as the separation between the students."
   ],
   "CANNOT": [
-    "The student may occasionally omit labels on diagrams for pieces like cups or string, relying on the drawing itself to convey the idea (minor gap in labeling).",
-    "The student might not indicate the direction of sound waves within the string, assuming it's implied by the context (assumes viewer infers directionality)."
+    "The student is likely unable to show a clear and correct depiction of sound waves traveling through the string (may not include sound representation at all, or may illustrate it incorrectly).",
+    "The student cannot effectively demonstrate that the device relies on sound, not just the string, for communication (may think the string alone is sufficient without need for sound).",
+    "The student may misunderstand labeling by incorrectly naming parts or omitting essential components that facilitate sound travel (e.g., not labeling 'sound' or 'vibrations').",
+    "The student is unlikely to include detailed features that emphasize the importance of the technology in communicating over distances beyond a basic connection (e.g., no focus on real-life application or the technology aspect as a solution)."
   ]
 }

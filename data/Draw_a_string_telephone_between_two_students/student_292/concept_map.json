@@ -8,55 +8,67 @@
     },
     {
       "id": "n2",
-      "label": "Two children at a distance.",
+      "label": "Two students using a string telephone",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "String telephone with red cups and blue string.",
+      "label": "Paper cups connected by taut string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Sound travel indicated by wavy lines.",
+      "label": "Sound waves represented by arrows",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "One cup upside down.",
+      "label": "Speech bubbles near students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Understanding of long-distance communication.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Labeling: cups, string",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Understanding of device connection using string telephone.",
+      "label": "Illustrates basic communication device accurately",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Understanding that sound travels through the string.",
+      "label": "Understanding of sound transmission through string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Misunderstanding about cup orientation.",
+      "label": "Concept of sound waves moving between cups",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Demonstrates communication through device",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n11",
+      "label": "Occasional forgetfulness in labeling",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n10",
-      "label": "Ensure both cups are correctly oriented for accuracy.",
+      "id": "n12",
+      "label": "Ensure consistent labeling for clarity",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -79,24 +91,32 @@
       "n5"
     ],
     [
-      "n2",
+      "n1",
       "n6"
     ],
     [
-      "n3",
+      "n2",
       "n7"
     ],
     [
-      "n4",
+      "n3",
       "n8"
     ],
     [
-      "n5",
+      "n4",
       "n9"
     ],
     [
-      "n9",
+      "n5",
       "n10"
+    ],
+    [
+      "n6",
+      "n11"
+    ],
+    [
+      "n11",
+      "n12"
     ]
   ]
 }

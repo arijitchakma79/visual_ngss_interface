@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw and label ice and water, but may only partially label the characteristics (e.g., draws ice cube and pool of water but doesn't label 'solid' or 'liquid').",
+    "The student can illustrate the process of ice melting into water, but may not clearly show the process through arrows or specific labeling (e.g., draws before and after, but doesn't indicate change direction).",
+    "The student can recognize that ice can refreeze, possibly showing ice again after melting, but lacks detailed explanation (e.g., draws water turning back into ice but doesn't label as 'freezing')."
+  ],
+  "CANNOT": [
+    "The student is likely unable to effectively represent or label the process of cooling, showing the characteristics of the material after cooling (e.g., may not show cooling process or revert back to ice clearly).",
+    "The student may not accurately depict which changes are reversible and why (e.g., may not show or confuse irreversible changes like a cooked egg).",
+    "The student might not include a comparison to irreversible changes, or if they do, there might be a misunderstanding (e.g., draws a cooked egg wrong and labeled as reversible).",
+    "The student is unlikely to connect the idea that some changes can be reversed and some cannot using additional examples (e.g., may not contrast melting chocolate with boiled eggs)."
+  ]
+}

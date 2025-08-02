@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw a simple fish with no distinct parts labeled (student may not know the specific parts).",
+    "Include some water around the fish, though without details (basic representation of a water habitat)."
+  ],
+  "CANNOT": [
+    "Correctly label parts of the fish's habitat, like plants or rocks (student doesn't know names or forgets to label).",
+    "Illustrate how the fish uses water to swim (student might not show any interaction between fish and water).",
+    "Include or label other plants or animals in the habitat (omits other organisms or shows incorrect animals, like land animals).",
+    "Illustrate how the fish's habitat provides necessary resources like air (omits air or doesn't connect resources to survival).",
+    "Show how the fish and environment work together as a system (no clear relationship shown)."
+  ]
+}

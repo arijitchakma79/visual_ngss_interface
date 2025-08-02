@@ -1,16 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student can draw two students, suggesting an attempt to show communication partners.",
-    "The student might include a disconnected line or shape that could be an attempt at representing a string."
+    "The student can draw a string telephone that depicts the basic setup with two students, cups, and a string, clearly showing the connection between them.",
+    "The student can illustrate the string stretched taut between the two cups, correctly showing how sound can travel through the string.",
+    "The student can include labels for key parts such as the 'cup', 'string', and 'sound waves', demonstrating an understanding of the communication process.",
+    "The student can show the two students holding the cups to their mouths and ears, illustrating the concept of sending and receiving sound."
   ],
   "CANNOT": [
-    "The student likely does not illustrate the string correctly connecting two clear devices like cups or cans (student doesn't fully grasp the concept of a string telephone).",
-    "The student might not understand or show the function of the string in sound communication (lack of understanding of sound transmission).",
-    "The student may not include any labels or notes indicating an understanding of communication or sound transmission (student doesn't know the principles involved).",
-    "Key components such as the cups/cans as parts of the device are probably missing or incorrectly depicted (student doesn't recognize necessary elements)."
+    "The student may struggle with showing how sound actually travels through the string, potentially lacking arrows or waves to represent this (minor gap in symbolic representation).",
+    "The student may not fully depict how and why the materials (like the cups and string) are specifically used for sound transmission (student might have partial understanding of material properties)."
   ]
 }

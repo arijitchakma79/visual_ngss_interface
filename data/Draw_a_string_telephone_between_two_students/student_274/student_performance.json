@@ -1,18 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can draw two students using a string telephone to communicate over a distance, with string connecting them.",
-    "The student can show the string telephone device, such as cups, cans, or another suitable object, connecting the two students.",
-    "The student can illustrate that sound travels along the string by drawing sound waves or lines to indicate communication.",
-    "The student can include materials in the drawing that demonstrate an attempt to solve the communication problem, like taut strings to indicate functionality.",
-    "The student can represent how the string telephone helps communication by showing both students visibly engaged (e.g., one talking, one listening)."
+    "The student can draw two students holding cups with a string connecting them (basic concept of a string telephone).",
+    "The student can label the cups and the string partially (may label only the cups or string inconsistently).",
+    "The student can attempt to show that sound travels through the string (e.g., drawing sound waves inconsistently)."
   ],
   "CANNOT": [
-    "The student may inconsistently label parts of the string telephone (e.g., only labels one side) or miss labeling altogether.",
-    "The student might not fully illustrate technological concepts, such as showing how the sound travels along the string, instead just focusing on the device itself (e.g., adds sound lines but no direction).",
-    "The student might not clearly show how the tools and materials are purposefully used to solve the communication problem, focusing more on the students and less on the functionality of the string."
+    "The student may not illustrate clearly how sound travels through the string (sound waves might be missing or misunderstood).",
+    "The student may not label all the key parts clearly (such as missing labels for 'string' or labeling errors).",
+    "The student may not effectively show that this device is a solution for communication over a distance (lacks explanation or context).",
+    "The student might not fully demonstrate how the device functions without modern technology (misunderstood purpose or incomplete depiction)."
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw and label a fish, showing its parts clearly, such as fins, tail, and gills.",
+    "The student can draw and label water as the habitat where fish live.",
+    "The student can illustrate and label important needs of the fish, such as food sources, using simple drawings like small insects or other fish.",
+    "The student can show the relationship between the fish and its habitat, demonstrating some understanding of how the environment supports the fish."
+  ],
+  "CANNOT": [
+    "The student may inconsistently label other elements in the fish's habitat, like plants and rocks, sometimes omitting them or labeling them incorrectly.",
+    "The student might not fully illustrate how all the different parts of the fish's habitat work together to support life, possibly missing subtler interactions."
+  ]
+}

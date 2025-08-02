@@ -1,0 +1,19 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw a basic shape that resembles a fish, possibly without details or accuracy. (basic representation)",
+    "Attempt to label the fish or parts of it with unclear or incorrect labels (e.g., 'fish' on the body).",
+    "Inconsistently label a few elements of the drawing, showing some attempt at understanding."
+  ],
+  "CANNOT": [
+    "Draw and accurately label the fish in its natural water habitat (e.g., forgets to include water or labels it incorrectly).",
+    "Label or represent other plants or animals accurately in the habitat (e.g., draws random animals not typical of the habitat).",
+    "Identify and label essential needs such as water, air, and food resources in the drawing (e.g., omits labels like 'water' or 'food').",
+    "Represent the relationship between the fish and the water it needs to survive (e.g., shows no connection between the fish and its environment).",
+    "Label the resources the habitat provides to the fish (e.g., misunderstands or omits resources like plants providing oxygen).",
+    "Identify and label how the fish and resources work together as part of a system (e.g., thinks the fish can survive without water)."
+  ]
+}

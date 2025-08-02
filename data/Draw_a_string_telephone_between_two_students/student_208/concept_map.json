@@ -8,45 +8,51 @@
     },
     {
       "id": "n2",
-      "label": "Two kids standing on each side",
+      "label": "Two stick figures",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Crisscrossing lines between kids",
+      "label": "Figures holding cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Random shapes (circles and squares)",
+      "label": "Cups connected by string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Kids represent students using a string telephone",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Arrows around string indicating sound waves",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Lines might indicate communication connection",
+      "label": "'Vibrations travel through the string' text",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Represents communication between two people",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n7",
-      "label": "Unclear representation of cups or string",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "id": "n8",
+      "label": "Illustrates sound traveling through string",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
-      "id": "n8",
-      "label": "Include clear elements like cups and strings",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "id": "n9",
+      "label": "Correct use of material (cups and string)",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     }
   ],
   "edges": [
@@ -63,20 +69,44 @@
       "n4"
     ],
     [
-      "n2",
+      "n1",
       "n5"
     ],
     [
-      "n3",
+      "n1",
       "n6"
     ],
     [
-      "n4",
+      "n2",
       "n7"
     ],
     [
-      "n7",
+      "n3",
+      "n7"
+    ],
+    [
+      "n4",
       "n8"
+    ],
+    [
+      "n5",
+      "n8"
+    ],
+    [
+      "n6",
+      "n8"
+    ],
+    [
+      "n4",
+      "n9"
+    ],
+    [
+      "n5",
+      "n9"
+    ],
+    [
+      "n6",
+      "n9"
     ]
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student might draw a simple shape to represent an ice cube, but with limited detail or accuracy.",
+    "The student could include an additional shape or scribble next to the ice cube that may be intended to represent melting, but not clearly water."
+  ],
+  "CANNOT": [
+    "The student is likely unable to accurately illustrate the process of ice melting into water (student may not understand the transformation).",
+    "The student probably does not show the process of water freezing back into ice (does not grasp the concept of reversibility).",
+    "The student might not depict any irreversible changes, such as an egg being cooked (student may not differentiate between reversible and irreversible changes).",
+    "There may be no indication that heating or cooling affects the material (student may not associate these actions with changes in state)."
+  ]
+}

@@ -1,15 +1,15 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can draw two people standing apart, attempting to depict communication. (The representation may be rudimentary, such as simple stick figures.)"
+    "The student can depict a basic string telephone with two students at either end, using some recognizable elements (e.g., cups and a line for the string).",
+    "The student can include basic notes or labels, such as labeling the cups and string, to indicate the components of the string telephone."
   ],
   "CANNOT": [
-    "The student is likely unable to connect the two people with a clear string telephone. (The concept of using a string to transmit sound may not be evident.)",
-    "The student may not include any clear materials or show how the string telephone operates. (Essential components like cups might be missing or unrecognizable.)",
-    "The student might not correctly illustrate the string as being tight or stretched. (The string could appear slack, which would not transmit sound well.)",
-    "The student may not demonstrate an understanding of how sound travels through the string to facilitate communication. (The use of sound as a communication tool is likely misunderstood or absent.)"
+    "The student may not correctly illustrate the concept of sound traveling along the string (e.g., they might not show how sound waves move or misunderstand how sound is transferred).",
+    "The student might omit or incorrectly depict features that demonstrate the ability to communicate using sound over a long distance (e.g., not stretching the string taut or failing to show it connects the two cups effectively).",
+    "The student may not clearly depict or label how the device solves the communication problem, such as omitting a label explaining sound transmission or adding incorrect explanations (e.g., thinking sound is carried through the air when the cup is tapped)."
   ]
 }

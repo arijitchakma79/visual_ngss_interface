@@ -1,0 +1,18 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can draw a plant that looks healthy and describe how it has water and light.",
+    "The student can draw a plant that looks unhealthy and describe how it does not have water.",
+    "The student can draw a sun or a light source to show that plants need light to grow.",
+    "The student can draw water or raindrops to show that plants need water to grow.",
+    "The student can label the parts of the plant in their drawing (such as roots, stem, and leaves).",
+    "The student can draw two plants side by side to compare one with water and light and one without."
+  ],
+  "CANNOT": [
+    "The student may have minor gaps in labeling, such as missing labels for smaller parts like veins on leaves *(incomplete labeling due to detail focus)*.",
+    "The student might inconsistently depict the condition of soil in the unhealthy plant as overly dry or cracked *(attempts to show detail but occasionally misses subtle differences)*."
+  ]
+}

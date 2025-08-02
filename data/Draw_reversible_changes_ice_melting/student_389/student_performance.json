@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may be able to draw ice without indicating its physical state clearly, possibly just as a shape or blob with minimal detail.",
+    "The student might attempt to show water and ice in separate drawings but without illustrating the process of change clearly (e.g., showing water and ice as separate, unrelated shapes)."
+  ],
+  "CANNOT": [
+    "The student is unlikely to correctly illustrate the process of ice melting into water, lacking the concept of heat as a catalyst in the process (e.g., no indication of heat being applied).",
+    "The student may not depict the cooling process to re-freeze water back into ice, or might not understand that it’s a reversible change (e.g., does not connect melting and freezing).",
+    "The student may not make visual comparisons or include causal relationships (e.g., the drawing shows random rather than sequential events).",
+    "The student could misunderstand the concept of states of matter and therefore show unrelated concepts or confuse terms (e.g., drawing different colors for ice and water thinking it illustrates the change)."
+  ]
+}

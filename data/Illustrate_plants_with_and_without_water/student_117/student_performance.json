@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may draw a simple shape intended to be a plant, but it lacks clear features such as leaves or stems.",
+    "The student might attempt to draw something symbolic for sun, like a circle, but the placement and role of the sun may not be clear."
+  ],
+  "CANNOT": [
+    "The student cannot clearly illustrate a healthy plant with bright green leaves and sturdy stems. The drawing may not distinguish between healthy and unhealthy plants (e.g., no color difference or incomplete features).",
+    "The student is unlikely to represent a wilted or dry plant with brown leaves. Differences between healthy and dry plants are not shown (e.g., leaves look the same regardless of condition).",
+    "The student cannot correctly include elements like water or their effects, such as rain or a watering can, to indicate plants needing water (e.g., water might be missing or drawn without context).",
+    "The student cannot effectively create a comparison in their drawing to show differences in plants with and without water (e.g., all plants may look similar or indistinguishable)."
+  ]
+}

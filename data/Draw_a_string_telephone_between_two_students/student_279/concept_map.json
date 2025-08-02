@@ -8,73 +8,67 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure students facing each other",
+      "label": "Student in blue shirt, Student in red shirt",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Each holding a red cup with an ear",
+      "label": "Green cups to each student's ear",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Connected by a blue string",
+      "label": "Straight, taut black line as string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "String is taut with wavy lines/arrows",
+      "label": "Arrow from first cup to second",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Students are about one meter apart",
+      "label": "Labels: 'sound travels through the string', 'tight string = clear sound'",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Displays communication using sound",
+      "label": "Represents using a device for communication over distance",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Uses provided materials: cups and string",
+      "label": "Understanding of importance of tight string for sound clarity",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Shows sound traveling through string",
+      "label": "Illustration of sound traveling between cups",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Understands purpose of string telephone",
+      "label": "Labels show basic concept of sound traveling through string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n11",
-      "label": "Highlights sound communication, not light",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n12",
-      "label": "Omission of labels",
+      "label": "Lacks explicit differentiation between sound and light communication",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n13",
-      "label": "Consider adding labels for clarity",
+      "id": "n12",
+      "label": "Explain difference between sound and light communication",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -105,12 +99,8 @@
       "n7"
     ],
     [
-      "n3",
-      "n8"
-    ],
-    [
       "n4",
-      "n9"
+      "n8"
     ],
     [
       "n5",
@@ -121,16 +111,12 @@
       "n10"
     ],
     [
-      "n5",
+      "n10",
       "n11"
     ],
     [
-      "n3",
+      "n11",
       "n12"
-    ],
-    [
-      "n12",
-      "n13"
     ]
   ]
 }

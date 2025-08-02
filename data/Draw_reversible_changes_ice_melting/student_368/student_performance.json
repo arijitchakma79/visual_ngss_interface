@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can draw a detailed picture showing ice in its solid form before heating, with clear labeling such as 'Solid Ice'.",
+    "The student can depict water after the ice melts due to heating, accurately labeling it as 'Liquid Water'.",
+    "The student can illustrate the process of cooling the melted water back into ice, labeling it as 'Refrozen Ice'.",
+    "The student consistently labels their drawings to clearly show the changes between solid and liquid states and indicate the reversibility of this process.",
+    "The student uses drawings to successfully support a claim that the cycle of ice melting and refreezing is a reversible change, demonstrating understanding in both illustrations and written explanation."
+  ],
+  "CANNOT": [
+    "The student may occasionally forget to include directional arrows to indicate temperature changes in their drawings (minor omission, typically corrected).",
+    "Some labels might be less neatly written or slightly misplaced, though generally still clear enough to convey understanding (minor oversight, not affecting overall comprehension)."
+  ]
+}

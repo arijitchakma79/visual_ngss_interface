@@ -8,49 +8,73 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure students with happy faces",
+      "label": "Two students with cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Two cups held by students",
+      "label": "Taut, black string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Loosely drawn string between cups",
+      "label": "Arrows indicating sound travel",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Lines and arrows showing sound",
+      "label": "Labels 'sound waves', 'cup', 'Sound travels through the string'",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Understanding of sound transmission using string telephone",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Cups are larger than proportionate",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Basic knowledge of communication tools",
+      "label": "Students understand device function",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Misunderstanding of string tautness",
+      "label": "Understanding: Sound travels through string",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n9",
+      "label": "Arrows demonstrate sound travel correctly",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Labels show partial understanding",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n9",
-      "label": "Feedback: Demonstrate the need for a tight string",
+      "id": "n11",
+      "label": "Cups are not proportionate, but concept correct",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n12",
+      "label": "Ensure correct labeling and proportion size",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n13",
+      "label": "Check understanding of proportionality in illustration",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -73,24 +97,36 @@
       "n5"
     ],
     [
+      "n1",
+      "n6"
+    ],
+    [
       "n2",
       "n7"
     ],
     [
       "n3",
-      "n7"
-    ],
-    [
-      "n4",
       "n8"
     ],
     [
-      "n5",
-      "n6"
+      "n4",
+      "n9"
     ],
     [
-      "n8",
-      "n9"
+      "n5",
+      "n10"
+    ],
+    [
+      "n6",
+      "n11"
+    ],
+    [
+      "n10",
+      "n12"
+    ],
+    [
+      "n11",
+      "n13"
     ]
   ]
 }

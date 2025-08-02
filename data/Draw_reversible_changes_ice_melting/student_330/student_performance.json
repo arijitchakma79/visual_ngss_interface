@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can illustrate ice in its solid form, showing basic features like shape and texture to indicate it is solid.",
+    "The student can show ice melting into water with basic shapes, possibly using wavy lines or droplets to suggest liquid.",
+    "The student attempts to depict the process with some labels such as 'ice' and 'water,' although labels might be incomplete or misspelled."
+  ],
+  "CANNOT": [
+    "The student may not accurately depict water freezing back into ice, potentially showing an unclear or incorrect sequence of steps *(student may not realize it's a cycle)*.",
+    "The student struggles to consistently use arrows to indicate heating and cooling, possibly leaving them out or placing them in wrong directions *(student may confuse which direction represents heating/cooling)*.",
+    "The student is unlikely to successfully depict an example of irreversible change such as cooking an egg, perhaps drawing it but not explaining why it cannot change back *(student does not grasp the concept of irreversible vs. reversible changes)*."
+  ]
+}

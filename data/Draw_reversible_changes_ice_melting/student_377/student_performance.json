@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may be able to depict ice and water as separate entities but without clear transformation stages (simple drawings of a block and a puddle).",
+    "The student might attempt to show the ice and the water as two distinct items."
+  ],
+  "CANNOT": [
+    "The student is unlikely to illustrate the characteristics of ice correctly as a solid or water as a liquid in detail (minimal differentiation between the two).",
+    "The student might not depict the process of melting or freezing correctly (missing or incorrect transition depiction).",
+    "The student may not label the drawings accurately to show the reversible nature of the changes (might label them but not relate to changes).",
+    "The student is unlikely to connect the drawings to the concept of reversible and irreversible changes (concept may be entirely absent or misunderstood)."
+  ]
+}

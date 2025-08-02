@@ -4,13 +4,13 @@
   "Level": 3,
   "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student can draw a device that allows two students to communicate over a distance, with two students holding one cup each.",
-    "The student can show the use of string as a tool to transmit sound between the two students, connecting the cups with a straight line.",
-    "The student can represent the sound traveling from one cup through the string to the other cup by drawing arrows indicating the direction of sound travel.",
-    "The student can label parts of the drawing to show how the string telephone works, including identifying the cups and string."
+    "The student can draw two students holding cups connected by a string, illustrating the concept of a string telephone.",
+    "The student can show sound waves or lines representing sound traveling through the string from one cup to the other.",
+    "The student can depict basic materials used in the construction, such as cups and string, with reasonable accuracy.",
+    "The student can include a label or small description indicating how the string helps transmit sound, showing understanding of communication."
   ],
   "CANNOT": [
-    "The student may inconsistently illustrate how the design solves the problem of communicating over a distance using sound, perhaps not fully showing sound waves or the mechanism of vibration *(student may think the string itself transmits the sound without needing to vibrate)*.",
-    "The student might not fully demonstrate how people communicate using sound when using the string telephone, such as omitting how speaking into the cup causes vibrations *(student may think placing ear to cup is enough to hear without understanding vibration)*."
+    "The student may not always accurately show the tightness of the string (may occasionally depict string as too loose or slack, which could misunderstand its role in effective communication).",
+    "The student might not fully articulate how simple devices like string telephones solve the problem of distance communication (e.g., lacks explicit labels or detailed explanation beyond basic depiction)."
   ]
 }

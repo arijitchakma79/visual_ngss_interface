@@ -8,55 +8,49 @@
     },
     {
       "id": "n2",
-      "label": "Girl holding tin cup to mouth",
+      "label": "Two children holding cups connected by a string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Boy holding tin cup",
+      "label": "Sound direction with lines or waves on string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Taut string connecting cups",
+      "label": "Children show communication expressions",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Arrows along string",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Understanding of communication over a distance",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Girl uses tin cup to send sound",
+      "label": "Knowing how a string telephone works",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Boy receives sound via tin cup",
+      "label": "Understanding of sound travel indication",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Sound travels through the string",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "Arrows show sound direction",
+      "label": "String tightness importance",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n10",
-      "label": "Include explanation of sound travel",
+      "id": "n9",
+      "label": "Ensure string is depicted as tight for sound travel",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -75,7 +69,7 @@
       "n4"
     ],
     [
-      "n1",
+      "n2",
       "n5"
     ],
     [
@@ -87,16 +81,12 @@
       "n7"
     ],
     [
-      "n4",
+      "n2",
       "n8"
     ],
     [
-      "n5",
+      "n8",
       "n9"
-    ],
-    [
-      "n9",
-      "n10"
     ]
   ]
 }

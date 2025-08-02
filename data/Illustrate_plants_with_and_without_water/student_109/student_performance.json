@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may be able to draw something that resembles a plant, but likely with minimal detail.",
+    "The student might show one plant that looks similar to another without much variation or distinction."
+  ],
+  "CANNOT": [
+    "The student is unlikely to draw a clear distinction between a healthy and an unhealthy plant due to water availability (misunderstands the role of water).",
+    "The student cannot accurately illustrate the difference between plants exposed to light and those kept in darkness (lack of understanding of light's impact).",
+    "The student is unable to demonstrate that plants need both water and light to live and grow (doesn't connect water/light with plant health).",
+    "The student does not use patterns or consistent details to indicate how water affects plant growth (lacks pattern recognition)."
+  ]
+}

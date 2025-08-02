@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can identify and draw a specific habitat, like a garden or pond, but might show only a few features recognizable (e.g., might draw a pond with water and a fish).",
+    "The student can draw and label a few plants found in the chosen habitat, but might not differentiate between them (e.g., labels all plants as 'plant').",
+    "The student can draw and label one or two animals found in the chosen habitat, recognizable to some extent (e.g., draws a fish or a bird)."
+  ],
+  "CANNOT": [
+    "The student might struggle to clearly identify and label a second habitat for comparison (e.g., might not distinguish it significantly or label it the same as the first habitat).",
+    "The student is likely unable to draw and label various distinct plants and animals in the second habitat, with confusion or repeated elements from the first habitat (e.g., repeats fish in both habitats without any distinction).",
+    "The student may not successfully compare the biodiversity between the two habitats, missing differences or creating inaccuracies (e.g., does not show how one habitat has more plants than the other).",
+    "The student is unlikely to show patterns or adaptations of plants and animals to their habitats, potentially misunderstanding the concept of adaptation (e.g., does not demonstrate how a fish is suited to pond life)."
+  ]
+}

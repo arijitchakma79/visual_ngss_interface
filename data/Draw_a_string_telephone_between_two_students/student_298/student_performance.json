@@ -1,17 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements).",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can accurately draw two people trying to communicate over a long distance.",
-    "The student can clearly show a string telephone with cans at each end, correctly illustrating how it works using sound to send messages.",
-    "The student can include only the provided materials, such as cans and string, in their drawing of the string telephone.",
-    "The student can effectively illustrate how the sound travels through the string to send messages, possibly with arrows indicating sound direction.",
-    "The student can depict how the string telephone solves the problem of communicating over a distance, likely showing the distance clearly.",
-    "The student can model why this simple device is useful for communication over short or long distances, possibly by including exemplary labels or notes."
+    "The student can draw a basic string telephone setup, showing cups connected by a string.",
+    "The student can attempt to illustrate sound traveling through the string, possibly represented by wavy lines or arrows.",
+    "The student can draw two students holding cups at either end of the string."
   ],
   "CANNOT": [
-    "There may be minor gaps, such as incomplete labeling of materials or an inconsistent indication of sound direction with arrows, but these do not detract from the overall understanding."
+    "The student may not clearly indicate how sound travels through the string, possibly omitting directional arrows or incorrectly labeling sound movement (e.g., showing sound moving through the air instead of the string).",
+    "The student may not fully demonstrate how the device solves the problem of long-distance communication (e.g., students are standing too close together or lacking a label such as 'sound' near the string).",
+    "The student might not label all the parts consistently, such as omitting labels for 'cups' or 'string' or doing so inconsistently.",
+    "The student might not effectively show the importance of the materials used, such as why cups and string are necessary (e.g., drawing improper materials or sizes)."
   ]
 }

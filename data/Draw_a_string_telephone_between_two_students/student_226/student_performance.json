@@ -4,14 +4,13 @@
   "Level": 2,
   "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can draw two people, each holding a cup connected by a string, attempting to communicate.",
-    "The student can include the basic materials: cups and string, in their drawing, though they may be simply depicted.",
-    "The student can make an attempt to show that the string is the medium through which sound travels, perhaps by adding simple lines or waves."
+    "The student can draw two students standing at a distance with an object resembling a cup or can near their mouths or ears.",
+    "The student can attempt to illustrate a string connecting the two cans or cups, showing basic understanding of a string telephone structure.",
+    "The student can include some representation of sound movement, such as basic lines or arrows emanating from one can (although it may not be entirely correct)."
   ],
   "CANNOT": [
-    "The student may not clearly show how the string needs to be taut for effective communication. The string might be drawn slack or curved (student misunderstands the importance of tension).",
-    "The student is unlikely to demonstrate convincingly how sound travels through the string, possibly omitting sound waves or symbols altogether (student does not represent sound transmission).",
-    "The student might not link the idea to modern technology effectively, potentially leaving it out or drawing unrelated devices (student doesn’t connect the concept to technology).",
-    "The student might omit or incorrectly illustrate aspects of sound communication, such as vibrations or directionality (student has a partial understanding of sound principles)."
+    "The student is likely unable to clearly illustrate how sound travels through the string, possibly omitting appropriate directional cues or arrows (student misunderstands sound propagation).",
+    "The student may depict incorrect or inconsistent materials that don't align perfectly with the concept of a string telephone, such as using incorrect objects instead of cans or cups (student lacks clarity on the materials required).",
+    "The student does not clearly show how the string telephone actually helps in communication over distance, possibly omitting or misplacing key elements like the mouthpiece and earpiece in context (student likely confused about function)."
   ]
 }

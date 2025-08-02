@@ -1,17 +1,18 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student is likely able to show two students holding cups with a string attached between the cups, indicating a basic setup of a string telephone.",
-    "The student might depict that the string needs to be somewhat straight, suggesting some understanding that tension is important (may not be completely taut).",
-    "The student can label the cups and string, showing an understanding of the materials used in the telephone (though labeling might be inconsistent)."
+    "The student can illustrate a detailed scenario where two students are positioned at a distance requiring long-distance communication.",
+    "The student can accurately depict a string telephone device, clearly showing cups connected by a taut string.",
+    "The student can visually represent how sound travels through the string using directional arrows or labels, indicating the transfer of sound.",
+    "The student can show the entire setup clearly, with cups held to the students' ears and mouths, demonstrating the communication process.",
+    "The student can include labels and annotations explaining how the string carries sound more effectively when it's taut and straight.",
+    "The student can portray the scenario in a way that highlights the practical application and the functionality of the device in overcoming communication barriers."
   ],
   "CANNOT": [
-    "The student might not clearly illustrate how sound travels along the string (e.g., no sound waves indicated or incorrect depiction).",
-    "The importance of a taut string for communication may be misunderstood, as the string could appear slack or poorly illustrated as tight (student might think tension doesn't matter).",
-    "The student might not accurately explain how the device works to solve the problem of communicating over a distance (e.g., no labels or incorrect labels indicating information flow).",
-    "They may not show or label arrows or lines to indicate the direction of the sound waves along the string."
+    "The student may occasionally omit minor details, such as not consistently showing facial expressions or body language that might enhance understanding of the communication (though this is not essential to understanding the device's function).",
+    "The student might forget to label every part of the device, but this does not impact the overall integrity of the representation (e.g., forgetting to label one of the strings or the base of a cup)."
   ]
 }

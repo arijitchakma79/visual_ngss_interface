@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can draw a plant that is healthy and growing with water and light, showing strong colors, upright stems, and multiple leaves.",
+    "The student can draw a plant that is wilted or not growing because it does not have water, depicting drooping leaves and pale colors.",
+    "The student can illustrate the difference between plants with water and without water, clearly showing two distinct plant conditions side by side.",
+    "The student can show that plants cannot live or grow without water, perhaps including details like a water droplet symbol, sun, and cross-out signs for wilted plants."
+  ],
+  "CANNOT": [
+    "The student may sometimes omit minor elements like the label for sunlight (occasionally forgets minor details).",
+    "The student might not always perfectly scale the size of the healthy plant compared to the wilted one but effectively conveys the concept of growth."
+  ]
+}

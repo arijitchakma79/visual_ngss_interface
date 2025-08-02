@@ -8,67 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure people",
+      "label": "Two students with simple features",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Oval or rectangle shapes next to people",
+      "label": "Students are each holding a cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "String vaguely connects shapes",
+      "label": "Simple string connecting the cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "No arrows or labels",
+      "label": "Bright, colorful clothing",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Drawing indicates a problem of communication",
+      "label": "Basic depiction of communication device",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Shapes intended to be cups",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "No indication of sound traveling",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "String does not connect effectively",
+      "label": "Lack of detail showing sound travel",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "Lack of sound and movement depiction",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Demonstrates use of cups and string",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Add accurate connection with string directly to cups",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
-      "id": "n11",
-      "label": "Use arrows to represent sound travel",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
-      "id": "n12",
-      "label": "Label parts like cups and string",
+      "label": "Add arrows or waves to show sound travel",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -96,6 +84,10 @@
     ],
     [
       "n3",
+      "n9"
+    ],
+    [
+      "n4",
       "n7"
     ],
     [
@@ -103,20 +95,12 @@
       "n8"
     ],
     [
-      "n5",
-      "n9"
+      "n7",
+      "n10"
     ],
     [
       "n8",
       "n10"
-    ],
-    [
-      "n9",
-      "n11"
-    ],
-    [
-      "n5",
-      "n12"
     ]
   ]
 }

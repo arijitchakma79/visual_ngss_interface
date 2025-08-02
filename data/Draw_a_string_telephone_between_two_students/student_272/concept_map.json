@@ -8,69 +8,87 @@
     },
     {
       "id": "n2",
-      "label": "Two cartoon-style students facing each other",
+      "label": "Two children standing apart",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Student smiling with cup at mouth, other listening with cup at ear",
+      "label": "Bright colors and sunny day",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "String connecting two cups",
+      "label": "Colorful paper cups at ears and mouths",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Wavy lines/arrows between cups",
+      "label": "String between the cups is tight and straight",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Understanding physical setup and basic communication",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Direction arrows along the string",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Indicates effective communication through expressions",
+      "label": "Labels: cups, string, sound waves",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n8",
+      "label": "Caption: 'Calling for Help' or 'Sharing a Message'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n9",
+      "label": "Understanding of distance communication",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n8",
-      "label": "Illustration of sound waves is disproportionate",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n9",
-      "label": "Improve understanding of sound wave representation",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
       "id": "n10",
-      "label": "Labels materials as 'cup' and 'string'",
+      "label": "Understanding the context of the environment",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n11",
-      "label": "Doesn't contextualize in real-world scenarios",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Knowledge of components involved in string telephone",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n12",
-      "label": "Discuss real-world applications of sound travel and communication",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Understanding importance of string tension for sound travel",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n13",
+      "label": "Correct depiction of sound wave direction",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n14",
+      "label": "Correct labeling of device features",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n15",
+      "label": "Understanding of communication examples over distances",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     }
   ],
   "edges": [
@@ -91,32 +109,44 @@
       "n5"
     ],
     [
-      "n2",
+      "n1",
       "n6"
     ],
     [
-      "n3",
+      "n1",
       "n7"
     ],
     [
-      "n5",
+      "n1",
       "n8"
     ],
     [
-      "n8",
+      "n2",
       "n9"
     ],
     [
-      "n4",
+      "n3",
       "n10"
     ],
     [
-      "n1",
+      "n4",
       "n11"
     ],
     [
-      "n11",
+      "n5",
       "n12"
+    ],
+    [
+      "n6",
+      "n13"
+    ],
+    [
+      "n7",
+      "n14"
+    ],
+    [
+      "n8",
+      "n15"
     ]
   ]
 }

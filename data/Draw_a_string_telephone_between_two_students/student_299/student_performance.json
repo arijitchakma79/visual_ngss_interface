@@ -1,17 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "Illustrate two students using a string telephone to communicate, showing them holding cups connected by a string.",
-    "Accurately depict the string connecting two cups, clearly showing the path for sound travel.",
-    "Incorporate elements that show the device being used functionally for sending or receiving messages over a distance.",
-    "Represent how the string telephone uses sound to communicate information with thoughtful detail, perhaps showing sound waves or similar.",
-    "Highlight the importance of using materials like cups and string, effectively connecting the science and technology for communication.",
-    "Include annotations or labels with explanations of how the string telephone works, based on scientific concepts of sound travel, such as vibration and tension in the string."
+    "The student can illustrate a simple string telephone with two cups connected by a string.",
+    "The student can depict that sound travels along the string from one cup to the other.",
+    "The student can show both students holding the string taut to illustrate that it needs to be stretched to work properly.",
+    "The student may include arrows or lines to indicate sound traveling along the string."
   ],
   "CANNOT": [
-    "There may be minor gaps, such as slightly incomplete labeling or missing annotations on one minor aspect, but these do not affect the overall understanding or accuracy. (e.g., not labeling the string as 'vibrating' but showing it correctly)"
+    "The student might omit labeling the string as 'tight' or may not clearly show its function in sound transmission.",
+    "The student may not emphasize how the device solves the problem of communication over a distance (e.g., might not show or explain that the cups amplify sound).",
+    "The student might not depict minor details, such as vibrations in the string (may indicate sound but not how it's transmitted)."
   ]
 }

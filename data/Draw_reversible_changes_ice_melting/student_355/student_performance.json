@@ -1,0 +1,15 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw the material before heating, clearly showing its initial state as solid ice.",
+    "The student can draw the material after heating, illustrating ice becoming liquid water.",
+    "The student can show the process of liquid water turning back into ice through cooling."
+  ],
+  "CANNOT": [
+    "The student may not clearly indicate which changes are reversible and which are not through labeling or text annotations.",
+    "The student might inconsistently use arrows or labels to show the direction of the changes (e.g., may forget to label one stage or use arrows inconsistently)."
+  ]
+}

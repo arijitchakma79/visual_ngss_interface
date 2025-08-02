@@ -4,14 +4,13 @@
   "Level": 1,
   "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "Draw two people holding something that might resemble cups (there is a general attempt to depict the concept).",
-    "Show a line connecting the two people (attempt to show connection but likely doesn't illustrate function)."
+    "The student can draw two students holding objects that resemble cups.",
+    "The student can draw a line between the two cups to represent a connection, but without understanding its purpose."
   ],
   "CANNOT": [
-    "Illustrate the use of sound traveling through the string (no depiction or understanding of sound waves).",
-    "Label parts of the string telephone correctly, such as cups and string (likely unlabeled or incorrectly labeled).",
-    "Describe or caption how the string carries sound (lacking explanation or made up reasoning, e.g., *'magic words'*).",
-    "Explain how the materials (cups and string) work together to transmit sound (misunderstands purpose or thinks string is just for holding the cups together).",
-    "Reflect or write about how the string telephone functions effectively (no explanation or understanding of sound waves or vibration)."
+    "The student cannot effectively illustrate how sound travels through the string (student lacks understanding of sound travel).",
+    "The student cannot consistently show one student speaking and the other listening using the device (may depict both doing unrelated activities).",
+    "The student cannot include accurate labels or arrows to indicate the function of the string telephone (may omit or use incorrect labels/arrows).",
+    "The student cannot convey the idea that the device is used to communicate over a distance (may think the drawing just needs cups and a line)."
   ]
 }

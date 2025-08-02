@@ -8,61 +8,43 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figures facing each other",
+      "label": "Colorful drawing of two students each holding a paper cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Stick figures trying to communicate",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Slightly slack string connecting cups",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Figures holding large, crudely drawn cups",
+      "label": "Arrows demonstrating sound movement, labeled 'sound'",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Cups as part of a string telephone",
+      "label": "Understanding of using cups and string to communicate",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Zigzagging, loose line representing a string",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Misunderstanding: The string should be tight for best sound transmission.",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n7",
-      "label": "String not tight, misunderstanding of sound travel",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Correct labeling shows sound travels via string",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Illustrate tightened string for sound travel",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
-      "id": "n9",
-      "label": "Background plain, no context",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
-    },
-    {
-      "id": "n10",
-      "label": "Lack of contextual elements",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n11",
-      "label": "Include environment or scene to enhance context",
+      "label": "Suggest tightening the string to improve sound clarity.",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -74,39 +56,27 @@
     ],
     [
       "n1",
-      "n4"
-    ],
-    [
-      "n1",
-      "n6"
-    ],
-    [
-      "n1",
-      "n9"
-    ],
-    [
-      "n2",
       "n3"
     ],
     [
-      "n4",
+      "n1",
+      "n4"
+    ],
+    [
+      "n2",
       "n5"
     ],
     [
-      "n6",
+      "n3",
+      "n6"
+    ],
+    [
+      "n4",
       "n7"
     ],
     [
-      "n7",
+      "n6",
       "n8"
-    ],
-    [
-      "n9",
-      "n10"
-    ],
-    [
-      "n10",
-      "n11"
     ]
   ]
 }

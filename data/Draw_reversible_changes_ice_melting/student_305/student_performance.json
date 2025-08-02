@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw a solid block that might represent ice, although it may not be explicitly recognizable as ice (e.g., simple square or circle labeled incorrectly).",
+    "Show arrows or symbols that might suggest change, but without clear indication of heating or cooling."
+  ],
+  "CANNOT": [
+    "Draw the material after it has been heated with accurate details or recognizable water (e.g., no clear representation of liquid water; may still show solid).",
+    "Illustrate melting or refreezing processes (e.g., melted ice becoming water or water freezing back into ice is not evident or shown incorrectly).",
+    "Include accurate notes or labels in the drawing to explain if the change is reversible (e.g., labels might be missing, incorrect, or contradict the drawing such as labeling liquid water as ice).",
+    "Distinguish between reversible and irreversible changes clearly (e.g., might think cooking an egg can be reversed by placing it in the freezer)."
+  ]
+}

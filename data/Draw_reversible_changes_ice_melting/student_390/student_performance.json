@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw the original state of the material as a solid block of ice, but it might be a simple representation without much detail.",
+    "The student can illustrate ice melting into water when heated, though details like puddle shapes might be simplistic or missing."
+  ],
+  "CANNOT": [
+    "The student is likely unable to accurately represent the water turning back into solid ice after cooling with clarity (may draw abstract shapes instead of clear ice forms).",
+    "The student might not show the complete or correct sequence of changes, potentially showing steps out of order (e.g., ice directly turning into water vapor without tracing the initial melting).",
+    "The student may inconsistently label parts of the drawing or omit explanations for the changes, lacking detailed observation (labels might be missing or incorrectly assigned to stages).",
+    "The student may draw an example of irreversible change, such as a cooked egg, but confuse it as reversible or render it in a way that doesn't clearly show irreversibility (e.g., showing it reverting to raw egg form)."
+  ]
+}

@@ -1,92 +1,116 @@
 {
   "nodes": [
     {
-      "id": "n1",
+      "id": "n0",
       "label": "Draw a string telephone between two students.",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
+      "id": "n1",
+      "label": "Two children standing apart",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
       "id": "n2",
-      "label": "Two stick figure students",
+      "label": "Each holding a cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Wavy line representing a string",
+      "label": "Taut string connecting cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Blank background",
+      "label": "Boy with brown hair in blue t-shirt and shorts",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Student can depict two students for communication",
+      "label": "Girl with pigtails in red dress",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Representation of a communication device using sound",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n6",
-      "label": "Misunderstanding of string purpose",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
       "id": "n7",
-      "label": "Lacks depiction of sound travel or benefits",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Understanding of distance communication via string",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Connect string to students' hands or ears",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Effective use of materials to solve communication problem",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Illustrate sound waves or benefits of communication",
+      "label": "Effort in vibrant, clear depiction but lacks labeling",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n10",
+      "label": "Add simple labels to enhance understanding of the drawing.",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
   ],
   "edges": [
     [
-      "n1",
+      "n0",
+      "n1"
+    ],
+    [
+      "n0",
       "n2"
     ],
     [
-      "n1",
+      "n0",
       "n3"
     ],
     [
-      "n1",
+      "n0",
       "n4"
     ],
     [
-      "n2",
+      "n0",
       "n5"
     ],
     [
-      "n3",
-      "n6"
-    ],
-    [
-      "n4",
+      "n1",
       "n7"
     ],
     [
-      "n6",
+      "n2",
+      "n6"
+    ],
+    [
+      "n3",
       "n8"
     ],
     [
-      "n7",
+      "n4",
       "n9"
+    ],
+    [
+      "n5",
+      "n9"
+    ],
+    [
+      "n9",
+      "n10"
     ]
   ]
 }

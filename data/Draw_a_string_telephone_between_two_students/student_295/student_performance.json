@@ -1,18 +1,19 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student can accurately draw two students trying to communicate over a long distance.",
-    "The student can illustrate a string telephone device that connects both students with cups and string.",
-    "The student can show clearly how sound travels along the string to enable communication.",
-    "The student can depict only the materials provided as part of the design, like cups and string, with precision.",
-    "The student can include features that allow the device to send or receive sound over a distance, like tautness of the string.",
-    "The student can label key parts of the device that use sound for communication, such as the ends of the cups and string.",
-    "The student can illustrate how this device helps people communicate over long distances effectively."
+    "The student can draw a simple device that uses a string and cups to communicate sound over a distance, with both cups clearly depicted.",
+    "The student can show a string connecting the two cups, illustrating the connection necessary for communication.",
+    "The student can label the cups and string, indicating an understanding of the key parts of the device.",
+    "The student can include a basic representation of sound traveling from one cup to the other, such as wavy lines or arrows.",
+    "The student can demonstrate the functionality of the device for communication by showing one student speaking and the other listening."
   ],
   "CANNOT": [
-    "May occasionally omit labeling one minor part of the device (e.g., a detailed note about cup use) but generally understands its purpose."
+    "The student might not consistently explain how sound specifically travels through the string (e.g., lacks directionality of sound waves).",
+    "The student may not illustrate how this device acts as an example of technology that makes life easier in a detailed or explicit manner.",
+    "The student might omit minor labels for additional clarity (e.g., not labeling both ends of the string).",
+    "The representation of sound travel might be oversimplified or lack detail (e.g., no indication of vibration)."
   ]
 }

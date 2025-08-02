@@ -1,0 +1,14 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student can draw simplistic shapes that might represent objects, but with minimal or no indication of the state of the material (e.g., a circle that could be interpreted as ice but lacks detail)."
+  ],
+  "CANNOT": [
+    "The student is unable to accurately depict ice melting into water, possibly showing unrelated transformations or forgetting to depict the process entirely *(student doesn't know or misunderstands the melting process)*.",
+    "The student does not demonstrate the concept of reversibility, failing to show water freezing back into ice or might depict an unrelated change *(student misunderstands concept of reversible changes)*.",
+    "The drawing lacks any representation of an irreversible change (e.g., cooking an egg), or misrepresents reversible changes as irreversible *(student cannot distinguish between reversible and irreversible changes)*."
+  ]
+}

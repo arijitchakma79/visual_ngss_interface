@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "Draw a basic representation of a plant with water that looks generally healthier than a plant without water.",
+    "Depict simple differences in appearance, such as a greener color for a watered plant and a droopier appearance for a non-watered plant (though not detailed)."
+  ],
+  "CANNOT": [
+    "Consistently illustrate accurate details of a plant appearing fully healthy and growing due to adequate water (may lack distinct or clear 'growth' features).",
+    "Clearly show an unhealthy, wilted appearance in a non-watered plant (may include some wilted features but lack consistency or detail).",
+    "Include the natural environment accurately, such as identifying sunlight or shade patterns related to plant growth (may overlook or inconsistently depict these elements).",
+    "Create a detailed side-by-side comparison highlighting all differences between a watered and non-watered plant (might not clearly differentiate or provide consistent contrast)."
+  ]
+}

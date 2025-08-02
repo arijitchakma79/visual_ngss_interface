@@ -1,16 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown).",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can draw two people with a simple connection between them, such as a line representing a string (basic concept of connection).",
-    "The student can attempt to show a string linking two paper cups or similar objects, attempting to illustrate the basic setup of a string telephone.",
-    "The student can show some attempt at a design indicating that the device might help in communication over a distance (e.g., two people standing far apart)."
+    "The student may draw two students without any connection between them, suggesting they might understand drawing people but not the connection needed for the communication.",
+    "The student might draw items that vaguely resemble cups or units, attempting to show tools but not understanding their function."
   ],
   "CANNOT": [
-    "The student is likely unable to clearly show how sound travels through the string due to a lack of understanding of sound waves *(student might only draw a straight line without further detail)*.",
-    "The student may not depict specific design features accurately, such as tension in the string or cups facing the right directions *(cups might face incorrectly without showing sound reception)*.",
-    "The student is likely to misunderstand how the string telephone meets the needs of distant communication; they may not illustrate this benefit clearly *(distant communication not effectively represented)*."
+    "The student is unlikely to correctly illustrate how the string connects the two cups, often omitting the string or incorrectly drawing it as a loose, detachable element (student doesn’t grasp its role in sound transmission).",
+    "The student does not demonstrate how sound is used for communication through the string (student might not know sound needs a medium).",
+    "The student cannot highlight the use of provided materials accurately, possibly showing random objects unrelated to a string telephone setup.",
+    "The student doesn't show understanding of technology's importance in connecting people over distances, likely missing this concept entirely or showing unrelated ideas (student doesn’t connect the task to broader concepts)."
   ]
 }

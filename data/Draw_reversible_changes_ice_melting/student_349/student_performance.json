@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may attempt to draw a block of ice, representing the solid state, but with very basic features (e.g., a simple square or rectangle)."
+  ],
+  "CANNOT": [
+    "The student is likely unable to illustrate the process of heating causing the ice to melt into water (student does not depict the transition or uses unrelated imagery).",
+    "The student cannot demonstrate how melted water can freeze back into ice, showing the reversible change (student may not understand the concept of reversibility).",
+    "The student cannot clearly depict the characteristics of the material in both solid and liquid states (drawings of water and ice might be the same or indistinguishable).",
+    "The student is unlikely to include any evidence in their drawing of how cooling results in the formation of solid ice (may not show freezing at all).",
+    "The student cannot clearly label the drawings to show the stages of change and reversal, connecting their drawing to cause and effect (labels may be absent or incorrect)."
+  ]
+}

@@ -4,14 +4,13 @@
   "Level": 2,
   "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can illustrate two students with a basic depiction of a string telephone setup, including students holding cups connected by a string.",
-    "The student can partially show how sound travels through the string, possibly with lines or arrows, but without full clarity on sound direction.",
-    "The student can depict materials like cups and string, recognizing their use in the setup."
+    "The student can draw two students holding cups connected by a string, indicating some understanding of the string telephone setup.",
+    "The student can show cups and string as materials used in the string telephone, albeit with potentially simplified or inaccurate dimensions.",
+    "The student may attempt to depict sound waves traveling along the string, though the portrayal might be unclear or incorrect."
   ],
   "CANNOT": [
-    "The student is likely unable to properly label how sound travels from one student to the other through the string, potentially missing directional arrows or sound waves (student doesn’t fully grasp sound transmission).",
-    "The student may misunderstand the importance of string tautness for communication, either not showing it at all or drawing the string with slack (student doesn’t know tension is required).",
-    "The student might not successfully demonstrate how the string telephone solves the problem of communicating over distances without modern technology (student lacks context of communication methods).",
-    "The student may not clearly show that the string telephone is an example of using sound to send and receive information, perhaps omitting sound-related elements or mixing-up concepts."
+    "The student may not clearly represent how sound travels along the string, potentially showing sound waves moving through the air instead *(misunderstands sound transmission mechanism)*.",
+    "The student might not illustrate or misunderstand how the design helps communicate over a long distance, such as showing students too close together *(doesn’t grasp the purpose of the design)*.",
+    "The drawing might not highlight the importance of sound, perhaps failing to identify it as a critical feature for communication *(overlooks sound as informational transfer medium)*."
   ]
 }

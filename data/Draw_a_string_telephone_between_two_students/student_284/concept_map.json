@@ -8,67 +8,67 @@
     },
     {
       "id": "n2",
-      "label": "Colorful and detailed drawing",
+      "label": "Two stick-figure students using a string telephone",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Two children using string telephone",
+      "label": "A string connecting two cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Plastic cup and Tin cup, connected by string",
+      "label": "Arrows and wavy lines along the string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Labels: plastic cup, tin cup, string, sound waves",
+      "label": "Labels: 'string' and 'cup'",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Annotations describe communication and its importance",
+      "label": "Speech bubbles with message 'hello'",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Shows string telephone as a communication device",
+      "label": "Students can communicate over a distance using string telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Depicts sound waves from one cup to another",
+      "label": "Sound travels along the string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Sound wave directionally inaccurate",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Sound vibrations shown correctly",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Minor inaccuracies in wave patterns",
+      "label": "Labels partially present",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n11",
-      "label": "Offer guidance on sound wave directionality",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Understanding of device usage for communication",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n12",
-      "label": "Explain proper wave pattern in medium",
+      "label": "Include labels for both cups for clarity",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -100,18 +100,10 @@
     ],
     [
       "n3",
-      "n7"
-    ],
-    [
-      "n4",
-      "n7"
-    ],
-    [
-      "n5",
       "n8"
     ],
     [
-      "n5",
+      "n4",
       "n9"
     ],
     [
@@ -119,7 +111,7 @@
       "n10"
     ],
     [
-      "n9",
+      "n6",
       "n11"
     ],
     [

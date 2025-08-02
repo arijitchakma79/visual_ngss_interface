@@ -1,0 +1,20 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can illustrate the material (e.g., ice) before heating or cooling with clear labeling or recognizable symbols.",
+    "The student can show the changes in the material after it is heated (e.g., ice becomes liquid water), accurately depicting the state change.",
+    "The student can depict the change in the material after cooling (e.g., water becomes ice again), representing this process visually.",
+    "The student can indicate which changes are reversible, particularly the melting and refreezing of ice, though they may have simpler labels for these processes.",
+    "The student can connect in their drawing how heating and cooling cause changes and may show some patterns of state changes, though possibly with occasional missing details.",
+    "The student can represent with evidence in their drawing that connects heating and cooling to the observed effects, generally capturing the cause-effect relationship."
+  ],
+  "CANNOT": [
+    "The student may inconsistently show all label details, sometimes omitting finer annotations or symbols identifying the start and end states clearly.",
+    "The student may occasionally misunderstand or omit labeling of non-reversible changes (e.g., offerings a correct example often, but forgetting or misidentifying them occasionally as reversible).",
+    "The student might not always perfectly connect patterns over several cycles of heating and cooling, showing the process once accurately but omitting repetition or missing subtle patterns.",
+    "The student may show partial evidence in their effects connection, occasionally failing to fully explore the cause in instances where cause-effect should be expanded (e.g., assuming ice melts only due to external heat sources without considering ambient temperature)."
+  ]
+}

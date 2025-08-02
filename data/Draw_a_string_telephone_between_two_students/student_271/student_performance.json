@@ -4,16 +4,15 @@
   "Level": 3,
   "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student can illustrate a scenario where two people are trying to communicate over a distance with noticeable separation between them.",
-    "The student can accurately draw a string telephone, with cups at both ends and a connecting string.",
-    "The student can depict arrows or lines to show how sound travels from one cup to the other along the string.",
-    "The student can effectively show that the device can relay information from one person to another.",
-    "The student can represent the materials, such as string and cups, in the drawing.",
-    "The student can provide a basic explanation alongside the drawing about how the string telephone resolves the communication problem using sound."
+    "The student can illustrate a problem where two people need to communicate over a distance, showing two distinct students at a distance from each other.",
+    "The student can draw a basic string telephone device using simple shapes like cups and strings, with a reasonable connection depicted between the two students.",
+    "The student can show the string being used to send and receive sound information, likely with arrows indicating the direction of sound travel.",
+    "The student can include some labels or features that describe the use of sound, such as labels on the cups or the string indicating 'sound travels here' or 'speaking side'.",
+    "The student can depict basic materials like paper cups and string in the drawing.",
+    "The student can provide a simple explanation, either written or in the drawing itself, about how the device helps solve the problem of communication over distance."
   ],
   "CANNOT": [
-    "The student may have minor issues with the clarity or precision of arrows or lines indicating sound travel (e.g., arrows might not be perfectly straight or consistent).",
-    "The student might not label all parts of the drawing, such as failing to label the string or cups (student assumes it's self-explanatory).",
-    "The student might omit details in the explanation, such as specific acoustic properties involved (e.g., vibrations in the string), due to focusing mostly on the practical operation."
+    "The student may include incomplete labels, possibly missing key explanations like how sound waves work *(minor oversight in labeling)*.",
+    "The student might not fully illustrate how the string is taut for effective sound transmission, leading to a less clear understanding of sound mechanics *(still showed, but misunderstand the importance of string tension)*."
   ]
 }

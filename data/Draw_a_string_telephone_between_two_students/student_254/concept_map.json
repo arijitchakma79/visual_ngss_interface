@@ -8,73 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figure students",
+      "label": "Two stick figures standing apart",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Red cups held by students",
+      "label": "Simple string telephone with cups and string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Blue string connecting cups",
+      "label": "String is slightly saggy",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Arrows along string indicate sound travel",
+      "label": "Lines/arrows suggesting sound",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Simple, light-colored background",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "People use string telephone to communicate",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Communicating over distance",
+      "label": "Cups and string labeled correctly",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Using cups as part of a device",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "String should be tight for sound transmission",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "String as sound travel path",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n10",
       "label": "Sound travels through string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n11",
-      "label": "Device allows communication",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n12",
-      "label": "Sag in string misunderstands tautness",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n13",
-      "label": "String should be taught for sound to travel effectively.",
+      "id": "n10",
+      "label": "Keep string tight for better communication",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -97,36 +79,24 @@
       "n5"
     ],
     [
-      "n1",
+      "n2",
       "n6"
     ],
     [
-      "n2",
+      "n3",
       "n7"
     ],
     [
-      "n3",
+      "n4",
       "n8"
     ],
     [
-      "n4",
+      "n5",
       "n9"
     ],
     [
-      "n5",
+      "n8",
       "n10"
-    ],
-    [
-      "n6",
-      "n11"
-    ],
-    [
-      "n4",
-      "n12"
-    ],
-    [
-      "n12",
-      "n13"
     ]
   ]
 }

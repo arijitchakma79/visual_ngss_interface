@@ -8,61 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Two simple stick figures representing two students",
+      "label": "Two kids holding paper cups.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Slightly droopy line for the string",
+      "label": "Loosely drawn string.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Basic representation of a cup at each end",
+      "label": "Standing a few feet apart.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Partial and unclear labels near the cups and string",
+      "label": "Outside on a sunny day.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Represents two students connecting to communicate",
+      "label": "Holding a cup to mouth or ear.",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "String is shown but not taut, affecting sound transmission",
+      "label": "String is slack.",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Cups represent devices needed for sound transmission",
+      "label": "Sunny background.",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Labels present but unclear; no indication of sound travel",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Friendly expressions.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Make the string taut to show correct sound transmission",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
-      "id": "n11",
-      "label": "Clarify labels and show sound waves traveling through the string",
+      "label": "Hold string taut to transmit sound waves effectively.",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -93,20 +87,16 @@
       "n7"
     ],
     [
-      "n4",
-      "n8"
-    ],
-    [
-      "n5",
-      "n9"
-    ],
-    [
-      "n7",
+      "n3",
       "n10"
     ],
     [
-      "n9",
-      "n11"
+      "n5",
+      "n8"
+    ],
+    [
+      "n2",
+      "n9"
     ]
   ]
 }

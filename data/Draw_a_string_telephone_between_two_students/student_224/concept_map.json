@@ -2,63 +2,57 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students.",
+      "label": "Draw a string telephone between two students",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two students standing side by side",
+      "label": "Two students with cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Students holding cups",
+      "label": "Taut string between cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "String line between cups",
+      "label": "Arrows on string labeled 'sound waves'",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Students using a string telephone to communicate",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Simple background with bright, primary colors",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Indication of communication attempt with string",
+      "label": "Correctly shows the basic concept of a string telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Understanding of sound travel through string",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Shows understanding that a taut string transmits sound",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Understanding of effective distances for communication",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Represents sound waves travel between cups",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Sound doesn’t visibly connect; explanation needed",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
-      "id": "n10",
-      "label": "Include labels or annotations for clarity",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "label": "Focus on string telephone, not external noise",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     }
   ],
   "edges": [
@@ -75,19 +69,15 @@
       "n4"
     ],
     [
+      "n1",
+      "n5"
+    ],
+    [
       "n2",
-      "n5"
-    ],
-    [
-      "n3",
-      "n5"
-    ],
-    [
-      "n4",
       "n6"
     ],
     [
-      "n4",
+      "n3",
       "n7"
     ],
     [
@@ -95,12 +85,8 @@
       "n8"
     ],
     [
-      "n7",
+      "n5",
       "n9"
-    ],
-    [
-      "n8",
-      "n10"
     ]
   ]
 }

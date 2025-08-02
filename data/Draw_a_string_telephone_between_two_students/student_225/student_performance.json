@@ -4,14 +4,13 @@
   "Level": 1,
   "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "May draw two figures intended to represent students (figures might be simplistic or stick figures).",
-    "Can draw rudimentary shapes that could be intended as cups (shapes might lack detail and are unlabeled)."
+    "Draw two people with cups, indicating they might be making an attempt at a string telephone (basic depiction of people with objects)."
   ],
   "CANNOT": [
-    "Does not accurately depict a connection between the cups with string (may forget to draw the string or draw it inaccurately, e.g., floating above or below the cups).",
-    "Unable to illustrate how sound travels along the string (may draw arrows in incorrect directions or omit them entirely).",
-    "Fails to label the key components needed for communication effectively (terms like 'cup' or 'string' are missing or mislabeled).",
-    "Misstates the purpose of the device, such as drawing unrelated objects for communication like a telephone made from electronic devices (may think any representation of communication is suitable).",
-    "Does not show or misunderstand the requirement of needing to communicate over a distance (might demonstrate figures communicating directly without the device)."
+    "Correctly depict a string connecting the cups (student may not include the string or draw it inaccurately).",
+    "Illustrate how sound travels from one person's voice through the string to another person's ear (student doesn’t show or understand sound travel).",
+    "Use the provided materials like cups and string effectively to demonstrate how the device works (student may not know how these materials relate to the concept).",
+    "Highlight key features of the device, such as how sound travels along the string (lack of knowledge about sound transmission).",
+    "Reflect on how this technology helps people communicate in different situations (student doesn't grasp the broader significance)."
   ]
 }

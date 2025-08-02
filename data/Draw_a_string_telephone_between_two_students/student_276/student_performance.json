@@ -2,16 +2,16 @@
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
   "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level Description": "Advanced - complete and accurate representation of all elements.",
   "CAN": [
-    "The student can accurately depict two students using a string telephone to communicate over a long distance, showing an understanding of the purpose of the activity.",
-    "The student can include details such as cups at each end of the string and a taut string connecting them, demonstrating the string telephone's ability to send and receive information using sound.",
-    "The student can illustrate that the device is designed using only the appropriate materials like cups and string, showing attention to the task constraints.",
-    "The student can show the role of technology by indicating how the string and cups act as a communication device over distance, reflecting on the technological aspect.",
-    "The student can visually represent the scientific concept of sound traveling through the string by adding arrows or symbols to indicate sound waves or vibrations moving along the string."
+    "The student can accurately draw two people using a device to communicate over a distance, showing a clear depiction of a string connecting between two cups held by each student.",
+    "The student can illustrate how the device uses sound to send or receive messages, possibly by drawing sound waves or arrows indicating the direction of sound travel.",
+    "The student can use labels to describe parts of the device such as 'cup', 'string', and 'sound', and explain how they contribute to communication.",
+    "The student can include details showing that technology, like the string telephone, is essential for communication over distances, perhaps illustrated by the happy expressions of the communicating students or scenes indicating previous attempts to communicate without success.",
+    "The student can effectively depict how the device solves the problem of distance communication by illustrating a scenario where students are too far apart to hear each other without the device."
   ],
   "CANNOT": [
-    "There may be minor gaps in labeling, such as forgetting to label one of the students or the materials used (e.g., forgetting to specifically label the 'cups' or 'string').",
-    "The student's drawing might lack some specific details like the exact origin of sound at the mouth of one student or the earpiece effect at the other end, though the concept is generally correctly depicted."
+    "May have minor gaps in labeling consistency (e.g., occasionally forgetting to label one part).",
+    "Might slightly misrepresent the realism of sound waves visually, but the concept is still clearly conveyed (e.g., overly simplified waves)."
   ]
 }

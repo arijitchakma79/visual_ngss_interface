@@ -8,45 +8,69 @@
     },
     {
       "id": "n2",
-      "label": "Two students holding cups",
+      "label": "Two children facing each other",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Line connecting the cups",
+      "label": "Each child holds a cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Two students communicate over distance",
+      "label": "String connecting the cups",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Arrows along the string",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Wavy lines coming in and out of the cups",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Children are smiling",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n8",
+      "label": "Shows communication between children",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n5",
-      "label": "Device uses sound to communicate",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "id": "n9",
+      "label": "Illustrates basic device setup",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
-      "id": "n6",
-      "label": "String is not taut for sound travel",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "id": "n10",
+      "label": "Represents sound traveling through string",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
-      "id": "n7",
-      "label": "Include arrows to show sound travel direction",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "id": "n11",
+      "label": "Depicts sound waves effectively",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
-      "id": "n8",
-      "label": "Keep string taut for sound travel",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "id": "n12",
+      "label": "Indicates successful information exchange",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     }
   ],
   "edges": [
@@ -59,24 +83,44 @@
       "n3"
     ],
     [
-      "n2",
+      "n1",
       "n4"
     ],
     [
-      "n3",
+      "n1",
       "n5"
     ],
     [
-      "n3",
+      "n1",
       "n6"
     ],
     [
-      "n5",
+      "n1",
       "n7"
     ],
     [
-      "n6",
+      "n2",
       "n8"
+    ],
+    [
+      "n3",
+      "n9"
+    ],
+    [
+      "n4",
+      "n10"
+    ],
+    [
+      "n5",
+      "n11"
+    ],
+    [
+      "n6",
+      "n11"
+    ],
+    [
+      "n7",
+      "n12"
     ]
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "Draw two separate and detailed pictures: one of a healthy, thriving plant with water and one of a wilting plant without water.",
+    "Show clear differences in the plant's appearance in each picture to demonstrate that plants need water, such as vibrant color and full leaves in the healthy plant versus dull color and drooping leaves in the wilting plant.",
+    "Include a depiction of the sun in both drawings to indicate the need for light for plants to live and grow.",
+    "Accurately observe and represent patterns by noting differences such as color saturation, size, and overall health of the plant in both drawings.",
+    "Properly label the drawings to specify which plant has water and which does not, ensuring clarity and understanding."
+  ],
+  "CANNOT": [
+    "Minor labeling errors (e.g., labels may not be perfectly placed but are understandable)",
+    "Very slight inconsistencies in sun depiction size or position between the two drawings (indicating that light is needed but not affecting the core concept)"
+  ]
+}

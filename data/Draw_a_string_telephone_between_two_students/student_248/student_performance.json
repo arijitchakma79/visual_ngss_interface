@@ -1,17 +1,18 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "Draw two students holding cups with a string connecting them, indicating an attempt to show a string telephone.",
-    "Illustrate that the purpose of the string telephone is for communication, possibly by drawing lines or waves from the students' mouths to the cups.",
-    "Show the string as an important part of the connection, although it may not be tight or straight."
+    "The student can accurately draw two students who need to talk to each other over a long distance, showing both clearly involved in the communication process.",
+    "The student can effectively design and draw a functional device featuring a string telephone that includes cups and string connecting the two students.",
+    "The student can clearly illustrate how the device uses the cups and string to transmit and receive sound, showing correct use of the materials.",
+    "The student can depict the purpose of the device as a solution to the problem of communicating over a distance, suggesting an understanding of the problem-solving aspect.",
+    "The student can label the drawing appropriately to demonstrate the path of sound traveling from one student to the other through the device.",
+    "The student can effectively represent the significance of using such devices for communication over long distances, adding context to the drawing."
   ],
   "CANNOT": [
-    "Consistently draw the string tight, showing an understanding that it needs to be stretched for sound to travel effectively *(may show slack without realizing its impact)*.",
-    "Clearly depict how the string helps send communication over a distance, such as sound waves traveling along lines *(may lack directional arrows or indication of sound transfer)*.",
-    "Include features like resonant cups or any additional sound-related mechanisms in the drawing *(often not included at this level)*.",
-    "Explain or illustrate how the string telephone solves the problem of distant communication through detailed labeling or complex illustration."
+    "The student may occasionally omit minor details such as small labels or arrows showing the direction of sound but these are rare and don’t significantly affect understanding.",
+    "The student might not fully detail the background context or environment in which the communication is happening, assuming the focus is solely on the device."
   ]
 }

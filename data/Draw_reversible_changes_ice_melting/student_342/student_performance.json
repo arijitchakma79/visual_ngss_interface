@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can illustrate ice as a solid block, but may show limited detail or context.",
+    "The student can depict the ice melting into water, though might have simplistic representation.",
+    "The student can label stages as 'ice' and 'water' without detailed descriptions.",
+    "The student can attempt to show the water freezing back into ice, but may do so with basic shapes or limited annotations."
+  ],
+  "CANNOT": [
+    "The student might not accurately show the complete process of returning from water to ice with clear transitions (e.g., missing arrows or steps).",
+    "The student could fail to label the stages with terms like 'melting' or 'freezing', or may confuse the sequencing *(e.g., labels melting as freezing)*.",
+    "The student may struggle to represent the cause and effect relationship clearly, such as not linking heating to melting or cooling to freezing accurately (e.g., missing arrows, labeling issues).",
+    "The student might not provide clear captions or annotations that explain the reversible nature of the change *(e.g., lacks a label like 'reversible change')*."
+  ]
+}

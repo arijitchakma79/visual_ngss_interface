@@ -1,0 +1,15 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "Illustrate the state of ice before it is heated with a basic drawing of a block of ice.",
+    "Show some aspects of ice turning into water, like drawing water droplets or using wavy lines to indicate a puddle."
+  ],
+  "CANNOT": [
+    "Consistently depict water turning back into ice accurately (may show liquid reducing but not becoming a defined ice shape).",
+    "Label changes clearly to show reversibility (may write 'melting' beside ice but not indicate 'freezing').",
+    "Provide a clear description or key to indicate the reversibility of the changes (may omit or provide a vague note that doesn't clearly convey reversibility)."
+  ]
+}

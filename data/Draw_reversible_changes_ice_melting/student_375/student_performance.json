@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can illustrate the material before heating as a solid block of ice.",
+    "The student can depict the melted ice as liquid water.",
+    "The student can illustrate the process of freezing where liquid water becomes ice again, showing reversibility.",
+    "The student is able to create a basic cause and effect scene, such as showing the sun causing ice to melt, or a freezer refreezing the water."
+  ],
+  "CANNOT": [
+    "The student might not consistently annotate their drawings comprehensively (e.g., missing explanation of how cooling leads to refreezing).",
+    "The student may have minor issues distinguishing between reversible and irreversible changes with complex examples (e.g., properly explaining why a cooked egg cannot revert)."
+  ]
+}

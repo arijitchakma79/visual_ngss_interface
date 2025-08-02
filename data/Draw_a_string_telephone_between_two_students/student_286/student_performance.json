@@ -1,18 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can draw two students who are trying to communicate with each other over a distance, with clear gestures indicating communication.",
-    "The student can illustrate a string telephone device accurately, showing cups and string connecting both students.",
-    "The student can represent the path of sound traveling through the string from one student to the other, perhaps with arrows indicating direction.",
-    "The student can show the device is made from materials like cups and string, accurately illustrating these components.",
-    "The student can highlight the importance of the device in helping the students communicate over a distance, possibly with annotations.",
-    "The student can explain in their drawing how this technology affects people's communication, using labels or short notes."
+    "The student can illustrate a problem where people need to communicate over a long distance, but may not clearly define what 'long distance' means.",
+    "The student can attempt to draw a basic string telephone device used for communication, showing two students with cups connected by a line to represent a string.",
+    "The student can depict the use of materials like cups and string, but with limited detail (e.g., may not show how string is attached to the cups)."
   ],
   "CANNOT": [
-    "Minor gaps such as slightly uneven string lengths or cup sizes might be present, but these do not impact understanding.",
-    "Occasional incomplete labeling, such as missing one or two labels, though overall understanding is solid."
+    "The student may not clearly label or describe all key features of the design that allow it to send or receive sound over a distance (e.g., may not label string or specify correct tension).",
+    "The student is likely unable to depict the expected features accurately, showing how the device solves the communication problem using sound (e.g., might omit sound waves or their direction).",
+    "The student may misunderstand how sound travels through the device, such as drawing sound incorrectly along the outside of the string *(student doesn’t understand sound transmission)*."
   ]
 }

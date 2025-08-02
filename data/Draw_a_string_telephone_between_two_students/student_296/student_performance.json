@@ -4,14 +4,15 @@
   "Level": 4,
   "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can accurately illustrate how the string telephone connects two students to enable communication over a distance, showing the string taut between two cups held by the students.",
-    "The student can clearly depict how the string telephone uses sound to send and receive information, such as including sound lines emanating from the mouth of one student and entering the string.",
-    "The student can depict only the provided materials, such as cups and string, used in constructing the string telephone.",
-    "The student can include clear labels or notes indicating how the scientific concept of sound, such as vibration through the string, is utilized in their design.",
-    "The student can show the practicality of the design by illustrating the students appearing happy and engaging in conversation, demonstrating the benefit of the communication device."
+    "Illustrate a detailed and accurate device that allows people to communicate over a distance using sound, showing a string telephone connecting two students.",
+    "Include clear depictions of the string telephone demonstrating how it sends sound over a distance, with visible cups and string.",
+    "Incorporate illustrations of elements indicating the use of sound, such as vibrations or sound waves, traveling through the string.",
+    "Demonstrate, through the drawing, that the device can both send and receive sound information effectively.",
+    "Use simple materials in the drawing, such as cups and string, and show understanding of their function in the device.",
+    "Explain accurately how the string telephone works and why it helps people communicate over distances, using details within the drawing."
   ],
   "CANNOT": [
-    "The student might inconsistently label parts of the string telephone, occasionally forgetting to name a component like the cup or the string.",
-    "The student could struggle with demonstrating the full complexity of sound traveling as vibrations, potentially omitting detail like vibrating air around the speaker's mouth."
+    "May inconsistently label certain parts of the device, but this does not affect overall comprehension of the concept.",
+    "Might show minor aesthetic variances like slightly different cup sizes or imperfectly straight strings, but these do not impact function or understanding."
   ]
 }

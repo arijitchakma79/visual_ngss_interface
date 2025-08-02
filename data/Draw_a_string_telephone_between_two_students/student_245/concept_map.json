@@ -2,61 +2,73 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students.",
+      "label": "Draw a string telephone between two students",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two cartoon-style students standing on grass",
+      "label": "Two stick figure students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Paper cups in each student's hand connected by string",
+      "label": "Each student holding a light blue cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Curvy lines/waves from mouth to cup",
+      "label": "Black wavy line connects the cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Outdoor setting with blue sky and small clouds",
+      "label": "Cup not held to ear properly",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "String telephone setup indicates communication",
+      "label": "Understands two students needed",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Using sound to communicate",
+      "label": "Understands cups are part of the telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Misunderstanding of string tension",
+      "label": "Misunderstanding: String is loose",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "Effort in adding environment details",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Misunderstanding: Undefined sound travel",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n10",
-      "label": "Correct tension in string is necessary for function",
+      "label": "String should be taut for sound travel",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n11",
+      "label": "Show sound traveling with arrows or lines",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n12",
+      "label": "Position cup at ear to listen",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -91,12 +103,24 @@
       "n8"
     ],
     [
+      "n4",
+      "n9"
+    ],
+    [
       "n5",
       "n9"
     ],
     [
       "n8",
       "n10"
+    ],
+    [
+      "n9",
+      "n11"
+    ],
+    [
+      "n9",
+      "n12"
     ]
   ]
 }

@@ -4,14 +4,13 @@
   "Level": 1,
   "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "Draw two students on a page, likely without any clear connection between them (the basic idea of two participants is shown).",
-    "Draw random or unrelated lines that may suggest an incomplete or misunderstood attempt at connecting students (lines without purpose or proper connection)."
+    "The student may be able to draw two cups, though they might not resemble proper designs for a string telephone.",
+    "The student may attempt to draw two figures to represent students, but they might not be placed correctly to show communication."
   ],
   "CANNOT": [
-    "Show how the string connects two cups to create a telephone (missing or inaccurate depiction of cups and string connection).",
-    "Illustrate any understanding of how sound travels through the string between cups (absent or incorrect depiction of sound travel; no arrows or waves).",
-    "Confidently use provided materials like cups and string in their drawing; might draw unrelated objects (confusion about what a string telephone entails).",
-    "Describe with labels how the string telephone works or aids communication (lacks labeling or uses incorrect labels, such as 'rope' instead of 'string').",
-    "Include details explaining how communication over long distances is beneficial (lack of context, may not understand the purpose of a string telephone)."
+    "The student is unlikely to draw a connecting string at all, or if they do, it may not be taut (e.g., wavy or disconnected lines).",
+    "The student likely does not show any lines or arrows indicating sound traveling through the string or makes them incorrectly (e.g., arrows pointing away from the cups).",
+    "The student probably doesn’t identify how sound is transmitted between the cups (e.g., no attempt to show information transfer).",
+    "The student may incorporate additional, incorrect materials in the design (e.g., including a battery or buttons)."
   ]
 }

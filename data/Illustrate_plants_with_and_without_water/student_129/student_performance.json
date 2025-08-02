@@ -1,0 +1,15 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw basic plant shapes with little detail (May show a stem and leaves but not much else).",
+    "Include some random or unrelated elements (e.g., sun, clouds) without a clear connection to water or plant health."
+  ],
+  "CANNOT": [
+    "Accurately differentiate between a watered and unwatered plant (Both plants might look similar with no clear signs of health or wilting).",
+    "Depict the presence of water as a necessary pattern for plant growth and health (The student may not show water explicitly or relate it to plant health).",
+    "Show a comparison between watered and unwatered plants effectively (May neglect to show differences in plant appearance due to watering)."
+  ]
+}

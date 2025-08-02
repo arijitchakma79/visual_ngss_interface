@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "Draw a plant that has been watered and show that the plant is healthy and growing with detailed elements like bright green leaves and a strong stem.",
+    "Draw a plant that has not been watered and depict it as unhealthy and wilting with drooping leaves and a browning color.",
+    "Add details to the drawings to emphasize that plants need water to live and grow, such as soil moisture and a watering can symbol.",
+    "Use colors and labels effectively to highlight the differences between healthy, hydrated plants and wilted, unwatered ones.",
+    "Draw a sun to clearly show that plants also need light to grow, complementing their need for water."
+  ],
+  "CANNOT": [
+    "Show any inconsistency in correctly labeling or coloring certain plant parts that are significant (e.g., might forget to label the roots or stem on occasion due to minor oversight)."
+  ]
+}

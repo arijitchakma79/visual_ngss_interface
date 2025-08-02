@@ -4,16 +4,17 @@
   "Level": 3,
   "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student can draw two students clearly separated by a distance and connected by a string telephone.",
-    "The student can illustrate the string telephone as a device that uses sound, depicting the cups or cans at the ends.",
-    "The student can show sound waves traveling along the string using simple illustrations like wavy lines or arrows.",
-    "The student can depict the scenario as a solution to communicating over the distance, generally showing students interacting with the device.",
-    "The student can label the components, such as 'string' and 'cans', and indicate it as a technological communication tool."
+    "Illustrate a situation where two students need to communicate from a distance (likely show a scenario like a park or different locations).",
+    "Design and draw a string telephone using materials like cups and string, showing how it functions to solve the communication problem.",
+    "Include labels for most materials, like 'string' and 'cup'.",
+    "Depict a reasonable distance between the students and label this distance (e.g., '10 feet').",
+    "Explain through the drawing how sound travels along the string using directional arrows or similar indicators.",
+    "Convey the importance of using a string telephone to improve communication (e.g., showing students smiling or engaged)."
   ],
   "CANNOT": [
-    "The student might inconsistently label the direction of sound waves or provide incomplete labeling (student labels only one end of the string).",
-    "The student might not fully depict how sound waves are received at the other end (student may forget to show the waves reaching the second student).",
-    "The student may not visually convey the problem being solved (may not clearly show the distance as an issue solved by the string telephone).",
-    "The student may overlook labeling it explicitly as 'technology' (may assume it’s understood without clear labels)."
+    "May inconsistently label all materials (e.g., label the string but not one of the cups).",
+    "Might not provide a detailed depiction of how the sound travels through the string over a distance (e.g., missing arrows or annotations).",
+    "Could fail to explain explicitly how the string telephone improves communication, relying on visual cues instead of text (e.g., no text explaining the improvement).",
+    "Might depict a slightly unrealistic scenario for the string's use by showing too short or too long a distance, or unclear context of difficulty solved."
   ]
 }

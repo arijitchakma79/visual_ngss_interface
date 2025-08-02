@@ -1,0 +1,15 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can illustrate a plant that has received enough water, depicting it with green leaves and an upright posture, indicating health.",
+    "The student can illustrate a plant that has not received enough water, showing it with drooping leaves and a wilted posture, indicating it is unhealthy.",
+    "The student can demonstrate the difference between a healthy plant with sufficient water and an unhealthy plant without water through clear visual contrasts in their drawings."
+  ],
+  "CANNOT": [
+    "The student might occasionally miss small details, such as failing to accurately represent the texture of leaves or missing small droops on leaves in the wilting plant.",
+    "The student may partially explain why plants need water using their drawings, but might not fully articulate the biological process of water helping plants to maintain structure and transport nutrients."
+  ]
+}

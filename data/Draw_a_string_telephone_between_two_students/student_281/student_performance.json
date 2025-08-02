@@ -1,16 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can accurately draw a string telephone setup between two students, showing clear understanding of the task.",
-    "The student can illustrate all important components clearly, such as the cups and the string, including appropriate labels.",
-    "The student can show the string being taut, facilitating the transmission of sound, perhaps with directional arrows indicating sound travel.",
-    "The student can depict a scenario where two students use the string telephone to communicate over a distance, demonstrating a solution to the problem presented.",
-    "The student can include an explanation or visual cue of how long-distance communication benefits people through technology, such as including a small note about people talking over long distances."
+    "Draw two people with a line connecting them, which may represent the string telephone.",
+    "Include elements like cups or a line between the students, symbolizing the components of a string telephone."
   ],
   "CANNOT": [
-    "The student is unlikely to have noticeable conceptual gaps, but might occasionally omit very minor details, such as additional background elements that add context but are not crucial to understanding the main concept."
+    "Clearly illustrate the purpose of the line (string) and how it functions as a medium for sound transmission (student doesn’t grasp the concept of sound traveling through the string).",
+    "Label the drawing accurately to show how sound travels through the string (lacks understanding of sound transmission).",
+    "Show any interaction or communication between the two students using the string telephone (may not understand that sound travels and conveys messages).",
+    "Use the correct materials representation, such as cups and string, effectively (might use unrelated objects or not depict the correct setup)."
   ]
 }

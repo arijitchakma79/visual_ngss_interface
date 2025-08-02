@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Attempt to draw a plant, but the details may be unclear or indistinct (e.g., basic lines or shapes that don't resemble a plant strongly).",
+    "Include random elements like the sun, but not necessarily in a way that depicts its role in plant growth (e.g., the sun might be in the corner but not shown relevant to the plant)."
+  ],
+  "CANNOT": [
+    "Accurately depict the difference between a plant with water and a plant without water (student may draw two identical plants or miss clear differences in appearance).",
+    "Show a plant looking healthy and strong when it has enough water (student might not depict health indicators such as green leaves or an upright stem).",
+    "Illustrate a plant as weak or wilted when it lacks water (student might forget drooping or color changes, or not depict wilting).",
+    "Understand or show the concept of changes over time if a plant does not receive water (student might not show any progression or change, due to lack of understanding)."
+  ]
+}

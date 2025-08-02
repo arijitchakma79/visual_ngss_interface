@@ -1,16 +1,18 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student might attempt to draw two figures that could represent students, but these figures may be simplistic or basic stick figures.",
-    "The student might draw a single cup or irregular shapes that could be interpreted as cups (attempting to show the materials but without clear function or connection)."
+    "Illustrate two students trying to communicate over a long distance using a string telephone with clarity and detail.",
+    "Include in their drawing a string connecting two cups or similar objects to represent the string telephone prominently and correctly.",
+    "Show that the string telephone uses sound to send and receive information by illustrating sound waves or vibrations along the string effectively.",
+    "Depict that each end of the string telephone is held by a different student, clearly demonstrating the device's function to send and receive information.",
+    "Include detailed labels or notes explaining how the device uses sound to solve the problem of communication over distance, showing a thorough understanding.",
+    "Illustrate how communicating over a distance can help people by showing a scenario where the string telephone might be useful, with context and detail."
   ],
   "CANNOT": [
-    "The student is unlikely to connect the cups with a string correctly or at all (may draw a line next to students but not connecting them).",
-    "The student does not label or explain how sound travels through the string (lacks understanding of sound transmission).",
-    "The student might include unrelated or incorrect elements in their drawing that do not pertain to a string telephone (misunderstanding of task).",
-    "The student is unlikely to include any scenario or setting that illustrates communication over distance (may not grasp the broader concept of distance communication)."
+    "May occasionally omit minor details in labeling or in the background context, but this doesn't significantly detract from the understanding (e.g., minor spelling errors in labels or slightly imbalanced depiction of distances).",
+    "Might not perfectly render artistic elements like the curvature of sound waves but still demonstrates their purpose (e.g., sound waves might be wavy lines rather than perfect sine waves)."
   ]
 }

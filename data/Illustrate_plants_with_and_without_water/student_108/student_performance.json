@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can accurately draw plants that look healthy and are growing when they have water, showing vibrant green leaves and upright stems.",
+    "The student can accurately depict plants that are not healthy and are not growing when they do not have water, showing wilted leaves and drooping stems.",
+    "The student can effectively illustrate plants in the light that appear healthy, with strong colors and full foliage.",
+    "The student can show plants in dark places that do not grow well, including lighter or missing leaves, indicating poor growth.",
+    "The student can use their drawings to clearly demonstrate that patterns, like the need for water and light, affect whether plants can live and grow, possibly including arrows or labels to indicate water supply and light source."
+  ],
+  "CANNOT": [
+    "There are no major elements the student is unable to show, but there might still be occasional minor gaps, such as not labeling one of the light sources or forgetting to draw roots in certain plants."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a basic outline of a land-based habitat, such as a simple representation of a garden or forest.",
+    "The student can include a few different kinds of living things, like trees and a couple of obvious animals such as a squirrel and maybe a bird or an ant.",
+    "The student can show simple patterns by including more than one of a single type of plant or animal (such as multiple trees)."
+  ],
+  "CANNOT": [
+    "The student may not accurately represent more complex habitats like a pond, stream, or lake with specific aquatic plants or animals *(student may not understand aquatic environments)*.",
+    "The student may struggle to organize the drawing clearly to identify and label distinct habitats and living things within each one *(mixing elements between land and water habitats)*.",
+    "The student might try to include different habitats but does so inconsistently and without clear comparisons in diversity *(elements might be randomly scattered without context)*.",
+    "The student may label some elements incorrectly or not at all due to emerging understanding *(inconsistent or incorrect identification of species)*."
+  ]
+}

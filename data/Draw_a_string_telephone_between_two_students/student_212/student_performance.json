@@ -1,17 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can draw two stick figures representing students without clear details.",
-    "The student attempts to draw a line between two cups, but it may not be straight or clearly represent a string."
+    "The student can accurately draw a string telephone using clear illustrations of two students at either end, demonstrating communication over a distance.",
+    "The student can clearly illustrate the path of sound travel through the string using well-placed arrows or lines, effectively showing the direction and flow of sound.",
+    "The student can correctly identify and label all components of the string telephone, including cups and string, ensuring clarity in their representation.",
+    "The student can demonstrate the importance of sound as a method of communication within their illustration, possibly adding contextual elements (e.g., one student talking and the other listening).",
+    "The student can include a concise and accurate label or note explaining why the string telephone is effective for communicating over a distance, referencing properties of sound travel."
   ],
   "CANNOT": [
-    "The student cannot illustrate that the string needs to be tight for sound to travel effectively (may draw a loose, sagging string).",
-    "The student cannot show that the string is meant to carry sound (may not label or annotate sound travel aspects).",
-    "The student is unable to depict a real-world scenario of communication, instead showing unrelated scenes.",
-    "The student misunderstands the purpose of the string telephone, possibly thinking it is for decoration rather than communication.",
-    "The student doesn't include any annotations or labels indicating how sound travels through the string."
+    "There are no major elements the student is unable to show at this level, but there might be minor gaps like inconsistent arrow sizes or slightly imprecise labeling (though these do not detract from overall understanding)."
   ]
 }

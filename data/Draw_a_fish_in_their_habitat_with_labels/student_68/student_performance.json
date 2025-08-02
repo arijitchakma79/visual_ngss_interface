@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw a fish in their habitat with labels.",
+  "Code": "K-ESS3-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can accurately draw and label different plants and animals coexisting within the aquatic environment.",
+    "The student can identify and label resources necessary for survival, like water and light, accurately.",
+    "The student can illustrate and explain with labels how fish interact with their surroundings, such as swimming in water or hiding among plants.",
+    "The student can demonstrate with labeled diagrams how plants absorb sunlight and water to grow, showcasing their understanding of the environment.",
+    "The student can illustrate how fish rely on water as part of their ecosystem, explaining how various parts of the environment interact."
+  ],
+  "CANNOT": [
+    "The student may occasionally omit labels on minor elements or use inconsistent terminology (e.g., labeling 'rocks' as 'stones').",
+    "The student might overlook minute details within the ecosystem that aren't central to the main focus of the drawing (e.g., the exact species of plants shown might not be labeled)."
+  ]
+}

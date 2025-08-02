@@ -8,43 +8,79 @@
     },
     {
       "id": "n2",
-      "label": "Two students standing separately, facing each other.",
+      "label": "Two cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Random, wavy lines in various colors between students.",
+      "label": "Wavy/loose line",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Basic understanding of involving two participants.",
+      "label": "Two cartoon-like human figures",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n5",
+      "label": "Arrows pointing away from cups",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Random additional elements like a battery",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Understands the concept of using two cups",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n5",
-      "label": "Misunderstanding of how string connects the cups.",
+      "id": "n8",
+      "label": "Misunderstands string needs to be tight",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n6",
-      "label": "Misunderstanding of how sound travels through string.",
+      "id": "n9",
+      "label": "Peers are present in the drawing",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n10",
+      "label": "Misunderstands sound transmission and direction",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n7",
-      "label": "Consider accurately drawing string connecting two cups.",
+      "id": "n11",
+      "label": "Introduces unrelated components",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n12",
+      "label": "Make the string taut to enable sound travel",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     },
     {
-      "id": "n8",
-      "label": "Illustrate sound waves traveling along the string.",
+      "id": "n13",
+      "label": "Use arrows to show sound traveling through the string",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n14",
+      "label": "Remove unnecessary elements like batteries",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -59,24 +95,48 @@
       "n3"
     ],
     [
-      "n2",
+      "n1",
       "n4"
     ],
     [
-      "n3",
+      "n1",
       "n5"
     ],
     [
-      "n3",
+      "n1",
       "n6"
     ],
     [
-      "n5",
+      "n2",
       "n7"
     ],
     [
-      "n6",
+      "n3",
       "n8"
+    ],
+    [
+      "n4",
+      "n9"
+    ],
+    [
+      "n5",
+      "n10"
+    ],
+    [
+      "n6",
+      "n11"
+    ],
+    [
+      "n8",
+      "n12"
+    ],
+    [
+      "n10",
+      "n13"
+    ],
+    [
+      "n11",
+      "n14"
     ]
   ]
 }

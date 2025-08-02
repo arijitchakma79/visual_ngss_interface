@@ -1,0 +1,17 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw the ice before it melts, showing its solid shape, but may lack detail or clarity.",
+    "The student can draw the melted ice as water, showing its liquid form, but the depiction might be simplistic.",
+    "The student may attempt to show the water being refrozen back into ice, but with limited detail.",
+    "The student might include basic labels or short descriptions for the solid and liquid states."
+  ],
+  "CANNOT": [
+    "The student is unlikely to fully illustrate the process of heating and cooling as causes for the state change (student might not understand the role of temperature).",
+    "The student may not effectively use arrows or annotations to show the reversibility of the process (arrows might be missing or confusing).",
+    "The student may misunderstand or neglect to show that the refreezing is part of the reversibility (might not depict the final solid state correctly)."
+  ]
+}

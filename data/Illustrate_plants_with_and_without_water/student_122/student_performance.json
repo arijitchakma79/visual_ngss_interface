@@ -1,0 +1,15 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can illustrate a plant that appears mostly healthy, with basic elements suggesting it has enough water and light.",
+    "The student can attempt to illustrate a plant lacking water, perhaps by showing some wilting or a droopy appearance, though details may be limited."
+  ],
+  "CANNOT": [
+    "The student is unlikely to clearly show the specific effects of lack of water, such as discoloration, beyond simple wilting (student may not fully understand the extent of dehydration effects).",
+    "The student may fail to include elements that represent sunlight or water sources accurately (student might not recognize the need to visually represent these elements in the drawing).",
+    "The student might struggle to clearly differentiate patterns of how plants change with varying water and light, often depicting changes inconsistently or inaccurately (student might think any visible difference is sufficient without clear understanding)."
+  ]
+}

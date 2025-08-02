@@ -1,18 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "The student can draw two students using a string telephone to communicate, depicting an attempt at showing communication through the device.",
-    "The student can illustrate sound traveling along the string, though this may be shown with unclear or incorrect arrows.",
-    "The student can depict that the string is necessary for sound travel, but the depiction may not clearly show sound propagation."
+    "The student can draw two students positioned a distance apart with a clear intention to communicate.",
+    "The student can illustrate the basic components of the string telephone, including cups and a taut string connecting them.",
+    "The student can show arrows or lines demonstrating sound traveling through the string from one cup to another (sound path clearly indicated).",
+    "The student can incorporate elements suggesting that this method helps solve the problem of long-distance communication, such as happy expressions or dialogue bubbles."
   ],
   "CANNOT": [
-    "The student is likely unable to accurately show how sound specifically travels along the string (e.g., lack of clear arrows or explanation).",
-    "The student may not effectively demonstrate that the device enables communication over a longer distance than speaking without it (e.g., both students drawn too close together).",
-    "The student might not clearly depict that the device uses sound to convey messages (e.g., missing elements like vibrations on the string).",
-    "The student may not correctly identify all the materials used to construct the string telephone (e.g., cups or string may not be recognizable or labeled).",
-    "The drawing might not highlight effective use of the device for communication (e.g., one student not holding the cup to their ear or mouth)."
+    "The student may not clearly demonstrate how the vibrations travel through the string (may not depict vibration detail).",
+    "The student might inconsistently show the string as taut, which is necessary for proper sound transmission (string may appear loose in parts of the drawing).",
+    "The depiction of the problem needing communication over long distances might lack context or detail (scant representation of environment or scenarios requiring communication)."
   ]
 }

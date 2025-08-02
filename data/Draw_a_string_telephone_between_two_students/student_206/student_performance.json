@@ -1,17 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 1,
-  "Level Description": "Beginning (minimal or no understanding)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can draw two stick figures representing two students, though without clear features or context suggesting communication.",
-    "The student can draw a line between the two figures, which might be intended to represent a string, but it lacks context or detail as to its purpose."
+    "The student can illustrate two people needing to communicate with some depiction of physical distance between them.",
+    "The student can draw a basic string telephone setup using essential components like cups and string, though details may be simplistic.",
+    "The student may include some indication that sound travels through the string (e.g., wavy lines traveling along the string)."
   ],
   "CANNOT": [
-    "The student is unable to depict a device that allows communication over a distance, and may not connect the function of the string to sound transmission (student doesn’t understand the device's function).",
-    "The student does not represent the use of sound in the device (student might not know sound vibrations travel along the string).",
-    "The student fails to illustrate or label the materials used in building the device (student lacks understanding of materials or forgets to include this detail).",
-    "The student cannot show how the device helps in communication over long distances, as the idea of distance in relation to communication isn't clear.",
-    "The student does not show or misunderstands the connection between the two students using the device (string may be drawn disconnected or improperly positioned)."
+    "The student may not effectively show how the string telephone solves the problem of communicating over distance (e.g., lack of visual cues tying communication to the string telephone).",
+    "The student might struggle to detail how sound vibrations move through the string, resulting in vague or unclear representations (e.g., absence of arrows or labels indicating sound travel).",
+    "The student could have difficulty illustrating the materials used in a structurally clear manner, such as cups being misaligned with string (e.g., string not reaching both cups or cups not looking like communication objects)."
   ]
 }

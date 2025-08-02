@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student might draw a simple plant shape without specifics about leaf or stem health.",
+    "The student may draw a plant with colors, although not accurately reflecting the plant's health (e.g., might color all leaves green regardless of plant condition)."
+  ],
+  "CANNOT": [
+    "The student is unlikely to accurately depict differences between plants with and without water (e.g., all plants look the same) *(student doesn’t know this)*.",
+    "The student might not show or understand the need for sunlight in plant health (e.g., no sunlight depicted or unconnected to plant growth) *(student doesn’t know the role of sunlight)*.",
+    "Labeling or captions explaining how water affects plant growth will likely be missing or incorrect *(student doesn’t understand cause and effect relationship)*.",
+    "The student might not visibly distinguish between watered and unwatered areas in their drawing (e.g., no dry vs. wet area differentiation) *(misunderstands visual cues for dry and wet)*."
+  ]
+}

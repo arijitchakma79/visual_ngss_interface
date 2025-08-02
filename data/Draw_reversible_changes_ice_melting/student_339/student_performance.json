@@ -1,0 +1,18 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw ice in a solid state before heating, representing the initial state of the material.",
+    "The student can draw the change to water after heating, illustrating the state change correctly.",
+    "The student can show arrows indicating the sequence of changes from ice to water and back to ice.",
+    "The student is likely to include labels with evidence-based claims about the reversibility of the state change, with most labels being clear and correct.",
+    "The student can somewhat illustrate observable patterns and cause and effect, although with minor detail or depth."
+  ],
+  "CANNOT": [
+    "The student might inconsistently label the phases or states, occasionally leaving out a label or using vague terms (e.g., labeling water as 'liquid' without specifying 'melted ice').",
+    "The student may not fully integrate the concept of cause and effect in a detailed manner, potentially missing subtle causal elements or patterns (e.g., failing to label heating or cooling as the cause of change).",
+    "The student might show minor inaccuracies in the sequence or direction of arrows, indicating attempts to show sequence but with occasional errors."
+  ]
+}

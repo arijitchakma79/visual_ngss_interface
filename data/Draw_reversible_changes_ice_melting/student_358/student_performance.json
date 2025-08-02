@@ -1,0 +1,14 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Emerging understanding, basic elements shown",
+  "CAN": [
+    "The student can illustrate ice as a solid block before it starts melting.",
+    "The student can show how the material begins to change after heating, such as by drawing water droplets or a small puddle representing melted ice."
+  ],
+  "CANNOT": [
+    "The student cannot accurately depict the full cycle of ice melting and refreezing, as they might not show water turning back into ice (student forgets to show reversal).",
+    "The student might partially or incorrectly represent irreversible changes, such as drawing a cooked egg returning to its original liquid state (misunderstanding between reversible and irreversible changes)."
+  ]
+}

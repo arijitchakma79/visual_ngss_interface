@@ -2,79 +2,55 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students",
+      "label": "Draw a string telephone between two students.",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two students communicating",
+      "label": "Two stick figures connected by a string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "String telephone device",
+      "label": "No cups depicted",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Sound waves shown as wavy lines",
+      "label": "Different colors for heads and bodies",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Materials labeled - 'cup' and 'string'",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Basic understanding of communication over a distance",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Outdoor setting with bright colors",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
-    },
-    {
-      "id": "n7",
-      "label": "Illustrates distance communication",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n8",
-      "label": "Shows mechanism of string telephone",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "Sound traveling through string",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n10",
-      "label": "Understands labeling materials",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n11",
-      "label": "Engaging illustration enhances interest",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n12",
-      "label": "Lacks indication of tautness of string",
+      "label": "Incomplete understanding of how a string telephone works",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n13",
-      "label": "Include tension in the string",
+      "id": "n7",
+      "label": "Misuse of colors unrelated to functionality",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n8",
+      "label": "Include cups to demonstrate sound travel",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
+      "id": "n9",
+      "label": "Use functional elements to enhance understanding",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -93,40 +69,28 @@
       "n4"
     ],
     [
-      "n1",
+      "n2",
       "n5"
     ],
     [
-      "n1",
+      "n2",
       "n6"
     ],
     [
-      "n2",
-      "n7"
-    ],
-    [
       "n3",
-      "n8"
+      "n6"
     ],
     [
       "n4",
-      "n9"
-    ],
-    [
-      "n5",
-      "n10"
+      "n7"
     ],
     [
       "n6",
-      "n11"
+      "n8"
     ],
     [
-      "n3",
-      "n12"
-    ],
-    [
-      "n12",
-      "n13"
+      "n7",
+      "n9"
     ]
   ]
 }

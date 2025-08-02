@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a basic plant that appears healthy and growing, suggesting it has enough water, but with simple or minimal details.",
+    "The student can partially depict a plant without water appearing wilted, though the severity or specific signs of wilting might be inconsistent.",
+    "The student may show a general difference between a healthy plant and a wilted plant, such as drooping leaves, even if not fully accurately depicted."
+  ],
+  "CANNOT": [
+    "The student cannot consistently show detailed or accurate signs of a plant lacking water (e.g., misunderstanding what a wilted plant looks like).",
+    "The student cannot clearly illustrate or explain the concept that plants need water to live and grow; the drawings may not fully connect to this idea without additional context.",
+    "The student may not accurately include observations from real-life or media, as they might not have clear examples or may misrepresent observed patterns.",
+    "The student is unlikely to demonstrate a complete understanding that patterns in how plants respond to water can be used as evidence, leading to possible omission or incorrect depiction."
+  ]
+}

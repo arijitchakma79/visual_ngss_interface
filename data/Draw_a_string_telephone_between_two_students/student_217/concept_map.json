@@ -8,69 +8,51 @@
     },
     {
       "id": "n2",
-      "label": "Two students drawn facing each other",
+      "label": "Colorful stick figures with blue and red shirts",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Boy holding red cup",
+      "label": "Thin, straight line representing string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Girl holding blue cup",
+      "label": "Larger circles at each end of string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Loose string between the cups",
+      "label": "Small circles near mouths implying talking",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Boy is talking",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Device that allows communication over a distance",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Understanding: Can illustrate two students using a string telephone.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n8",
-      "label": "Understanding: Correct depiction of cups as communication devices.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "Understanding: Depicts materials used for the string telephone.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n10",
-      "label": "Misunderstanding: String is loose, so sound cannot travel effectively.",
+      "label": "Incomplete understanding of sound transmission",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n11",
-      "label": "Understanding: Illustrates student talking into the cup.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n12",
-      "label": "Suggestion: The string should be drawn tightly stretched to show how sound travels.",
+      "id": "n8",
+      "label": "Suggest drawing cups to show sound transmission",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
+    },
+    {
+      "id": "n9",
+      "label": "Representation of communication activity",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     }
   ],
   "edges": [
@@ -91,32 +73,24 @@
       "n5"
     ],
     [
-      "n1",
+      "n2",
       "n6"
     ],
     [
-      "n2",
-      "n7"
+      "n3",
+      "n6"
     ],
     [
       "n3",
-      "n8"
+      "n7"
     ],
     [
-      "n4",
+      "n7",
       "n8"
     ],
     [
       "n5",
-      "n10"
-    ],
-    [
-      "n6",
-      "n11"
-    ],
-    [
-      "n10",
-      "n12"
+      "n9"
     ]
   ]
 }

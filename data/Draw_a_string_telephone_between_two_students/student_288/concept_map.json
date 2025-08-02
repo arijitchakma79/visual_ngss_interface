@@ -2,73 +2,73 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students",
+      "label": "Draw a string telephone between two students.",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two students standing apart",
+      "label": "Two students with a string telephone",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Each holding a red cup",
+      "label": "Flow of sound with arrows",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Black string connecting the cups",
+      "label": "String stretched tight",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Blue arrows represent sound waves",
+      "label": "Label 'Sound travels through the string'",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Students are cheerful",
+      "label": "Comparison to modern communication",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Demonstrates use of string telephone",
+      "label": "Illustrates communication over a distance",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Shows clear sound transmission",
+      "label": "Shows sound traveling through string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Sound waves illustrate communication",
+      "label": "Understand importance of tight string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Illustrates effective communication",
+      "label": "Knowledge of labels or brief explanations",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n11",
-      "label": "Labels missing",
+      "label": "Simplistic comparison, lacks detail",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
       "id": "n12",
-      "label": "Include labels for clarity",
+      "label": "Explore deeper into technological differences",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -100,22 +100,18 @@
     ],
     [
       "n3",
-      "n7"
-    ],
-    [
-      "n4",
       "n8"
     ],
     [
-      "n5",
+      "n4",
       "n9"
     ],
     [
-      "n6",
+      "n5",
       "n10"
     ],
     [
-      "n5",
+      "n6",
       "n11"
     ],
     [

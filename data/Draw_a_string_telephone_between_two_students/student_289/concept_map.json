@@ -8,51 +8,51 @@
     },
     {
       "id": "n2",
-      "label": "Two students each holding a cup",
+      "label": "Two stick figure students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "String connecting the cups",
+      "label": "Wavy line connecting students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Cup labeled 'Cup'",
+      "label": "Small cup drawn on ground",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Explanation: 'When you talk, sound goes through the string to the other cup.'",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Understanding of a string telephone",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n6",
-      "label": "Illustrates sound communication",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Incomplete understanding of sound travel",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n7",
-      "label": "Visualizes sound traveling through string",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Incomplete understanding of cup placement",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n8",
-      "label": "Correct labeling of parts",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "String not taut: Suggest keeping string tight for effectiveness",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     },
     {
       "id": "n9",
-      "label": "Explains sound transmission",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Cups not positioned correctly: Suggest placing cups at mouth and ear",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
     }
   ],
   "edges": [
@@ -69,23 +69,23 @@
       "n4"
     ],
     [
-      "n1",
+      "n2",
       "n5"
     ],
     [
-      "n2",
+      "n3",
       "n6"
     ],
     [
-      "n3",
+      "n4",
       "n7"
     ],
     [
-      "n4",
+      "n6",
       "n8"
     ],
     [
-      "n5",
+      "n7",
       "n9"
     ]
   ]

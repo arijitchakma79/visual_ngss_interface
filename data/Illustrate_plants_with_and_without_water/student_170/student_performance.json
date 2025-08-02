@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a basic representation of plants that have water, showing some elements of health such as upright stems and some green color.",
+    "The student can attempt to draw plants without water, indicating wilting through drooping lines, though details might be limited or inconsistent.",
+    "The student may include some size or color differences, possibly using lighter shades to indicate less healthy plants, though inconsistently applied."
+  ],
+  "CANNOT": [
+    "The student might not clearly illustrate detailed differences between plants with and without water (e.g., leaves might not be drawn differently between conditions).",
+    "The student may struggle to accurately use observations to show clear differences in plant condition, possibly showing both plants with similar sizes due to misunderstanding or unclear observation connection.",
+    "The student might not fully grasp the concept of illustrating cause and effect between water availability and plant growth, leading to inconsistent or incomplete representations."
+  ]
+}

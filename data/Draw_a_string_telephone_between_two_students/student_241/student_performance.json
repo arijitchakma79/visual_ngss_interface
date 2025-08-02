@@ -1,17 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "The student can draw two people who want to communicate over a long distance, though the distance might not be well-represented.",
-    "The student can draw a basic string telephone device using two cups and a string, though the connection might be unclear.",
-    "The student can use labels for some important parts, such as labeling 'cup' and 'string', but may miss others."
+    "The student can draw two figures that represent students on a page. (basic representation of participants)"
   ],
   "CANNOT": [
-    "The student is unlikely to show accurately that the string telephone uses sound to send and receive information (e.g., no sound waves or unclear direction of sound).",
-    "The student might not include symbols or notes in the drawing or may do so incorrectly (e.g., confusing visuals for sound travel, like arrows pointing in the wrong direction).",
-    "The drawing might not show how the device helps people communicate, such as omitting happy faces or conversation bubbles.",
-    "The student might not fully use the materials provided for their drawing to show how the solution works, lacking details or neatness."
+    "The student cannot accurately represent the connection over a distance using a string. (student might not draw a connecting line at all or creates a line without any context)",
+    "The student cannot illustrate how the device uses sound to communicate information. (student might not include any sound waves or relevant symbols)",
+    "The student cannot show specific parts designed for sending or receiving sounds. (lack of drawn features that signify functionality, like cups or cans)",
+    "The student cannot depict the correct materials used in constructing a string telephone. (may include incorrect objects, like electronic components)",
+    "The student cannot demonstrate why communicating over a long distance with the device is useful. (no indication of purpose in the drawing)",
+    "The student cannot identify features making it a functioning communication device. (no details distinguishing how it works, maybe only two people are drawn)"
   ]
 }

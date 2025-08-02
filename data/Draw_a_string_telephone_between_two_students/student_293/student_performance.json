@@ -1,17 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
   "CAN": [
-    "Draw two students who are accurately using a string telephone to communicate over a distance with clear depiction of the setup.",
-    "Include specific features of the string telephone, such as the cups or cans and tightly drawn string, to show how it uses sound to communicate.",
-    "Demonstrate that the device can send or receive information over a distance by clearly showing the string connecting the two devices.",
-    "Illustrate how people can communicate over long distances using simple materials, by effectively depicting the string stretched between two points.",
-    "Show or label the sound waves traveling through the string, indicating how information is being communicated, using arrows or sound wave symbols."
+    "Draw two people holding cups with lines representing strings between them. (The student recognizes the basic components of the device.)"
   ],
   "CANNOT": [
-    "May have minor gaps such as forgetting to label one element or misplace an arrow (e.g., not indicating sound direction clearly).",
-    "Occasionally may not perfectly align the string if focusing on detailed representation of students (slight oversight)."
+    "Show how sound is transmitted effectively through the string. (The student may not understand that sound travels through vibrations.)",
+    "Illustrate how the string needs to be tight to transmit sound efficiently. (The drawing might show a slack or curved string.)",
+    "Depict that the device solves the problem of communicating over a long distance. (The student may not connect the concept of distance with the function of the device.)",
+    "Include features in the drawing that show how people use simple devices to communicate. (The student might only focus on the cups and string without implying communication.)",
+    "Represent the importance of using the provided materials to construct the design solution. (The student may not consider or depict the significance of using cups and string specifically.)"
   ]
 }

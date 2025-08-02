@@ -1,0 +1,15 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Developing: emerging understanding, basic elements shown",
+  "CAN": [
+    "The student can create a drawing that shows what ice looks like before it melts. (basic depiction of ice cubes or block of ice)",
+    "The student can illustrate what happens to ice when it is heated and turns into water. (simple transformation depiction like ice to puddle of water)"
+  ],
+  "CANNOT": [
+    "The student is likely unable to accurately represent what happens when heated water is cooled down and turns back into ice. (may show incorrect progression or misunderstand the concept of cooling leading back to ice)",
+    "The student may not include in their drawing evidence that shows melting ice into water is a change that can be reversed. (may not understand or depict the concept of reversibility)",
+    "The student may not include reasons why some changes caused by heating cannot be reversed. (may not provide examples like cooked egg or melted chocolate or incorrectly depict them as reversible)"
+  ]
+}

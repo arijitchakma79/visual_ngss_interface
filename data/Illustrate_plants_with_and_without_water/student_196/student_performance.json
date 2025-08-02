@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "CAN": [
+    "The student can draw a plant that has enough water, showing it growing well with vibrant green color and full, healthy leaves.",
+    "The student can draw a plant that is not getting enough water, accurately illustrating it wilting with discolored, dry, and drooping leaves.",
+    "The student can include a sun in the drawing to represent the importance of light for plant growth, with additional details like rays indicating sunlight reaching the plant.",
+    "The student can show clear differences in plant color and size to indicate the presence or absence of water, with well-watered plants appearing larger and healthier.",
+    "The student can demonstrate an understanding of patterns by showing healthy leaves in well-watered plants versus dry leaves in non-watered plants."
+  ],
+  "CANNOT": [
+    "The student may occasionally forget to label some parts of their drawing, like labeling the sun or the plant, but this does not indicate a lack of understanding.",
+    "The student might not depict dynamic changes over time, such as how quickly the plant wilts without water, which is a minor gap in representing process rather than static states."
+  ]
+}

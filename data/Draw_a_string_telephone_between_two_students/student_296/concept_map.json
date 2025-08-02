@@ -8,61 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Two happy stick figure students facing each other",
+      "label": "Two students standing with cups and a taut string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Each student is holding a white paper cup",
+      "label": "Arrows or lines along the string showing sound waves",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Cups connected by straight red line representing string",
+      "label": "Labels for each part of the device",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Sound waves depicted as curved lines from student's mouth",
+      "label": "Use of simple materials: cups and string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Labels on the cups and string",
-      "fillcolor": "#fffdd0",
-      "shape": "rectangle"
+      "label": "Demonstrates string telephone sending and receiving sound",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Students can communicate over a distance",
+      "label": "Indicates the use of sound waves traveling through the string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Only provided materials used",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Possible minor inconsistencies in labeling",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
     },
     {
       "id": "n9",
-      "label": "Use of sound waves to convey information",
+      "label": "Accurately shows use of cups and string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Potential for unclear labeling",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n11",
-      "label": "Ensure labels are clear and accurate to show function",
+      "label": "Ensure labels clarify each part and its function",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -85,32 +79,24 @@
       "n5"
     ],
     [
-      "n1",
+      "n2",
       "n6"
     ],
     [
-      "n2",
-      "n7"
-    ],
-    [
       "n3",
-      "n8"
+      "n7"
     ],
     [
       "n4",
-      "n7"
+      "n8"
     ],
     [
       "n5",
       "n9"
     ],
     [
-      "n6",
+      "n8",
       "n10"
-    ],
-    [
-      "n10",
-      "n11"
     ]
   ]
 }

@@ -8,61 +8,73 @@
     },
     {
       "id": "n2",
-      "label": "Two cartoon-style students holding cups.",
+      "label": "Two students standing apart in a park",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "String is tight between the cups.",
+      "label": "Paper cups in each student's hand",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Simple outdoor setting.",
+      "label": "Taut string connecting cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Use of cups and string illustrated.",
+      "label": "Arrows along string showing sound travel",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Understands students are using a string telephone to communicate.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Squiggly lines denoting vibrations",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Understands tight string ensures sound travels effectively.",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
+      "label": "Labels 'sound travels' and 'vibrations'",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
     },
     {
       "id": "n8",
-      "label": "Understands the simple setting doesn't affect communication demonstration.",
+      "label": "Shows students communicating over distance using string telephone",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Understands materials are correctly used as a phone system.",
+      "label": "Illustrates sound traveling along the string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n10",
-      "label": "Misunderstanding of how sound travels along the string.",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Understands problem-solving in design",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n11",
-      "label": "Consider adding depictions of sound waves or explanations of sound travel.",
+      "label": "Identifies materials (cups, string)",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n12",
+      "label": "String telephone helps connect over distance",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n13",
+      "label": "Accurate depiction, but labels sometimes missing or incomplete.",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -85,28 +97,44 @@
       "n5"
     ],
     [
-      "n2",
+      "n1",
       "n6"
     ],
     [
-      "n3",
+      "n1",
       "n7"
     ],
     [
-      "n4",
+      "n2",
       "n8"
+    ],
+    [
+      "n3",
+      "n11"
+    ],
+    [
+      "n4",
+      "n9"
     ],
     [
       "n5",
       "n9"
     ],
     [
-      "n5",
-      "n10"
+      "n6",
+      "n9"
     ],
     [
-      "n10",
-      "n11"
+      "n7",
+      "n9"
+    ],
+    [
+      "n4",
+      "n12"
+    ],
+    [
+      "n7",
+      "n13"
     ]
   ]
 }

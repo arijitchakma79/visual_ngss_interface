@@ -1,0 +1,15 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student might draw a plant with some green parts without consistently showing water as a necessary element. (Student may rely on generic features like color but not explicitly link to water.)",
+    "The student attempts to draw a plant but may only capture simple features like leaves or stems without context."
+  ],
+  "CANNOT": [
+    "The student likely does not show a clear distinction between a healthy plant and an unhealthy plant. (Student does not understand the role of water in plant health.)",
+    "The drawing probably lacks clear patterns to differentiate between a plant with water and a plant without it. (Misunderstands or omits the idea of water being essential.)",
+    "The student is unlikely to use the drawing to communicate that plants need water to live and grow. (Fails to make the connection between water and plant growth.)"
+  ]
+}

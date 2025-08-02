@@ -8,55 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Two students using a string telephone",
+      "label": "Two stick figure students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Paper cups connected by a taut red string",
+      "label": "Cups at mouth or ear",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Arrows and wavy lines depicting sound waves",
+      "label": "String connecting cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Students' enjoyment and effective communication",
+      "label": "Outdoor scene with green grass",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Device allows communication over distance",
+      "label": "Aligns with use of string and cups",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Understanding of sound wave transmission",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n8",
-      "label": "Device solves communication problem",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n9",
-      "label": "May not have labeled the cups",
+      "label": "Does not show sound waves",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
+      "id": "n8",
+      "label": "No depiction of communication process",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n9",
+      "label": "Needs illustration of sound traveling",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
       "id": "n10",
-      "label": "Consider labeling all parts of the device",
+      "label": "Needs demonstration of communication method",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -87,23 +87,23 @@
       "n6"
     ],
     [
-      "n3",
-      "n7"
+      "n4",
+      "n6"
     ],
     [
       "n4",
       "n7"
     ],
     [
-      "n5",
+      "n4",
       "n8"
     ],
     [
-      "n5",
+      "n7",
       "n9"
     ],
     [
-      "n9",
+      "n8",
       "n10"
     ]
   ]

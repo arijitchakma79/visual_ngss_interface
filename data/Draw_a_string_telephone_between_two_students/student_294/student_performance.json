@@ -1,17 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can accurately depict two students needing to talk to each other over a distance, with clear indications of their positions relative to each other.",
-    "The student can illustrate a well-designed string telephone connecting the two students and effectively show how it works to send sound over distance (e.g., using clear labels or directional indicators).",
-    "The student can accurately depict that the string telephone uses sound to communicate between the students, possibly through visual or symbolic representations of sound waves.",
-    "The student can clearly show all materials used in the drawing, such as cups and a correctly taut string, effectively representing the construction of the device.",
-    "The student can include thoughtful elements that clearly indicate how the string telephone solves the communication problem over a distance using sound, such as demonstrating the necessity of a tight string and direct line of communication."
+    "The student can draw two students attempting to communicate, illustrating a problem of needing to talk over a distance.",
+    "The student can depict a string telephone with cups at either end, generally conveying the concept of a communication device.",
+    "The student can show some form of connection between the cups (e.g., a line indicating a string, but details may be unclear or simplified)."
   ],
   "CANNOT": [
-    "The student may have minor gaps such as not labeling some parts, or slightly inaccurate depiction of sound transmission (e.g., not showing sound waves explicitly).",
-    "The student may occasionally be inconsistent in finer details, such as not highlighting the importance of keeping the string taut for sound transmission or omitting minor construction details (e.g., holes in cups)."
+    "The student may not clearly illustrate how the cups and string allow people to send and receive sound (e.g., lacks indication of sound waves or movement).",
+    "The student might include additional materials not required, or fail to use only cups and string in their drawing (e.g., adds elements like megaphones or telephones).",
+    "The student may not accurately show how the communication over the string telephone works, possibly missing essential details like the tautness of the string affecting sound transmission.",
+    "The student might have a vague representation of sound traveling through the string, possibly missing out on showing sound waves or the direction of sound travel (e.g., arrows going the wrong way or missing entirely)."
   ]
 }

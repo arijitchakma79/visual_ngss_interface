@@ -8,57 +8,69 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figures standing apart",
+      "label": "Two stick figure students",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Loose, wavy line between figures",
+      "label": "Cups near each ear",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Smiley faces indicating communication intent",
+      "label": "String connecting the cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Represents need to communicate over a distance",
+      "label": "Wavy lines for sound movement",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n6",
+      "label": "Simple design with labeled components",
+      "fillcolor": "#fffdd0",
+      "shape": "rectangle"
+    },
+    {
+      "id": "n7",
+      "label": "Basic understanding of communication using sound",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
-      "id": "n6",
-      "label": "Misunderstanding of string tension",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
-      "id": "n7",
-      "label": "No depiction of cups or string telephone specifics",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
-    },
-    {
       "id": "n8",
-      "label": "Basic understanding: Intent to communicate",
+      "label": "Correct material use: cups and string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Tight string illustration suggestion",
+      "label": "Incomplete understanding of sound travel",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n10",
+      "label": "Wavy line suggests non-taut string",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n11",
+      "label": "String should be taut to transmit sound effectively",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     },
     {
-      "id": "n10",
-      "label": "Include cups to clarify concept",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
+      "id": "n12",
+      "label": "Simplicity in design reflects age-appropriate skill level",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     }
   ],
   "edges": [
@@ -75,28 +87,36 @@
       "n4"
     ],
     [
-      "n2",
+      "n1",
       "n5"
     ],
     [
-      "n3",
+      "n1",
       "n6"
     ],
     [
-      "n3",
+      "n2",
       "n7"
     ],
     [
-      "n4",
+      "n3",
       "n8"
     ],
     [
-      "n6",
+      "n4",
       "n9"
     ],
     [
-      "n7",
+      "n5",
       "n10"
+    ],
+    [
+      "n6",
+      "n12"
+    ],
+    [
+      "n10",
+      "n11"
     ]
   ]
 }

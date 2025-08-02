@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a picture showing plants that have enough water and how they look healthy and growing.",
+    "The student can draw a picture showing plants without water and how they look wilted or not growing well.",
+    "The student can show, through their drawings, the difference in how the plants appear when they either have or do not have water.",
+    "The student can include in their drawing a comparison to highlight the need for water in plants' growth."
+  ],
+  "CANNOT": [
+    "The student might inconsistently label or forget to label the drawings to show which plant is with water and which is without (*minor oversight in labeling*).",
+    "The student might not fully demonstrate the pattern of water being necessary through verbal reasoning alongside their drawings, even if visually represented (*visual but not verbal understanding*)."
+  ]
+}

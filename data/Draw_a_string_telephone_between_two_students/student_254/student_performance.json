@@ -1,19 +1,16 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 3,
-  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
   "CAN": [
-    "The student can draw two students clearly holding cups connected by a string, accurately representing a string telephone.",
-    "The student can show the string connecting the two cups, indicating the path for sound travel.",
-    "The student can illustrate the idea that sound travels through the string by using appropriate symbols, such as lines or arrows, to suggest sound movement.",
-    "The student can depict the general concept that the string telephone allows communication even over distances, possibly by showing the students far apart.",
-    "The student can use labels to indicate components of the string telephone or name the parts involved (e.g., 'cups', 'string')."
+    "The student can draw two people with a general representation of a string telephone connecting them. (Basic outline of the cups and string present)",
+    "The student can partially illustrate that the string between the cups is important for communication. (May attempt to show sound traveling through the string)",
+    "The student can label some parts of the string telephone, such as one of the cups or the string, with varying accuracy."
   ],
   "CANNOT": [
-    "The student may inconsistently label the parts of the system, such as not labeling both the string and cups in all instances.",
-    "The student might not fully illustrate how sound specifically travels through the string, missing details like directional indicators or sound waves.",
-    "The student might show the string sagging excessively, which could imply sound can't travel properly through it *(misinterpretation of tautness importance)*.",
-    "The student could omit or incorrectly illustrate that the device has an impact on communication over longer distances, potentially drawing the students too close together."
+    "The student is likely unable to consistently demonstrate that the string must be pulled tight for effective sound transmission. (May show the string sagging or miss this detail)",
+    "The student may not fully explain how the string telephone works for communication over a distance. (Simple explanation or unclear description)",
+    "The student might not include all necessary labels or might mislabel parts of the device. (Inconsistent or missing labels)"
   ]
 }

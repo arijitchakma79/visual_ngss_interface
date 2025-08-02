@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may draw a basic shape resembling a plant but without clear details or distinctions between healthy and unhealthy plants.",
+    "The student might include some green color to represent leaves on the plant without differentiating between healthy and unhealthy states."
+  ],
+  "CANNOT": [
+    "The student is unlikely to differentiate between plants with healthy green leaves and those with wilted or brown leaves *(student does not understand how water affects plant health)*.",
+    "The student may not include any indicators of water such as raindrops or a watering can near plants *(student doesn’t understand the relationship between water source and plant health)*.",
+    "The drawing is unlikely to show the concept of dry soil or the absence of rain near unhealthy plants *(student is not aware of indicators of plant drought)*.",
+    "The student is unable to demonstrate the pattern that plants need water to look healthy and grow *(student is unaware of this cause-effect relationship)*."
+  ]
+}

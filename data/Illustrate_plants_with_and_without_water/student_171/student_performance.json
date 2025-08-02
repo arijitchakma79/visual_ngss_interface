@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a plant that has water and looks healthy and green.",
+    "The student can draw a plant without water and show it looking wilted or dry.",
+    "The student can show a pattern by including two drawings side by side: one of a plant with water and one without.",
+    "The student can use simple labels, like 'water' and 'no water,' to clearly show the difference between the two plants."
+  ],
+  "CANNOT": [
+    "The student may inconsistently include or inaccurately depict the sun as a source of light, or the sun might be missing in one of the drawings (student may not fully understand the role of sunlight).",
+    "Illustrations that represent the growth and health differences might lack some detail or clarity (student shows general differences but may omit subtle details)."
+  ]
+}

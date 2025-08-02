@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw the material in its initial state as solid ice, recognizing the first step in the reversible process.",
+    "The student can depict the melting of ice into water, partially showing understanding of the change from solid to liquid.",
+    "The student can label the change between solid ice and liquid water as 'reversible' in their drawing, indicating a basic grasp of reversibility."
+  ],
+  "CANNOT": [
+    "The student may struggle to accurately illustrate the freezing process of water turning back into ice, possibly omitting details or showing it occurring incorrectly due to confusion about the reverse process.",
+    "The student may not include, or inaccurately depict, the conditions or reasons for reversibility, such as lowering temperatures causing water to refreeze *(student may not yet connect environmental changes to the material's state change)*.",
+    "The student might incorrectly sequence steps or provide inaccurate labeling, such as writing 'irreversible' next to the melting step due to misunderstanding the full cycle."
+  ]
+}

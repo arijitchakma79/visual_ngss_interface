@@ -1,0 +1,15 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 2,
+  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "CAN": [
+    "The student can draw a healthy plant that has water but may only show basic features like green leaves and a simple shape.",
+    "The student can draw an unhealthy or wilted plant without water, possibly showing droopy leaves or a less vibrant color."
+  ],
+  "CANNOT": [
+    "The student might omit the sun or include it inconsistently, not fully understanding its importance for plant health (student may not know plants need light).",
+    "The student may not show a plant growing towards the light or may attempt this with incorrect placement (student unclear about the concept of phototropism).",
+    "The student might not label the healthy and unhealthy plants or might misunderstand labeling (student might mix up which plant is healthy or unhealthy)."
+  ]
+}

@@ -8,55 +8,55 @@
     },
     {
       "id": "n2",
-      "label": "Two stick figures close to each other",
+      "label": "Two stick figure students standing apart.",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "String slightly disconnected from cups",
+      "label": "Cups held to ear or mouth",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Mismatched colors: blue/purple figures, red cups, green string",
+      "label": "Cups connected by a string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "No arrows or labels indicating sound travel",
+      "label": "Simple black lines or arrows indicate sound traveling",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "The student understands the basic setup of a string telephone",
+      "label": "Depicts a basic understanding of how a string telephone allows communication.",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n7",
-      "label": "Misunderstanding: Unclear on sound transmission",
-      "fillcolor": "lightcoral",
-      "shape": "diamond"
+      "label": "Shows how a string telephone uses cups and string.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Misunderstanding: Lacks concept of distance in sound transmission",
+      "label": "Clear connection between students with string telephone.",
+      "fillcolor": "palegreen",
+      "shape": "roundbox"
+    },
+    {
+      "id": "n9",
+      "label": "Correct depiction of sound direction but string appears slightly loose.",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
-      "id": "n9",
-      "label": "Feedback: Use directional arrows or labels to show sound travel",
-      "fillcolor": "#f28e8e",
-      "shape": "parallelogram"
-    },
-    {
       "id": "n10",
-      "label": "Feedback: Draw students further apart for distance understanding",
+      "label": "The string should be taut for effective sound transmission.",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -87,19 +87,19 @@
       "n7"
     ],
     [
-      "n2",
+      "n4",
       "n8"
     ],
     [
-      "n5",
-      "n8"
-    ],
-    [
-      "n3",
+      "n4",
       "n9"
     ],
     [
-      "n8",
+      "n5",
+      "n9"
+    ],
+    [
+      "n9",
       "n10"
     ]
   ]

@@ -1,0 +1,19 @@
+{
+  "Topic": "Draw reversible changes (ice melting)",
+  "Code": "2-PS1-4",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "Draw the ice in its solid form before being heated, showing characteristics like its solid shape.",
+    "Draw the transition to liquid water after heating, illustrating the melting process with liquid characteristics.",
+    "Demonstrate the freezing process to show water turning back into ice, indicating it's a reversible change.",
+    "Include arrows or labels to indicate the direction of changes, such as melting and freezing, with appropriate cues.",
+    "Partially indicate temperature changes with simple cues (like sun or snowflake symbols), but may not elaborate."
+  ],
+  "CANNOT": [
+    "Include detailed visual representations of temperature change or its impact (e.g., exact temperature indications).",
+    "Consistently differentiate between warming and cooling phases with advanced details (e.g., specific temperature ranges).",
+    "Show complete understanding of the microscopic changes in state (e.g., molecular structure changes).",
+    "Always note or illustrate the process as reversible in all possible cases (occasional missing reversibility indicators)."
+  ]
+}

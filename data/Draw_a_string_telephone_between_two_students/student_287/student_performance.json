@@ -1,19 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 4,
-  "Level Description": "Advanced (complete and accurate representation of all elements)",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
   "CAN": [
-    "Draw a device showing two students trying to communicate over a distance using a string telephone.",
-    "Illustrate how sound helps the string telephone work by traveling through the string, possibly using arrows to depict sound waves.",
-    "Show the string telephone connecting to each student's ear and mouth, depicting how the communication happens.",
-    "Label parts of the drawing to show that the device uses sound to transmit messages, like labeling 'sound waves' next to arrows.",
-    "Depict or label the importance of using technology, in this case, the string telephone, to communicate over distances, such as writing 'communication' or 'distance communication'.",
-    "Demonstrate an understanding that technology helps people communicate when they are far apart, which might be shown in a brief summary below the drawing.",
-    "Include a brief note explaining how communication over long distances is helpful, such as a sentence like 'This helps us share messages when we are in different places.'"
+    "The student can draw and label a basic string telephone setup with two cups and a string.",
+    "The student can illustrate sound waves traveling through the string with wavy lines, generally indicating the presence of sound.",
+    "The student can include two students at each end of the string telephone, possibly even labeling them.",
+    "The student can demonstrate the importance of the device by illustrating a simple scene where long-distance communication is beneficial, such as two friends talking across a garden."
   ],
   "CANNOT": [
-    "The student might still occasionally omit minor labels, such as forgetting to label the cup as a 'receiver' or 'transmitter' in the string telephone setup (although they understand the concept).",
-    "May sometimes not depict exact technical accuracy, such as showing a perfectly taut string, which could inaccurately suggest real-life application is always perfect (even if they understand the need for tightness)."
+    "The student may inconsistently label parts of the string telephone, possibly omitting the label for sound waves or a part of the device.",
+    "The student might not fully represent materials realistically, such as using imaginative or unrealistic components instead of cups or string *(design creativity over realism)*.",
+    "The student might not clearly show the context or utility of the string telephone without additional explanation *(scene might lack clear context)*."
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may draw a basic shape resembling a plant, such as a stick figure with a circle for a flower or simply scribbles to represent plants.",
+    "The student might use green color to indicate a plant, but without distinct features like leaves or roots."
+  ],
+  "CANNOT": [
+    "The student is unlikely to show a difference between a healthy plant and a wilting one (student may not recognize or know how to depict differences).",
+    "The student may not include water or might incorrectly place it, such as drawing water away from the plant (student doesn't understand water's role).",
+    "There might be no distinction in terms of light effects; both plants may look identical (student doesn't know light impacts plants).",
+    "The student may mix up images, showing elements like sunshine where it’s supposed to be dark or vice versa (confusion about environmental elements).",
+    "Any attempt to show plant growth phases or health due to water/light is likely absent or incorrect (student lacks understanding of plant growth conditions)."
+  ]
+}

@@ -2,73 +2,73 @@
   "nodes": [
     {
       "id": "n1",
-      "label": "Draw a string telephone between two students.",
+      "label": "Draw a string telephone between two students",
       "fillcolor": "lightblue",
       "shape": "hexagon"
     },
     {
       "id": "n2",
-      "label": "Two students standing far apart",
+      "label": "Boy with cup to ear",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Taut string connecting the cups",
+      "label": "Girl speaking into cup",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Dashed lines around the string (sound waves)",
+      "label": "Straight blue string connecting cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Labels: cups and string",
+      "label": "Red arrows indicating sound waves",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Neat, detailed drawing with colors",
+      "label": "Contextual setting: grassy field, sunny sky",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Communicates over distance effectively",
+      "label": "Understanding of string telephone setup",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Demonstrates sound transmission",
+      "label": "Illustration of sound travel through string",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Shows use of sound, not light",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n10",
-      "label": "Representation of accurate materials",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n11",
-      "label": "Forgets a minor label",
+      "label": "Inconsistent indication of sound waves",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
+      "id": "n10",
+      "label": "Lack of labels on cups",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n11",
+      "label": "Add labels to identify components clearly",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
       "id": "n12",
-      "label": "Ensure all labels are included.",
+      "label": "Extend sound waves beyond cups",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -100,23 +100,35 @@
     ],
     [
       "n3",
+      "n7"
+    ],
+    [
+      "n4",
       "n8"
+    ],
+    [
+      "n5",
+      "n9"
     ],
     [
       "n4",
       "n9"
     ],
     [
-      "n5",
+      "n3",
       "n10"
     ],
     [
-      "n5",
-      "n11"
+      "n7",
+      "n8"
     ],
     [
-      "n11",
+      "n9",
       "n12"
+    ],
+    [
+      "n10",
+      "n11"
     ]
   ]
 }

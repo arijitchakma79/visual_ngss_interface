@@ -8,67 +8,67 @@
     },
     {
       "id": "n2",
-      "label": "Boy speaking into cup, girl listening with cup",
+      "label": "Two students holding cups and string",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n3",
-      "label": "Taut string connecting cups with sound waves",
+      "label": "String connecting the cups",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n4",
-      "label": "Colorful, casual clothing",
+      "label": "Label included for 'cup' and 'string'",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n5",
-      "label": "Smiling faces showing communication",
+      "label": "Arrows indicating sound travel",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n6",
-      "label": "Incomplete or missing labels on cups and string",
+      "label": "Outdoor setting with tree or bench",
       "fillcolor": "#fffdd0",
       "shape": "rectangle"
     },
     {
       "id": "n7",
-      "label": "Understanding of sending and receiving information",
+      "label": "Illustrates communication over distance",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n8",
-      "label": "Understanding of sound traveling through string",
+      "label": "Correctly shows how the device works",
       "fillcolor": "palegreen",
       "shape": "roundbox"
     },
     {
       "id": "n9",
-      "label": "Depiction of communication aids",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n10",
-      "label": "Communication over distance with simple technology",
-      "fillcolor": "palegreen",
-      "shape": "roundbox"
-    },
-    {
-      "id": "n11",
-      "label": "Forgetting to label parts of the device",
+      "label": "Minor labeling omissions",
       "fillcolor": "lightcoral",
       "shape": "diamond"
     },
     {
+      "id": "n10",
+      "label": "Sound waves are overly simplified",
+      "fillcolor": "lightcoral",
+      "shape": "diamond"
+    },
+    {
+      "id": "n11",
+      "label": "Consider labeling both cups",
+      "fillcolor": "#f28e8e",
+      "shape": "parallelogram"
+    },
+    {
       "id": "n12",
-      "label": "Remember to label all parts: cups, string, etc.",
+      "label": "Introduce more complex depiction of sound waves",
       "fillcolor": "#f28e8e",
       "shape": "parallelogram"
     }
@@ -103,19 +103,19 @@
       "n8"
     ],
     [
-      "n5",
+      "n4",
       "n9"
     ],
     [
-      "n2",
+      "n5",
       "n10"
     ],
     [
-      "n6",
+      "n9",
       "n11"
     ],
     [
-      "n11",
+      "n10",
       "n12"
     ]
   ]

@@ -1,0 +1,16 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 3,
+  "Level Description": "Proficient (shows most elements clearly and correctly)",
+  "CAN": [
+    "The student can draw a plant with water and show it is healthy, using visual cues such as green leaves and standing upright.",
+    "The student can draw a plant without water and depict it as unhealthy, with wilted and drooping leaves.",
+    "The student can include sunlight in the drawing to indicate that plants also need light to live and grow.",
+    "The student may attempt to compare and identify differences between the plant with water and the plant without, noting changes in appearance due to lack of water."
+  ],
+  "CANNOT": [
+    "The student might forget to label the drawings clearly or might incorrectly label the healthy and unhealthy plants (e.g., labeling the wilted plant as 'healthy').",
+    "The student might not show the need for water in animals or may inconsistently demonstrate this understanding (e.g., may only draw some animals drinking water or omit this part entirely)."
+  ]
+}

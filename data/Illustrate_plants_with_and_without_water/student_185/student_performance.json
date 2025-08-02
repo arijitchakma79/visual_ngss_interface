@@ -1,0 +1,17 @@
+{
+  "Topic": "Illustrate plants with and without water.",
+  "Code": "K-LS1-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "The student may draw a basic shape of a plant without distinguishing between healthy or unhealthy appearances.",
+    "The student might attempt to draw both a plant with and without water but may not show clear differences between their conditions."
+  ],
+  "CANNOT": [
+    "The student is unlikely to correctly depict a healthy plant as green and standing up (may not know what a healthy plant looks like).",
+    "The student may not represent an unhealthy plant as brown, wilting, or drooping (may think all plants look the same).",
+    "The student is unlikely to include a sunlight source in the drawing or understand its role (may not know plants need sunlight).",
+    "The student is unlikely to organize the drawing to clearly compare plants with and without water (may place drawings randomly).",
+    "The student may not use the drawing to explain that plants need water to live and grow (lacks understanding of the concept)."
+  ]
+}

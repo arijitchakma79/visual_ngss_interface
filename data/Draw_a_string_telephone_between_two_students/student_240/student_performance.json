@@ -1,17 +1,17 @@
 {
   "Topic": "Draw a string telephone between two students.",
   "Code": "1-PS4-4",
-  "Level": 2,
-  "Level Description": "Developing (emerging understanding, basic elements shown)",
+  "Level": 4,
+  "Level Description": "Advanced (complete and accurate representation of all elements)",
   "CAN": [
-    "The student can draw two students holding cups, suggesting a basic setup of a string telephone.",
-    "The student may show the string connecting the cups relatively straight, indicating an emerging understanding that the string needs to be tight.",
-    "The student can attempt to illustrate sound waves or lines around the students’ mouths, suggesting communication through sound."
+    "Draw a detailed string telephone setup, clearly depicting two students using the device to communicate.",
+    "Accurately show the string or wire connecting the two devices, ensuring the connection is clear and correctly positioned.",
+    "Illustrate how sound travels through the string from one student to the other, possibly using arrows or annotations to show the direction of sound travel.",
+    "Demonstrate how the device functions over a distance, effectively highlighting communication between the two points with correctly spaced figures and extended string.",
+    "Identify and label all materials used in the design of the string telephone, such as cups or cans and the string, ensuring each component is correctly labeled."
   ],
   "CANNOT": [
-    "The student may not clearly depict the string being tightly stretched between the cups, potentially showing it sagging or with slack (misunderstanding of tension requirement).",
-    "The student may not effectively illustrate how the string telephone is a technology to overcome communication over distance, possibly omitting any elements showing distance between students.",
-    "The student might not explicitly show or label the sound as the method of communication over the string (lack of clarity on how sound travels).",
-    "The student may not illustrate or mention the dependence on simple technologies for communication (might not understand the broader context)."
+    "Might miss labeling one minor component or feature inconsistently (e.g., forgetting to label the material of the cups in one instance).",
+    "Could include minor inaccuracies in the depiction of sound travel (e.g., inconsistent use of arrows to indicate sound direction, although the concept is generally understood)."
   ]
 }

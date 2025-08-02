@@ -1,0 +1,16 @@
+{
+  "Topic": "Draw a habitat and the different living things in each",
+  "Code": "2-LS4-1",
+  "Level": 1,
+  "Level Description": "Beginning (minimal or no understanding)",
+  "CAN": [
+    "Draw basic shapes that might represent land and water, though not clearly identified (e.g., a patch of green next to a blue shape).",
+    "Include a few recognizable living things, like simple stick trees or generalized animals (e.g., circles with short lines for legs)."
+  ],
+  "CANNOT": [
+    "Distinguish clearly between land and water habitats (e.g., may place fish among trees without a pond shape).",
+    "Illustrate specific plants and animals to show diversity (e.g., all creatures look similar, possibly all unidentifiable as specific living things).",
+    "Demonstrate comparisons between different habitats (e.g., fails to show differences between a forest and a pond).",
+    "Use patterns to show how different habitats support different kinds of plants and animals (e.g., identical representations of living things in both habitats)."
+  ]
+}
